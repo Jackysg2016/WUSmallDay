@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5796EC141BCB60CC0039FC9E /* Explore.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC131BCB60CC0039FC9E /* Explore.storyboard */; settings = {ASSET_TAGS = (); }; };
+		5796EC161BCB60F00039FC9E /* Experience.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC151BCB60F00039FC9E /* Experience.storyboard */; settings = {ASSET_TAGS = (); }; };
+		5796EC221BCB61570039FC9E /* Classify.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC211BCB61570039FC9E /* Classify.storyboard */; settings = {ASSET_TAGS = (); }; };
+		5796EC271BCB61710039FC9E /* My.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC261BCB61710039FC9E /* My.storyboard */; settings = {ASSET_TAGS = (); }; };
 		57A4F1701BC91F8200BB72D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F16F1BC91F8200BB72D4 /* main.m */; };
 		57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1721BC91F8200BB72D4 /* AppDelegate.m */; };
 		57A4F1791BC91F8200BB72D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F1771BC91F8200BB72D4 /* Main.storyboard */; };
@@ -18,7 +22,6 @@
 		57A4F1AE1BCB4BA700BB72D4 /* viewControllers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F1AD1BCB4BA700BB72D4 /* viewControllers.plist */; settings = {ASSET_TAGS = (); }; };
 		57A4F1B11BCB4D0E00BB72D4 /* WUExploreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1B01BCB4D0E00BB72D4 /* WUExploreViewController.m */; settings = {ASSET_TAGS = (); }; };
 		57A4F1B51BCB4D1E00BB72D4 /* WUExperienceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1B31BCB4D1E00BB72D4 /* WUExperienceViewController.m */; settings = {ASSET_TAGS = (); }; };
-		57A4F1B61BCB4D1E00BB72D4 /* WUExperienceViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F1B41BCB4D1E00BB72D4 /* WUExperienceViewController.xib */; settings = {ASSET_TAGS = (); }; };
 		57A4F1B91BCB4D2A00BB72D4 /* WUClassifyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1B81BCB4D2A00BB72D4 /* WUClassifyViewController.m */; settings = {ASSET_TAGS = (); }; };
 		57A4F1BC1BCB4D3500BB72D4 /* WUMyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1BB1BCB4D3500BB72D4 /* WUMyViewController.m */; settings = {ASSET_TAGS = (); }; };
 		BE8D0F928AE44F194A4D0FA6 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A997B3CFE4847447731E48F4 /* libPods.a */; };
@@ -44,6 +47,10 @@
 /* Begin PBXFileReference section */
 		19BB5DF0D0B25747D507C748 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		5796EC121BCB57050039FC9E /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
+		5796EC131BCB60CC0039FC9E /* Explore.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Explore.storyboard; sourceTree = "<group>"; };
+		5796EC151BCB60F00039FC9E /* Experience.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Experience.storyboard; sourceTree = "<group>"; };
+		5796EC211BCB61570039FC9E /* Classify.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Classify.storyboard; sourceTree = "<group>"; };
+		5796EC261BCB61710039FC9E /* My.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = My.storyboard; sourceTree = "<group>"; };
 		57A4F16B1BC91F8200BB72D4 /* SmallDay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmallDay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A4F16F1BC91F8200BB72D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		57A4F1711BC91F8200BB72D4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -66,7 +73,6 @@
 		57A4F1B01BCB4D0E00BB72D4 /* WUExploreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreViewController.m; sourceTree = "<group>"; };
 		57A4F1B21BCB4D1E00BB72D4 /* WUExperienceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExperienceViewController.h; sourceTree = "<group>"; };
 		57A4F1B31BCB4D1E00BB72D4 /* WUExperienceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExperienceViewController.m; sourceTree = "<group>"; };
-		57A4F1B41BCB4D1E00BB72D4 /* WUExperienceViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WUExperienceViewController.xib; sourceTree = "<group>"; };
 		57A4F1B71BCB4D2A00BB72D4 /* WUClassifyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUClassifyViewController.h; sourceTree = "<group>"; };
 		57A4F1B81BCB4D2A00BB72D4 /* WUClassifyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUClassifyViewController.m; sourceTree = "<group>"; };
 		57A4F1BA1BCB4D3500BB72D4 /* WUMyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUMyViewController.h; sourceTree = "<group>"; };
@@ -102,6 +108,102 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5796EC171BCB60FC0039FC9E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		5796EC181BCB61010039FC9E /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5796EC131BCB60CC0039FC9E /* Explore.storyboard */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		5796EC191BCB61060039FC9E /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				57A4F1AF1BCB4D0E00BB72D4 /* WUExploreViewController.h */,
+				57A4F1B01BCB4D0E00BB72D4 /* WUExploreViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		5796EC1A1BCB611F0039FC9E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		5796EC1B1BCB61220039FC9E /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5796EC151BCB60F00039FC9E /* Experience.storyboard */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		5796EC1C1BCB61240039FC9E /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				57A4F1B21BCB4D1E00BB72D4 /* WUExperienceViewController.h */,
+				57A4F1B31BCB4D1E00BB72D4 /* WUExperienceViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		5796EC1D1BCB61330039FC9E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		5796EC1F1BCB61410039FC9E /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5796EC211BCB61570039FC9E /* Classify.storyboard */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		5796EC201BCB61450039FC9E /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				57A4F1B71BCB4D2A00BB72D4 /* WUClassifyViewController.h */,
+				57A4F1B81BCB4D2A00BB72D4 /* WUClassifyViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		5796EC231BCB615E0039FC9E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		5796EC241BCB61620039FC9E /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5796EC261BCB61710039FC9E /* My.storyboard */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		5796EC251BCB61640039FC9E /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				57A4F1BA1BCB4D3500BB72D4 /* WUMyViewController.h */,
+				57A4F1BB1BCB4D3500BB72D4 /* WUMyViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
 		57A4F1621BC91F8200BB72D4 = {
 			isa = PBXGroup;
 			children = (
@@ -186,8 +288,9 @@
 		57A4F1A21BCB47DA00BB72D4 /* Classify(分类) */ = {
 			isa = PBXGroup;
 			children = (
-				57A4F1B71BCB4D2A00BB72D4 /* WUClassifyViewController.h */,
-				57A4F1B81BCB4D2A00BB72D4 /* WUClassifyViewController.m */,
+				5796EC201BCB61450039FC9E /* Controller */,
+				5796EC1F1BCB61410039FC9E /* View */,
+				5796EC1D1BCB61330039FC9E /* Model */,
 			);
 			name = "Classify(分类)";
 			path = Classify;
@@ -196,9 +299,9 @@
 		57A4F1A31BCB47DA00BB72D4 /* Experience(体验) */ = {
 			isa = PBXGroup;
 			children = (
-				57A4F1B21BCB4D1E00BB72D4 /* WUExperienceViewController.h */,
-				57A4F1B31BCB4D1E00BB72D4 /* WUExperienceViewController.m */,
-				57A4F1B41BCB4D1E00BB72D4 /* WUExperienceViewController.xib */,
+				5796EC1C1BCB61240039FC9E /* Controller */,
+				5796EC1B1BCB61220039FC9E /* View */,
+				5796EC1A1BCB611F0039FC9E /* Model */,
 			);
 			name = "Experience(体验)";
 			path = Experience;
@@ -207,8 +310,9 @@
 		57A4F1A41BCB47DA00BB72D4 /* Explore(探店) */ = {
 			isa = PBXGroup;
 			children = (
-				57A4F1AF1BCB4D0E00BB72D4 /* WUExploreViewController.h */,
-				57A4F1B01BCB4D0E00BB72D4 /* WUExploreViewController.m */,
+				5796EC191BCB61060039FC9E /* Controller */,
+				5796EC181BCB61010039FC9E /* View */,
+				5796EC171BCB60FC0039FC9E /* Model */,
 			);
 			name = "Explore(探店)";
 			path = Explore;
@@ -217,8 +321,9 @@
 		57A4F1A51BCB47DA00BB72D4 /* My(我的) */ = {
 			isa = PBXGroup;
 			children = (
-				57A4F1BA1BCB4D3500BB72D4 /* WUMyViewController.h */,
-				57A4F1BB1BCB4D3500BB72D4 /* WUMyViewController.m */,
+				5796EC251BCB61640039FC9E /* Controller */,
+				5796EC241BCB61620039FC9E /* View */,
+				5796EC231BCB615E0039FC9E /* Model */,
 			);
 			name = "My(我的)";
 			path = My;
@@ -355,8 +460,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				57A4F1B61BCB4D1E00BB72D4 /* WUExperienceViewController.xib in Resources */,
+				5796EC221BCB61570039FC9E /* Classify.storyboard in Resources */,
+				5796EC271BCB61710039FC9E /* My.storyboard in Resources */,
 				57A4F1AE1BCB4BA700BB72D4 /* viewControllers.plist in Resources */,
+				5796EC161BCB60F00039FC9E /* Experience.storyboard in Resources */,
+				5796EC141BCB60CC0039FC9E /* Explore.storyboard in Resources */,
 				57A4F17B1BC91F8200BB72D4 /* Assets.xcassets in Resources */,
 				57A4F1791BC91F8200BB72D4 /* Main.storyboard in Resources */,
 			);

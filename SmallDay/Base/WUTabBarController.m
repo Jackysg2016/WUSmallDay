@@ -32,16 +32,17 @@
     NSArray *array = [NSArray arrayWithContentsOfFile:filePath];
     NSMutableArray *viewControllerArr = @[].mutableCopy;
     for (NSDictionary *dict in array) {
-        WUBaseViewController *viewController = [[NSClassFromString(dict[@"className"]) alloc] init];
+       
+        UIStoryboard *storyBoard = [UIStoryboard storyboardWithName:dict[@"storyBoard"] bundle:[NSBundle mainBundle]];
+        WUBaseViewController *viewController = [storyBoard instantiateViewControllerWithIdentifier:dict[@"storyBoard"]];
         viewController.tabBarItem.image = [[UIImage imageNamed:[dict[@"iconName"] stringByAppendingString:@"_1"]] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
         viewController.tabBarItem.selectedImage = [[UIImage imageNamed:[dict[@"iconName"] stringByAppendingString:@"_2"]] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
         viewController.title = dict[@"title"];
-        UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:viewController];
-        
-        [viewControllerArr addObject:nav];
+        [viewControllerArr addObject:viewController];
     }
     self.viewControllers = viewControllerArr;
     self.tabBar.tintColor = [UIColor blackColor];
+    
 
 }
 
