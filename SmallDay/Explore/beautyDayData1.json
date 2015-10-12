@@ -1,0 +1,1331 @@
+{
+    "msg": "Request is successful",
+    "code": 1,
+    "list": [
+             {
+             "date": "2015-10-12",
+             "themes": [
+                        {
+                        "themeurl": "http://api.xiaorizi.me/api/themedetail/?themeid=287",
+                        "img": "http://pic.huodongjia.com/event/2015-10-08/event141621.jpg",
+                        "title": "国饮的新旧传承",
+                        "text": "<body><p>中国茶道是东方文化的瑰宝，它表现为四大理念：天人合一、物我玄会是哲学基础；智者乐水、仁者乐山是人文思索； 涤除玄鉴、澄怀味象是审美诉求；道法自然、保合太和是茶道美学的基本法则。四大支柱互相依存，共同构筑着茶道美学大厦。</p><p>而我们却认为饮茶是老年人的乐趣，我们不懂茶，也就懒去喝茶了。但总有那么一群人希望茶作为我们的国饮，也能受到年轻人的欢迎，让喝茶这件事也符合我们的时尚、活跃、不想跟老土的东西搭边，也不想过于附庸风雅的年轻个性。</p><p>于是他们将传统的茶叶与富有时尚快捷的工具相结合，这种颠覆观念的方式，其新奇之处就在于改变人们喝茶老气的既定看法，在赋予茶新生命活力的同时，也让茶跳离年龄圈层的限制，更加趋于年轻化和时尚化，使茶真正成为一种日常饮品为大众所接受。</p></body>",
+                        "hasweb": 0,
+                        "height": 400,
+                        "width": 640,
+                        "begin_time": "2015-10-10",
+                        "keywords": "交替 融合 创新",
+                        "id": 287
+                        }
+                        ],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131722.html",
+                        "telephone": "021-62987006",
+                        "tag": "温润,雅韵,惬意,咖啡馆",
+                        "sponsor": {},
+                        "id": 131722,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "茶与咖啡的曼妙结合",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "香风丽道咖啡与茶，朗朗上口的名字，茶与咖啡共处一所，爱茶者静静品茗，喜咖啡者捧杯轻尝，曼妙不已。",
+                        "note": "",
+                        "feeltitle": "有态度 就算坠入繁琐那有怎样",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "艺术空间里 静享一种茶生活",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区永嘉路689弄1号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-14/event115344.jpg",
+                                          "http://pic.huodongjia.com/event/2015-04-10/event114609.jpg"
+                                          ],
+                                 "position": "121.453536716,31.2102101802",
+                                 "id": 129390
+                                 },
+                                 {
+                                 "title": "那一抹小众独特香",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "西藏中路268号来福士一楼",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-21/event117926.jpg"
+                                          ],
+                                 "position": "121.48323135,31.2380699334",
+                                 "id": 129764
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.449457036,31.2473977849",
+                                     "title": "Traveled Coffee & Tea",
+                                     "address": "普陀区莫干山路50号M50创意园区内",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "普陀区莫干山路50号M50创意园区内",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-10-10/event142112.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "Traveled Coffee & Tea",
+                        "enddate": 3021254471,
+                        "mobileURL": "<body><html><head></head><body><p><strong></strong>Traveled Coffee &amp; Tea，又叫香风丽道咖啡与茶。坐落于M50创意园区内，红砖木门，透露出一种宁静淡雅来。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-10/event142113.jpg\" height=\"630\" src=\"http://pic.huodongjia.com/event/2015-10-10/event142113.jpg\" width=\"523\"></img></p><p>店内木桌藤椅，摆设走的是简约风格，朴素却不显单调，令人印象深刻。天花板上吊着用竹篾编制的灯罩，趣意非凡。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-10/event142109.jpg\" height=\"631\" src=\"http://pic.huodongjia.com/event/2015-10-10/event142109.jpg\" width=\"524\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-10/event142111.jpg\" height=\"533\" src=\"http://pic.huodongjia.com/event/2015-10-10/event142111.jpg\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-10/event142115.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-10/event142115.jpg\" width=\"527\"></img></p><p>靠近玻璃窗边的座位设有沙发，靠垫。适合爱喝咖啡的人窝在这里。</p><p><strong></strong><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-10/event142110.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-10/event142110.jpg\" width=\"525\"></img></p><p><strong></strong>香风丽道咖啡与茶，朗朗上口的名字，茶与咖啡共处一所，爱茶者静静品茗，喜咖啡者捧杯轻尝，曼妙不已。</p><p><strong></strong><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-10/event142122.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-10-10/event142122.jpg\" width=\"700\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-10/event142121.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-10-10/event142121.jpg\" width=\"700\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-10/event142123.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-10/event142123.jpg\" width=\"523\"></img></p><p><strong></strong>生活是这样子，不如诗，转身撞到现实，又怎样？有咖啡，有清茶，自然有更加不惧坚硬的现实了。</p><p><strong></strong><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-10/event142124.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-10/event142124.jpg\" width=\"523\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-10/event142118.jpg\" height=\"650\" src=\"http://pic.huodongjia.com/event/2015-10-10/event142118.jpg\" width=\"434\"></img></p><p><strong style=\"font-size: 13px; line-height: 1.6em;\">地址： </strong>普陀区莫干山路50号M50创意园区内(近澳门路)<strong></strong></p><p><strong>营业时间：</strong> 9:30 – 18:30</p><p><strong>联系电话：</strong> 021-62987006</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131722,
+                        "position": "121.449457036,31.2473977849"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-11",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131698.html",
+                        "telephone": "021-52951116",
+                        "tag": "温润,有趣,餐吧,咖啡馆",
+                        "sponsor": {},
+                        "id": 131698,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "藏式咖啡馆里的飘香",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "坐在店内饮咖啡酒餐，看着周围空旷质朴的装饰，不由得让人想起那个远在千里的西藏来。咖啡香飘满在这个异域氛围的小馆内，令你我难以忘怀。",
+                        "note": "",
+                        "feeltitle": "真正的狠是心底的从容",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "边吃边画的插画餐厅",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区体育馆1号门（星巴克旁边）",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-11/event137662.jpg"
+                                          ],
+                                 "position": "121.407606,31.177064",
+                                 "id": 131408
+                                 },
+                                 {
+                                 "title": "60-70后永恒的记忆",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "浦东新区兰花路235号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-21/event117691.jpg"
+                                          ],
+                                 "position": "121.566992232,31.2122258329",
+                                 "id": 129744
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.447094855,31.2485582455",
+                                     "title": "J·COFFEE",
+                                     "address": "普陀区莫干山路99号",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "普陀区莫干山路99号",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-10-09/event141834.JPG"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "J·COFFEE",
+                        "enddate": 3021176887,
+                        "mobileURL": "<body><html><head></head><body><p><strong></strong>J·COFFEE，在小清新的外表下面，隐藏着浓浓的藏式风味的咖啡馆，独特又别致，让所有来过的人都耳目一新。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141822.jpg\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141822.jpg\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141821.jpg\" height=\"465\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141821.jpg\" width=\"700\"></img></p><p>走进店里，就会感觉到西藏风格的装饰和摆设。店主常年旅行，最爱的地方就是青藏高原。所以，你能在店里看到随手写在柱子上的书法手迹，随处摆放的手串佛珠。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141833.JPG\" height=\"428\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141833.JPG\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141835.JPG\" height=\"956\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141835.JPG\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141837.JPG\" height=\"428\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141837.JPG\" width=\"640\"></img></p><p>店内的风格朴实粗旷，却又不失温馨。大的原木桌子和各类沙发抱枕，让人又心生确定，这的确是一家咖啡馆。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141836.JPG\" height=\"428\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141836.JPG\" width=\"640\"></img></p><p>店内还有一幅大大的墙画，画的是布达拉宫，店主已经把对西藏的爱淋漓尽致地表现在整个店的氛围中了。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141828.JPG\" height=\"428\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141828.JPG\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141827.jpg\" height=\"411\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141827.jpg\" width=\"700\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141825.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141825.jpg\" width=\"525\"></img></p><p><strong></strong>店内的咖啡和简餐也深得客人的称道，味道好并且量足。坐在店内饮咖啡酒餐，看着周围空旷质朴的装饰，不由得让人想起那个远在千里的西藏来。咖啡香飘满在这个异域氛围的小馆内，令你我难以忘怀。</p><p><strong></strong><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141838.JPG\" height=\"428\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141838.JPG\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141839.JPG\" height=\"428\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141839.JPG\" width=\"640\"></img>​</p><p><strong>地址：</strong> 普陀区莫干山路99号(近M50艺术园区)</p><p><strong>营业时间：</strong> 10:30-20:00</p><p><strong>联系电话：</strong> 021-52951116</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131698,
+                        "position": "121.447094855,31.2485582455"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-10",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131692.html",
+                        "telephone": "021-64387076",
+                        "tag": "幸福,纯质,咖啡馆",
+                        "sponsor": {},
+                        "id": 131692,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "天青色里一缕咖啡香",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "几千年流传下来的瓷器之韵味，数十代传承下来的陶瓷艺术，汇聚而成举世闻名的龙泉青瓷，放在咖啡馆内，中西文化出奇地和谐一致，令人心生惬意。",
+                        "note": "",
+                        "feeltitle": "安分的做自己",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "甜与白的日风美好杂货铺",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "上海复兴西路230弄4号楼3楼三生川内",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-03-28/event1427511262.6.jpg"
+                                          ],
+                                 "position": "121.445214,31.217502",
+                                 "id": 129238
+                                 },
+                                 {
+                                 "title": "体味咖啡的本质",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "卢湾区 马当路245号新天地时尚1楼(自忠路口",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-24/event140213.jpg"
+                                          ],
+                                 "position": "121.48157,31.223033",
+                                 "id": 131584
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.449135487,31.2162881409",
+                                     "title": "萨兰通咖啡馆",
+                                     "address": "徐汇区长乐路685-1号红色大门",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "徐汇区长乐路685-1号红色大门",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-10-09/event141779.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "萨兰通咖啡馆",
+                        "enddate": 3021172735,
+                        "mobileURL": "<body><html><head></head><body><p>如果你喜欢用马克杯喝咖啡，又向往用古典瓷器盛清茶，那么，萨兰通咖啡馆Celadon Cafe是一家可以满足你这种特别需求的咖啡馆。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141780.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141780.jpg\" width=\"525\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141765.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141765.jpg\" width=\"525\"></img></p><p>店主是一个真正懂咖啡的人，所以她才会专门买进口咖啡豆自家烘培；所以她才会请国际比赛冠军咖啡师来亲自调制。唯有在源头重视一切，才能保证每一杯咖啡的醇正香浓。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141776.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141776.jpg\" width=\"525\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141775.jpg\" height=\"400\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141775.jpg\" width=\"640\"></img></p><p>同时，店主还喜欢浙江龙泉的瓷器。因为这个爱好，她特地从龙泉带回许许多多的青瓷摆放店中，同时也兼出售。每一件的青瓷都是店主精心挑选的绝妙之物，看到顿生赏心悦目之喜。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141774.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141774.jpg\" width=\"700\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141772.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141772.jpg\" width=\"524\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141771.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141771.jpg\" width=\"525\"></img></p><p>几千年流传下来的瓷器之韵味，数十代传承下来的陶瓷艺术，汇聚而成举世闻名的龙泉青瓷，放在咖啡馆内，中西文化出奇地和谐一致，令人心生惬意。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141768.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141768.jpg\" width=\"525\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141763.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141763.jpg\" width=\"526\"></img></p><p>是来赏瓷也好，喝咖啡也罢，宁静岁月里唯有通过一些经过时间沉淀的东西来帮助我们潜心体味生活的种种，是也不是呢？</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141777.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141777.jpg\" width=\"525\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-09/event141762.jpg\" height=\"406\" src=\"http://pic.huodongjia.com/event/2015-10-09/event141762.jpg\" width=\"640\"></img>​</p><p><strong style=\"font-size: 13px; line-height: 1.6em;\">地址：</strong> 徐汇区长乐路685-1号红色大门</p><p><strong>营业时间：</strong> 9:00-20:00</p><p><strong>联系电话：</strong> 021-64387076</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131692,
+                        "position": "121.449135487,31.2162881409"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-09",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131680.html",
+                        "telephone": "13004170833",
+                        "tag": "温润,有趣,咖啡馆",
+                        "sponsor": {},
+                        "id": 131680,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "多肉加猫咪，再来一杯咖啡",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "所有的植物和动物都集中在这里，再点上一杯猫咪元素的咖啡，观赏植物，逗玩动物，阳光正好，岁月宁静。",
+                        "note": "",
+                        "feeltitle": "不要因为富裕，而对物薄情",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "Finca 芬咖啡工作室 一起【玩咖啡】",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "长宁区上海水城南路59号明珠大楼2101室",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-27/event119588.jpg"
+                                          ],
+                                 "position": "121.399589331,31.2024062242",
+                                 "id": 129915
+                                 },
+                                 {
+                                 "title": "从实验到实践 发现生活更多的可能性",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区富民路197弄71号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-07-17/event131747.jpg"
+                                          ],
+                                 "position": "121.458019435,31.2255834882",
+                                 "id": 131066
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.416892435,31.2023212879",
+                                     "title": "麒麟猫咪主题餐厅咖啡馆",
+                                     "address": "长宁区杨宅路293号",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "长宁区杨宅路293号",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-10-08/event141640.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "麒麟猫咪主题餐厅咖啡馆",
+                        "enddate": 3021099875,
+                        "mobileURL": "<body><html><head></head><body><p><strong></strong>这是一家猫咪主题的咖啡馆，也是一家多肉植物主题的咖啡馆。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-08/event141630.jpg\" height=\"467\" src=\"http://pic.huodongjia.com/event/2015-10-08/event141630.jpg\" width=\"700\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-08/event141634.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-08/event141634.jpg\" width=\"525\"></img></p><p><strong></strong>店门口试一个大院子，有几张露天咖啡桌椅。碎瓷砖铺就的地面上放着各式各样的植被，在白色洁净的墙的映衬下让人耳目一新。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-08/event141627.jpg\" height=\"465\" src=\"http://pic.huodongjia.com/event/2015-10-08/event141627.jpg\" width=\"700\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-08/event141633.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-08/event141633.jpg\" width=\"467\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-08/event141631.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-10-08/event141631.jpg\" width=\"700\"></img></p><p><strong></strong>淘气可爱的各品种喵星人就躲在屋子里面啦。有的调皮乱溜达，有的不理人窝着睡懒觉，有的瞪着大眼睛萌萌地盯着客人。看见它们，每个爱猫人的心情立马会开心得不得了吧。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-08/event141639.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-10-08/event141639.jpg\" width=\"525\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-08/event141635.jpg\" height=\"526\" src=\"http://pic.huodongjia.com/event/2015-10-08/event141635.jpg\" width=\"700\"></img></p><p><strong></strong>店内的多肉和其他植被也让人眼花缭乱，所有的植物和动物都集中在这里，再点上一杯猫咪元素的咖啡，观赏植物，逗玩动物，阳光正好，岁月宁静。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-08/event141636.jpg\" height=\"465\" src=\"http://pic.huodongjia.com/event/2015-10-08/event141636.jpg\" width=\"700\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-08/event141637.jpg\" height=\"465\" src=\"http://pic.huodongjia.com/event/2015-10-08/event141637.jpg\" width=\"700\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-10-08/event141638.jpg\" height=\"465\" src=\"http://pic.huodongjia.com/event/2015-10-08/event141638.jpg\" width=\"700\"></img></p><p><strong>地址：</strong> 长宁区杨宅路293号</p><p><strong>营业时间：</strong>11:00-21:30</p><p><strong>联系电话：</strong>13004170833</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131680,
+                        "position": "121.416892435,31.2023212879"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-08",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131479.html",
+                        "telephone": "",
+                        "tag": "有趣,惬意,咖啡馆",
+                        "sponsor": {},
+                        "id": 131479,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "咖啡厅？不如说是艺术空间",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "位于莫干山M50创意园的Undefine咖啡店让这个本就浑身散发着艺术气息的地方更具魅力。Undefine里可探究以及不同于以往咖啡厅的地方有太多，无可否认，Undefine把美式咖啡厅极简，冷静，以及实用性领悟得相当透彻。",
+                        "note": "",
+                        "feeltitle": "走出喧嚣听听自己内心的声音",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "一位奇男子，开着咖啡厅守着一些老物件",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区宛平路295弄弄内到底18号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-11/event137650.jpg"
+                                          ],
+                                 "position": "121.450497,31.205116",
+                                 "id": 131407
+                                 },
+                                 {
+                                 "title": "Finca 芬咖啡工作室 一起【玩咖啡】",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "长宁区上海水城南路59号明珠大楼2101室",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-27/event119588.jpg"
+                                          ],
+                                 "position": "121.399589331,31.2024062242",
+                                 "id": 129915
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.449455027,31.2473807634",
+                                     "title": "Undefine",
+                                     "address": "普陀区莫干山路50号6号楼105室",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "普陀区莫干山路50号6号楼105室",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-17/event138731.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "Undefine",
+                        "enddate": 3019278171,
+                        "mobileURL": "<body><html><head></head><body><p>位于莫干山M50创意园的Undefine咖啡店让这个本就浑身散发着艺术气息的地方更具魅力。Undefine里可探究以及不同于以往咖啡厅的地方有太多，无可否认，Undefine把美式咖啡厅极简，冷静，以及实用性领悟得相当透彻。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-17/event138730.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-17/event138730.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-17/event138729.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-17/event138729.jpg\" width=\"1080\"></img></p><p>店里的每一处摆放布置都充满设计感以及目的性，这里宽敞明亮的空间足以举办各种画展艺术聚会，同时具备理发区，DJ升降台等在其他咖啡厅很难见到的“外来”血液。随处可见的U形LOGO都为这间独立咖啡店添上一抹极强的设计色彩。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-17/event138732.jpg\" height=\"1080\" src=\"http://pic.huodongjia.com/event/2015-09-17/event138732.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-17/event138733.jpg\" height=\"1080\" src=\"http://pic.huodongjia.com/event/2015-09-17/event138733.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-17/event138734.jpg\" height=\"1080\" src=\"http://pic.huodongjia.com/event/2015-09-17/event138734.jpg\" width=\"1080\"></img></p><p>主调黑白的Undefine在繁简的取舍上十分随意又充满个性，完全空置的二楼以及黑白分明的墙面，同时又在咖啡吧台区以及理发区加入一些具有观赏性但又显得“无意义”装饰，这些都透露出设计者对于这个空间的任性和坚持。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-17/event138736.jpg\" height=\"1080\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-09-17/event138736.jpg\" width=\"1080\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-17/event138737.jpg\" height=\"1080\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-09-17/event138737.jpg\" width=\"1080\"></img></p><p>厕所和原木楼梯的设计应该算是店里最为让人眼前一亮的区域，相隔不到1米，但却是未来感与原生态的碰撞，无论是视觉还是亲身体验上都令人感到灵巧有趣。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-17/event138738.jpg\" height=\"1080\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-09-17/event138738.jpg\" width=\"1080\"></img></p><p>两层楼的Undefine已经远远跳出咖啡厅的限有框架，将loft与极简玩出了高级感，本身就是存在于莫干山里独立的艺术空间，只是恰好还是家咖啡厅而已。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-17/event138740.jpg\" src=\"http://pic.huodongjia.com/event/2015-09-17/event138740.jpg\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-17/event138739.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-17/event138739.jpg\" width=\"1080\"></img></p><p>地址：普陀区莫干山路50号6号楼105室</p><p>营业时间：周一到周五 10：00-18：00周六到周日 10：00-20：00 </p><p>人均：38元</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131479,
+                        "position": "121.449455027,31.2473807634"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-07",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131584.html",
+                        "telephone": "021-53832201",
+                        "tag": "纯质,咖啡馆",
+                        "sponsor": {},
+                        "id": 131584,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "体味咖啡的本质",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "他认为，一杯好的经典咖啡，百分之六十的贡献来自于更好的咖啡豆，百分之三十是烘焙的技巧，剩下的百分之十则应属于咖啡师手冲的技术。",
+                        "note": "",
+                        "feeltitle": "放大自己的幸福",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "心之所向，咖啡传情",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "长宁区 凯旋路(由南向北车道)1309号(安顺路口加油站旁边)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-24/event140356.jpg"
+                                          ],
+                                 "position": "121.425822,31.208657",
+                                 "id": 131594
+                                 },
+                                 {
+                                 "title": "Slurp!云南小市 混搭的米线咖啡馆",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区昌平路1000号(延平路)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-03/event113980.jpg"
+                                          ],
+                                 "position": "121.443036961,31.2389833883",
+                                 "id": 129332
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.475030355,31.2171247357",
+                                     "title": "质馆咖啡",
+                                     "address": "卢湾区 马当路245号新天地时尚1楼(自忠路口",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "卢湾区 马当路245号新天地时尚1楼(自忠路口",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-24/event140213.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "质馆咖啡",
+                        "enddate": 3019876874,
+                        "mobileURL": "<body><html><head></head><body><p>质馆咖啡在上海开了很多家分店，新天地店应该是几家直营店里面积最大，共三层楼，整个一种欢快带感的风格。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140206.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140206.jpg\" width=\"467\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140207.jpg\" height=\"625\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140207.jpg\" width=\"700\"></img></p><p>一楼出餐区能看到店员在做手冲，整个店内弥漫着咖啡香气，转角楼梯拾级而上，上海老建筑的感觉。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140203.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140203.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140208.jpg\" height=\"608\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140208.jpg\" width=\"700\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140204.jpg\" height=\"480\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140204.jpg\" width=\"700\"></img></p><p></p><p>在上海众多的独立咖啡馆中，质馆算得上是一种特别的存在。这种特别不是装修风格或者附加服务的创新，而是一种来自咖啡本身的差异。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140209.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140209.jpg\" width=\"481\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140202.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140202.jpg\" width=\"525\"></img></p><p>他认为，一杯好的经典咖啡，百分之六十的贡献来自于更好的咖啡豆，百分之三十是烘焙的技巧，剩下的百分之十则应属于咖啡师手冲的技术。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140212.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140212.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140210.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140210.jpg\" width=\"525\"></img></p><p>如果你想来感受一杯地道的咖啡是什么味道，就去质馆咖啡不会错。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140211.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140211.jpg\" width=\"394\"></img></p><p><strong>地址：</strong>卢湾区 马当路245号新天地时尚1楼(自忠路口)  </p><p><strong>营业时间：</strong>10:00-0:00 </p><p><strong>电话：</strong>021-53832201</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131584,
+                        "position": "121.475030355,31.2171247357"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-06",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131589.html",
+                        "telephone": "13651807042",
+                        "tag": "纯质,咖啡馆",
+                        "sponsor": {},
+                        "id": 131589,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "向Frida Kahlo致敬之作",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "一看到野兽派的荒野之花咖啡馆，就感觉到是向墨西哥女画家Frida Kahlo的致敬之作。\r\n",
+                        "note": "",
+                        "feeltitle": "世上万事万物皆有时",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "\" 我之一刻“最为珍贵",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区 南京西路1168号中信泰富广场三楼318单元",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-24/event140383.jpg"
+                                          ],
+                                 "position": "121.462147,31.23488",
+                                 "id": 131595
+                                 },
+                                 {
+                                 "title": "天青色里一缕咖啡香",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区长乐路685-1号红色大门",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-10-09/event141779.jpg"
+                                          ],
+                                 "position": "121.455567,31.222616",
+                                 "id": 131692
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.474966111,31.219778179",
+                                     "title": "野兽咖啡",
+                                     "address": "上海市新天地南里兴业路123弄1号 01B－04单元",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "上海市新天地南里兴业路123弄1号 01B－04单元",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-24/event140305.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "野兽咖啡",
+                        "enddate": 3019882343,
+                        "mobileURL": "<body><html><head></head><body><p>一看到野兽派的荒野之花咖啡馆，就感觉到是向墨西哥女画家Frida Kahlo的致敬之作。门口的黑豹和仙人掌类植物和她的自画像背景高度相似，意图其实表达的还是挺明显，让人不禁会心一笑。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140297.jpg\" height=\"602\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140297.jpg\" width=\"525\"></img></p><p>走进店里，你会看到入口处的脚下有一个金色的荆棘圈，你已踏入了野兽派的世界，硕大的仙人掌、尖锐的龙舌兰和形态各异的多肉植物，荒漠中生命力顽强的沙生植物就在你身边</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140291.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140291.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140299.jpg\" height=\"645\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140299.jpg\" width=\"700\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140300.jpg\" height=\"584\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140300.jpg\" width=\"590\"></img></p><p>咖啡杯是墨绿釉的瓷杯，又一次暗合了荒漠之花的主题。浓浓的一层咖啡油，侍者贴心送上一杯清新柠檬水，玻璃杯上有可爱的蜜蜂状纹饰，和花店的主题又再次呼应。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140289.jpg\" height=\"535\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140289.jpg\" width=\"400\"></img></p><p></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140295.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140295.jpg\" width=\"700\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140292.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140292.jpg\" width=\"700\"></img></p><p></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140294.jpg\" height=\"467\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140294.jpg\" width=\"700\"></img></p><p>与环境匹配度最高的就属盆栽造型Cupcake人气最旺。有仙人球造型、肉肉的粉嫩花朵造型，在其表面撒上消化饼干如同沙土。外观不仅好看，绿色抹茶口味的多肉植物cupcake，口感细腻柔滑，清香味十足。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140290.jpg\" height=\"400\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140290.jpg\" width=\"640\"></img></p><p>周末和朋友们一起赴一场“荒漠丛林”之约下午茶吧！</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140304.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140304.jpg\" width=\"519\"></img>​</p><p></p><p><strong>地址：</strong>卢湾区 新天地南里(兴业路1号01b,04单元)</p><p><strong>电话：</strong>13651807042</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131589,
+                        "position": "121.474966111,31.219778179"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-05",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131590.html",
+                        "telephone": "021-56300718",
+                        "tag": "惬意,咖啡馆",
+                        "sponsor": {},
+                        "id": 131590,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "工业园里的咖啡",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "工业园里的一个咖啡馆。两杯咖啡，一壶茶，八块曲奇饼，就是一下午的悠闲。",
+                        "note": "",
+                        "feeltitle": "离开孤独，便无法成长",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "【有机认证】的咖啡馆",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区 陕西北路415号(近北京西路)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-05-03/event120924.jpg"
+                                          ],
+                                 "position": "121.459276033,31.2366000369",
+                                 "id": 130088
+                                 },
+                                 {
+                                 "title": "寻一处复古工业感的地中海风情",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区巨鹿路794号(富民路)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-08-31/event136375.jpg"
+                                          ],
+                                 "position": "121.456687,31.226104",
+                                 "id": 131326
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.378958635,31.2778416294",
+                                     "title": "M50艺源咖啡馆",
+                                     "address": " 普陀区武威东路1518号M50桃浦创意园区内(近祁连山路)",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": " 普陀区武威东路1518号M50桃浦创意园区内(近祁连山路)",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-24/event140285.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "M50艺源咖啡馆",
+                        "enddate": 3019883166,
+                        "mobileURL": "<body><html><head></head><body><p>M50桃浦创意园区内，有一家“艺源咖啡馆”。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140286.jpg\" height=\"500\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140286.jpg\" width=\"600\"></img></p><p>据说午餐时间是干净好味的午饭小食堂，中午过后是悠闲的属于整个下午的咖啡时光。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140280.jpg\" height=\"417\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140280.jpg\" width=\"700\"></img></p><p>逛逛M50，坐下喝喝咖啡聊聊天，环境整洁舒适又安静。或者点上一壶茶，一叠曲奇饼干，打开一本书，沉入书中。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140282.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140282.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140281.jpg\" height=\"467\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140281.jpg\" width=\"700\"></img></p><p>因为在创意园区里，所以比较清静。不是那种挤来挤去等咖啡的感觉，冲泡的咖啡是现磨的，跟一般的速溶咖啡肯定是质的区别。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140288.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140288.jpg\" width=\"700\"></img></p><p>当窗外下起雨时，就这样静静的发呆，都觉得好幸福~</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140284.jpg\" height=\"394\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140284.jpg\" width=\"700\"></img></p><p>大概这就是海派清口吧。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140306.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140306.jpg\" width=\"525\"></img></p><p>地址：普陀区武威东路1518 号M50桃浦创意园区内(近祁连山路)</p><p>电话：021-56300718</p><p>营业时间：14:00-19:00</p><p></p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131590,
+                        "position": "121.378958635,31.2778416294"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-04",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131593.html",
+                        "telephone": "18930537759",
+                        "tag": "乐活,咖啡馆",
+                        "sponsor": {},
+                        "id": 131593,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "奇异果的酸带上香蕉的甜",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "拥有特别奶昔的店铺，让奇异果和香蕉擦出火花。奇异果的酸带上香蕉的甜，店家按一定比例，调和的刚好，又不会腻，是放松心情圣地。",
+                        "note": "",
+                        "feeltitle": "温暖亲密的关系是美好生活的重要开场",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "为快节奏而生",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": " 徐汇区田林路121-10号(虹漕路)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-28/event140902.jpg",
+                                          "http://pic.huodongjia.com/event/2015-09-24/event140141.jpg"
+                                          ],
+                                 "position": "121.417518,31.175356",
+                                 "id": 131581
+                                 },
+                                 {
+                                 "title": "鲜花与美衣不可辜负",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区巨鹿路812号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-03-27/event1427471765.22.jpg"
+                                          ],
+                                 "position": "121.456325094,31.2257406804",
+                                 "id": 129239
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.44245422,31.2826300674",
+                                     "title": "ONI café & bar",
+                                     "address": "闸北区万荣路700号C2幢(灵石路口)",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "闸北区万荣路700号C2幢(灵石路口)",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-24/event140340.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "ONI café & bar",
+                        "enddate": 3019887160,
+                        "mobileURL": "<body><html><head></head><body><p>ONI cafe &amp; bar是现代欧美风格的个性小铺。洋溢着青春的活力，阳光般的感觉。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140341.jpg\" height=\"515\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140341.jpg\" width=\"440\"></img></p><p>虽然不是很宽敞，却整洁明亮。简约的桌子和椅子，等待着客人们的来临。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140344.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140344.jpg\" width=\"525\"></img></p><p>在这充满活力的店里，怎么能没有新奇创意的味道呢。特别味道的奶昔，就是招牌之一。奇异果香蕉奶昔，奇异果和香蕉擦出火花，奇异果的酸带上香蕉的甜，按一定比例，调和的刚好，又不会腻。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140351.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140351.jpg\" width=\"393\"></img></p><p>闹中取静的坐下，点餐慰藉一下肚子。咖啡和华夫饼是完全的绝配。拿铁浓郁，华夫味满全店，简直大赞。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140348.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140348.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140349.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140349.jpg\" width=\"700\"></img></p><p>当然，ONI三明治也是不错的，里面夹着荷包蛋、番茄、生菜和芝士，还配有蔬菜沙拉……各种混搭在ONI都是ok的。关键就是好味！</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140343.jpg\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140343.jpg\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140347.jpg\" height=\"393\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140347.jpg\" width=\"700\"></img></p><p>不论是咖啡、奶昔还是简餐，都来试试吧。</p><p>可能会遇到让你惊艳的味道哦。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140346.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140346.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140345.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140345.jpg\" width=\"700\"></img>​</p><p>地址：闸北区万荣路700号C2幢(灵石路口)</p><p>电话：18930537759</p><p>营业时间：工作日9:00-21:00，节假日10:00-22:00</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131593,
+                        "position": "121.44245422,31.2826300674"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-03",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131594.html",
+                        "telephone": "021-62713136",
+                        "tag": "纯质,咖啡馆",
+                        "sponsor": {},
+                        "id": 131594,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "心之所向，咖啡传情",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "店里最受欢迎的就是棉花糖咖啡。女孩子咖啡馆自拍系列道具NO.1。将棉花糖融到不加糖的咖啡里，甜甜蜜蜜的感觉瞬间漫溢……\r\n",
+                        "note": "",
+                        "feeltitle": "生命自由生长才会有舒展",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "体味咖啡的本质",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "卢湾区 马当路245号新天地时尚1楼(自忠路口",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-24/event140213.jpg"
+                                          ],
+                                 "position": "121.48157,31.223033",
+                                 "id": 131584
+                                 },
+                                 {
+                                 "title": "坚持手冲的滋味",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区兴国路372弄1号103室",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-07/event136886.jpg",
+                                          "http://pic.huodongjia.com/event/2015-06-22/event128793.jpg"
+                                          ],
+                                 "position": "121.443761514,31.2116469812",
+                                 "id": 129359
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.419363211,31.2024854918",
+                                     "title": "coffee heart",
+                                     "address": "长宁区 凯旋路(由南向北车道)1309号(安顺路口加油站旁边)",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "长宁区 凯旋路(由南向北车道)1309号(安顺路口加油站旁边)",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-24/event140356.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "coffee heart",
+                        "enddate": 3019887370,
+                        "mobileURL": "<body><html><head></head><body><p>coffee heart又是一家噱头十足的咖啡馆。装修以热带雨林风格为主。静谧复古的森林环境，优雅而动听的旋律让人十分惬意舒心。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140359.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140359.jpg\" width=\"394\"></img></p><p></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140357.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140357.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140358.jpg\" height=\"394\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140358.jpg\" width=\"700\"></img></p><p>店里最受欢迎的就是棉花糖咖啡。女孩子咖啡馆自拍系列道具NO.1。将棉花糖融到不加糖的咖啡里，甜甜蜜蜜的感觉瞬间漫溢……</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140352.jpg\" height=\"593\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140352.jpg\" width=\"700\"></img></p><p></p><p>做成了心形的咖喱饭上铺着大虾，贝类还有淡菜。湿润的感觉刚刚好，咖喱与饭粒的融合非常有滋有味。</p><p></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140353.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140353.jpg\" width=\"525\"></img></p><p>爱幻想的女生都渴望一个梦一般的世界，小小的摩天轮带你进去那味蕾深处的天堂，有一种初恋的心动，回忆的斑驳勾了出生活的美妙。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140354.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140354.jpg\" width=\"700\"></img></p><p>带喜欢的女孩儿来coffee heart吧，让咖啡表情你的心意。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140355.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140355.jpg\" width=\"524\"></img>​</p><p></p><p><strong>地址：</strong>长宁区 凯旋路(由南向北车道)1309号(安顺路口加油站旁边)</p><p><strong>营业时间：</strong>9:40-22:30</p><p><strong>电话：</strong>021-62713136</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131594,
+                        "position": "121.419363211,31.2024854918"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-02",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131588.html",
+                        "telephone": "021-63318199",
+                        "tag": "有趣,咖啡馆",
+                        "sponsor": {},
+                        "id": 131588,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "不止卖咖啡的时尚店",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "来这里喝杯咖啡？不，还可以和闺蜜一起挑挑衣服买买包！店面小小的，但是很舒服，地上的黑白菱形地砖又增添了些许复古味道。",
+                        "note": "",
+                        "feeltitle": "爱自己是终身浪漫的开始",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "让心放个晴吧",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区宝庆路9弄1号102室(淮海中路)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-05-03/event120918.jpg"
+                                          ],
+                                 "position": "121.456630075,31.2174562183",
+                                 "id": 130042
+                                 },
+                                 {
+                                 "title": "Farine最法国的上海【甜点店】",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区武康路378号1楼近泰安路",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-03-26/event1427356869.8.jpg"
+                                          ],
+                                 "position": "121.4455229,31.2128154352",
+                                 "id": 129137
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.474515004,31.2153554492",
+                                     "title": "Mon Pigeon cafe",
+                                     "address": "卢湾区 马当路388号SOHO复兴广场D栋102室",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "卢湾区 马当路388号SOHO复兴广场D栋102室",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-24/event140277.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "Mon Pigeon cafe",
+                        "enddate": 3019879685,
+                        "mobileURL": "<body><html><head></head><body><p>Mon Pigeon cafe是新开没多久的一家店。店面主要是以黑白为主色调，地上的菱形地砖增添了不少许复古味道。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140269.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140269.jpg\" width=\"394\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140274.jpg\" height=\"466\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140274.jpg\" width=\"700\"></img></p><p>店里的咖啡饮品、甜品还有一块销售区域，有鞋包等商品自营售出。咖啡美食，时尚相结合，是一种新型的生活方式。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140276.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140276.jpg\" width=\"464\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140273.jpg\" height=\"634\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140273.jpg\" width=\"467\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140278.jpg\" height=\"634\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140278.jpg\" width=\"502\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140270.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140270.jpg\" width=\"700\"></img></p><p>招牌玫瑰小姐拿铁，很大一杯，玫瑰味道很浓，而不是装装样子。128元的双人红酒套餐向来是情侣和闺蜜的选择，双层咸点+葡萄酒啤酒可以任意选择。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140279.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140279.jpg\" width=\"525\"></img>​</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140275.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140275.jpg\" width=\"553\"></img></p><p></p><p><strong>地址：</strong>卢湾区 马当路388号SOHO复兴广场D栋102室</p><p><strong>营业时间：</strong>每天11:00 -- 22:00</p><p><strong>电话：</strong>021-63318199</p><p></p><p></p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131588,
+                        "position": "121.474515004,31.2153554492"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-10-01",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131595.html",
+                        "telephone": "021-52281185",
+                        "tag": "纯质,咖啡馆",
+                        "sponsor": {},
+                        "id": 131595,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "\" 我之一刻“最为珍贵",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "“Mon Moment”源自法语，意为“我之一刻”。而当我们浪掷时间去追求所谓的财富与成功，竭心尽力扮演好工作与生活所赋予的每个角色的时候，或许，我们已经忽略了我们所拥有的非物质“财富”，已经荒废了那份“田亩”，甚至已经遗忘了“我”的存在？",
+                        "note": "",
+                        "feeltitle": "独处是一种精神上的自由",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "坚持手冲的滋味",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区兴国路372弄1号103室",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-07/event136886.jpg",
+                                          "http://pic.huodongjia.com/event/2015-06-22/event128793.jpg"
+                                          ],
+                                 "position": "121.443761514,31.2116469812",
+                                 "id": 129359
+                                 },
+                                 {
+                                 "title": "甜与白的日风美好杂货铺",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "上海复兴西路230弄4号楼3楼三生川内",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-03-28/event1427511262.6.jpg"
+                                          ],
+                                 "position": "121.445214,31.217502",
+                                 "id": 129238
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.455691628,31.2286262562",
+                                     "title": "Mon Moment cafe",
+                                     "address": "静安区 南京西路1168号中信泰富广场三楼318单元",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "静安区 南京西路1168号中信泰富广场三楼318单元",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-24/event140383.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "Mon Moment cafe",
+                        "enddate": 3019889651,
+                        "mobileURL": "<body><html><head></head><body><p>“Mon Moment”源自法语，意为“我之一刻”。而当我们浪掷时间去追求所谓的财富与成功，竭心尽力扮演好工作与生活所赋予的每个角色的时候，或许，我们已经忽略了我们所拥有的非物质“财富”，已经荒废了那份“田亩”，甚至已经遗忘了“我”的存在？</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140379.jpg\" height=\"492\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140379.jpg\" width=\"400\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140380.jpg\" height=\"457\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140380.jpg\" width=\"700\"></img></p><p>这是一间别具一格的女性主题咖啡馆。以独特的雅致氛围倡导享受每个清晨、午后、黄昏和夜晚的每个时刻，祈愿每位来宾在时间的沙漏里沉淀出如钻石般晶莹的瞬间。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140389.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140389.jpg\" width=\"700\"></img></p><p></p><p>两位来自设计与艺术背景的女性合伙人将这份“爱”的礼物与所有推崇品味生活的女性共同分享，分享做梦的自由、寻梦的初心和追梦的勇气。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140382.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140382.jpg\" width=\"700\"></img></p><p>一份精致的下午茶，除了香浓的饮品，更离不开可口的甜品来搭配。甜品在下午茶中扮演着重要角色。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140384.jpg\" height=\"595\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140384.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140386.jpg\" height=\"468\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140386.jpg\" width=\"700\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140385.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140385.jpg\" width=\"700\"></img></p><p>在匆忙的都会生活中按下一个短暂的暂停键，在纷扰的喧嚣中预留一方身心的绿洲，在这座精致的“秘密花园”改变时间的维度，做一场“白日梦”，做一次心灵的Spa。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140388.jpg\" height=\"600\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140388.jpg\" width=\"400\"></img></p><p><strong>地址：</strong>静安区 南京西路1168号中信泰富广场三楼318单元</p><p><strong>营业时间：</strong>10:00至22:00 </p><p><strong>电话：</strong>021-52281185</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131595,
+                        "position": "121.455691628,31.2286262562"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-30",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131586.html",
+                        "telephone": "",
+                        "tag": "有趣,咖啡馆",
+                        "sponsor": {},
+                        "id": 131586,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "萌翻你的少女心",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "LINE控们终于等到了这一天。可妮兔、布朗熊、馒头人、詹姆士、萨利等等Line Town的逗比居民都已亮相CAFÉ。\r\n",
+                        "note": "",
+                        "feeltitle": "随意的度，是难得糊涂的智慧",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "独一无二的相机主题研习社",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "上海市卢湾区淮海中路927弄淮海坊38号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-24/event119256.jpg",
+                                          "http://pic.huodongjia.com/event/2015-04-24/event119255.jpg",
+                                          "http://pic.huodongjia.com/event/2015-04-14/event115418.jpg"
+                                          ],
+                                 "position": "121.457423788,31.2195087142",
+                                 "id": 129465
+                                 },
+                                 {
+                                 "title": "咖啡味里传来一声喵呜",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "上海天平路91弄34号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-08-08/event134120.jpg"
+                                          ],
+                                 "position": "121.444768068,31.2076731772",
+                                 "id": 129382
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "116.433119317,39.9591234512",
+                                     "title": "LINE FRIENDS CAFE & STORE",
+                                     "address": " 新天地 马当路388号SOHO复兴广场一楼",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": " 新天地 马当路388号SOHO复兴广场一楼",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-24/event140219.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "LINE FRIENDS CAFE & STORE",
+                        "enddate": 3019878173,
+                        "mobileURL": "<body><html><head></head><body><p>在SOHO复兴广场的一楼 大大的熊提示你这块有一个萌萌的地方。没错这个就是最近萌爆了朋友圈的LINE cafe。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140224.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140224.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140225.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140225.jpg\" width=\"525\"></img></p><p></p><p>LINE控们终于等到了这一天。可妮兔、布朗熊、馒头人、詹姆士、萨利等等Line Town的逗比居民都已亮相CAFÉ。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140229.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140229.jpg\" width=\"525\"></img></p><p></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140221.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140221.jpg\" width=\"700\"></img>从店铺整体装饰、货架上陈列的产品到真人尺寸的玩偶，所有人几乎第一时间开启了疯狂的拍照模式。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140223.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140223.jpg\" width=\"700\"></img></p><p>咖啡店内随处可见 LINE FRIENDS 那些生动鬼马的卡通人物。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140222.jpg\" height=\"628\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140222.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140231.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140231.jpg\" width=\"700\"></img>​当然，最吸引人的还是咖啡店的部分。马卡龙、曲奇饼干、cupcake、布丁配上无处不在的 LINE FRIENDS 的图案，简直让人舍不得吃掉。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140228.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140228.jpg\" width=\"700\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140227.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140227.jpg\" width=\"700\"></img></p><p>装有巧克力蛋糕的白盘上用可可粉撒出布朗熊的造型，且不说蛋糕味道如何，光是可爱的摆盘就足以萌翻少女们的心！</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140218.jpg\" height=\"467\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140218.jpg\" width=\"700\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140220.jpg\" height=\"467\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140220.jpg\" width=\"700\"></img></p><p><strong>地址：</strong>新天地 马当路388号SOHO复兴广场一楼</p><p></p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131586,
+                        "position": "116.433119317,39.9591234512"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-29",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131583.html",
+                        "telephone": "021-54888287,021-34318458",
+                        "tag": "惬意,咖啡馆",
+                        "sponsor": {},
+                        "id": 131583,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "至尊美味",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "DV+美味=两层欧式咖啡馆",
+                        "note": "",
+                        "feeltitle": "生活所需，“贵”在合适",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "咖啡厅？不如说是艺术空间",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "普陀区莫干山路50号6号楼105室",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-17/event138731.jpg"
+                                          ],
+                                 "position": "121.455884,31.253705",
+                                 "id": 131479
+                                 },
+                                 {
+                                 "title": "寻一处复古工业感的地中海风情",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区巨鹿路794号(富民路)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-08-31/event136375.jpg"
+                                          ],
+                                 "position": "121.456687,31.226104",
+                                 "id": 131326
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.377045922,31.1704559708",
+                                     "title": "Café DV",
+                                     "address": " 闵行区金汇南路193号(虹泉路口) (吴中路，合川路)",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": " 闵行区金汇南路193号(虹泉路口) (吴中路，合川路)",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-24/event140238.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "Café DV",
+                        "enddate": 3019880089,
+                        "mobileURL": "<body><html><head></head><body><p>Café DV光从外面看就很豪华，是宽敞的欧式风格。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140237.jpg\" height=\"629\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140237.jpg\" width=\"525\"></img></p><p>宽敞让人惬意，自然就放松下来，可以敞开胃吃一顿咯。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140251.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140251.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140255.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140255.jpg\" width=\"525\"></img></p><p>门口有露天位，二楼的空间也很大的 。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140247.jpg\" height=\"597\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140247.jpg\" width=\"525\"></img></p><p>在这里，至尊华夫是必点餐。分量很足，夹了煎蛋、火腿、生菜、番茄、腌黄瓜……感觉是4人份；草莓奶油吐司会随季节变化而变化，比如换成当季的红提，但口味也是很赞的；巧克力阿萨姆奶茶口味纯正。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140241.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140241.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140264.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140264.jpg\" width=\"700\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140246.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140246.jpg\" width=\"525\"></img></p><p> 有时人少，会联想一下自己如果一个人住这样的地方会不会害怕。打断一下思路，然后继续吃一大口冰激凌。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140263.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140263.jpg\" width=\"525\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140260.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140260.jpg\" width=\"525\"></img></p><p>啊~ 真是享受。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140259.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140259.jpg\" width=\"700\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140267.jpg\" height=\"700\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140267.jpg\" width=\"525\"></img>​</p><p>来看书，看电影，看DV，吃餐，吃下午茶，吃宵夜都好。因为会营业至深夜。</p><p>到时候会感觉是一个梦中小世界，满足胃满足心灵，又让人晃神……</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140256.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140256.jpg\" width=\"700\"></img></p><p>地址：闵行区金汇南路193号(虹泉路口) (吴中路，合川路)</p><p>电话：021-54888287，021-34318458</p><p>营业时间：9:00-3:00</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131583,
+                        "position": "121.377045922,31.1704559708"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-28",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131581.html",
+                        "telephone": "021-64086995,17749760581",
+                        "tag": "乐活,惬意,咖啡馆",
+                        "sponsor": {},
+                        "id": 131581,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "为快节奏而生",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "百利甜咖啡和香草拿铁很赞，给人感觉明朗的咖啡店。",
+                        "note": "",
+                        "feeltitle": "和、敬、清、寂",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "Slurp!云南小市 混搭的米线咖啡馆",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区昌平路1000号(延平路)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-03/event113980.jpg"
+                                          ],
+                                 "position": "121.443036961,31.2389833883",
+                                 "id": 129332
+                                 },
+                                 {
+                                 "title": "五颜六色的当季蔬菜大本营",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "东平路 6 号(近衡山路)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-05-14/event123542.jpg"
+                                          ],
+                                 "position": "121.456627915,31.2149956614",
+                                 "id": 130326
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.411042343,31.1693415651",
+                                     "title": "Fameshi Coffee 泛磨仕 ",
+                                     "address": " 徐汇区田林路121-10号(虹漕路)",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": " 徐汇区田林路121-10号(虹漕路)",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-28/event140902.jpg",
+                                 "http://pic.huodongjia.com/event/2015-09-24/event140141.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "Fameshi Coffee 泛磨仕 ",
+                        "enddate": 3020204365,
+                        "mobileURL": "<body><html><head></head><body><p>泛磨仕是一个追求极简与自由的咖啡快饮品牌，致力于打造Coffee Take-away全新概念店，Fameshi Coffee让身处繁忙的都市人在想喝咖啡时可以快速的喝杯高品质咖啡，从选材到制作，力求产品的新鲜健康；着重表达极简的咖啡文化与绿色健康的生活理念，精致环保的包装，现磨现萃的咖啡品质，是泛磨仕的核心理念。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-28/event140903.jpg\" height=\"400\" src=\"http://pic.huodongjia.com/event/2015-09-28/event140903.jpg\" width=\"640\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-28/event140904.jpg\" height=\"400\" src=\"http://pic.huodongjia.com/event/2015-09-28/event140904.jpg\" width=\"640\"></img>​</p><p>泛磨仕地方不大却干净明亮，不像大多数暗暗的有点压抑的咖啡馆。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140154.jpg\" height=\"651\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140154.jpg\" width=\"525\"></img></p><p>格调优雅又不失自由。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140161.jpg\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140161.jpg\"></img></p><p>每个店员都很亲切，氛围轻松。而且咖啡饮品十分好喝。香草拿铁、百利甜咖啡、泛磨仕奶茶、榛果拿铁这几样都是很受欢迎的。</p><p>特别是夏季，冰镇饮料看着就清凉。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140158.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140158.jpg\" width=\"700\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140157.jpg\" height=\"532\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140157.jpg\" width=\"532\"></img></p><p>而且泛磨仕在细节上做得很好，比如有的饮品含有酒精，而客人如果对酒精过敏他们都会在点之前先问一问。就算点错了，也会退换，真是贴心。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140162.jpg\" height=\"654\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140162.jpg\" width=\"521\"></img></p><p>值得一题的是，店内的咖啡研磨机和咖啡机都是价值上万的高档机型，出来的每一杯咖啡饮品绝对都是恒温的，给客人最用心的饮品。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140160.jpg\" height=\"525\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140160.jpg\" width=\"700\"></img></p><p>饮用过后心情都会变好呢，来泛磨仕体验一下吧。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-24/event140156.jpg\" height=\"600\" src=\"http://pic.huodongjia.com/event/2015-09-24/event140156.jpg\" width=\"600\"></img></p><p>地址：徐汇区田林路121-10号(虹漕路)</p><p>电话：021-64086995，17749760581</p><p>营业时间：9:00-20:00</p><p></p><p></p><p></p><p></p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131581,
+                        "position": "121.411042343,31.1693415651"
+                        }
+                        ]
+             }
+             ]
+}
