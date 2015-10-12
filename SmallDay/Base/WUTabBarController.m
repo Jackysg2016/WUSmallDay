@@ -23,7 +23,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    [self creatViewControllers];
+    [self creatViewControllers]; 
 }
 
 - (void)creatViewControllers {
@@ -35,7 +35,10 @@
         WUBaseViewController *viewController = [[NSClassFromString(dict[@"className"]) alloc] init];
         viewController.tabBarItem.image = [[UIImage imageNamed:[dict[@"iconName"] stringByAppendingString:@"_1"]] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
         viewController.tabBarItem.selectedImage = [[UIImage imageNamed:[dict[@"iconName"] stringByAppendingString:@"_2"]] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
-        [viewControllerArr addObject:viewController];
+        viewController.title = dict[@"title"];
+        UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:viewController];
+        
+        [viewControllerArr addObject:nav];
     }
     self.viewControllers = viewControllerArr;
     self.tabBar.tintColor = [UIColor blackColor];

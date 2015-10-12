@@ -24,6 +24,7 @@
     WUTabBarController *tabBar = [[WUTabBarController alloc] init];
     self.window.rootViewController = tabBar;
     [self.window makeKeyAndVisible];
+    self.window.backgroundColor = [UIColor whiteColor];
     
     return YES;
 }
