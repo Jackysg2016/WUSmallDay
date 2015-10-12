@@ -62,7 +62,10 @@
                 <animations/>
             </tableViewCellContentView>
             <animations/>
-            <point key="canvasLocation" x="366" y="380"/>
+            <connections>
+                <outlet property="titleLabel" destination="OEx-cO-2xc" id="gdg-jH-xZ9"/>
+            </connections>
+            <point key="canvasLocation" x="562" y="320"/>
         </tableViewCell>
         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="euS-qw-phX">
             <rect key="frame" x="0.0" y="0.0" width="42" height="12"/>

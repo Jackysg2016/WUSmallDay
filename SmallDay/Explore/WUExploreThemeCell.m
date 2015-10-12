@@ -8,6 +8,7 @@
 
 #import "WUExploreThemeCell.h"
 #import "WUExploreThemeModel.h"
+#import <UIImageView+WebCache.h>
 
 @interface WUExploreThemeCell()
 
@@ -32,6 +33,7 @@
 
 - (void)updateUIWithModel:(WUExploreThemeModel *)model {
     self.titleLabel.text = model.title;
+    [self.bgImageView sd_setImageWithURL:[NSURL URLWithString:model.img] placeholderImage:nil];
 }
 
 @end

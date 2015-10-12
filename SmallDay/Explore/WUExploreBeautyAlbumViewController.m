@@ -8,7 +8,10 @@
 
 #import "WUExploreBeautyAlbumViewController.h"
 
-@interface WUExploreBeautyAlbumViewController ()
+#import "WUExploreThemeCell.h"
+#import "WUExploreThemeModel.h"
+
+@interface WUExploreBeautyAlbumViewController ()<UITableViewDataSource,UITableViewDelegate>
 @property (nonatomic, strong) UITableView *tableView;
 @property (nonatomic, strong) NSMutableArray *dataArr;
 @end
@@ -18,22 +21,45 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    self.view.backgroundColor = [UIColor greenColor];
+
+    [self.view addSubview:self.tableView];
+    [self loadData];
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (void)loadData {
+    self.dataArr = @[].mutableCopy;
+    NSDictionary *data = [WUAppUtils dictionaryWithFileName:@"beautyAlbumData.json"];
+    for (NSDictionary *dict in data[@"list"]) {
+        WUExploreThemeModel *model = [[WUExploreThemeModel alloc] initWithDictionary:dict];
+        [self.dataArr addObject:model];
+    }
+    [self.tableView reloadData];
 }
 
-/*
-#pragma mark - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
+- (UITableView *)tableView {
+    if (!_tableView) {
+        _tableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 64, SCREEN_WIDTH, SCREEN_HEIGHT-64-49) style:UITableViewStylePlain];
+        _tableView.delegate = self;
+        _tableView.dataSource = self;
+        [_tableView registerNib:[UINib nibWithNibName:@"WUExploreThemeCell" bundle:nil] forCellReuseIdentifier:@"themeCell"];
+        _tableView.rowHeight = 205;
+    }
+    return _tableView;
 }
-*/
+
+#pragma mark - UITableViewDataSource
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
+    return 1;
+}
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+    return self.dataArr.count;
+}
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+    WUExploreThemeCell *cell = [tableView dequeueReusableCellWithIdentifier:@"themeCell" forIndexPath:indexPath];
+    [cell updateUIWithModel:self.dataArr[indexPath.row]];
+    return cell;
+}
 
 @end

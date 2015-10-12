@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-
+@class WUExploreEventModel;
 @interface WUExploreEventCell : UITableViewCell
+
+- (void)updateUIWithModel:(WUExploreEventModel *)model;
 
 @end

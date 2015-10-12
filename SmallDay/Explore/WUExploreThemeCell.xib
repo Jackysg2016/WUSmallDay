@@ -18,10 +18,10 @@
                         <animations/>
                     </imageView>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="x9v-Ck-Kru">
-                        <rect key="frame" x="138" y="91" width="45" height="21"/>
+                        <rect key="frame" x="133" y="89" width="55" height="26"/>
                         <animations/>
-                        <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
-                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="21"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <nil key="highlightedColor"/>
                     </label>
                 </subviews>
@@ -40,7 +40,7 @@
                 <outlet property="bgImageView" destination="wZB-Fp-gmI" id="JAG-Uh-us6"/>
                 <outlet property="titleLabel" destination="x9v-Ck-Kru" id="GmX-xC-kfO"/>
             </connections>
-            <point key="canvasLocation" x="387" y="281.5"/>
+            <point key="canvasLocation" x="211" y="341.5"/>
         </tableViewCell>
     </objects>
 </document>

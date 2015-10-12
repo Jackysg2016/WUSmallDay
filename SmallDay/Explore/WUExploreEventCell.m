@@ -8,6 +8,13 @@
 
 #import "WUExploreEventCell.h"
 
+@interface WUExploreEventCell()
+
+@property (weak, nonatomic) IBOutlet UILabel *titleLabel;
+
+
+@end
+
 @implementation WUExploreEventCell
 
 - (void)awakeFromNib {
@@ -18,6 +25,10 @@
     [super setSelected:selected animated:animated];
 
     // Configure the view for the selected state
+}
+
+- (void)updateUIWithModel:(WUExploreEventModel *)model {
+    
 }
 
 @end
