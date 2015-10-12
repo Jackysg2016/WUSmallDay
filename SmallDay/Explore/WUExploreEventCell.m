@@ -1,14 +1,14 @@
 //
-//  WUExploreBeautyAlbumCell.m
+//  WUExploreEventCell.m
 //  SmallDay
 //
 //  Created by wuqh on 15/10/12.
 //  Copyright © 2015年 吴启晗. All rights reserved.
 //
 
-#import "WUExploreBeautyAlbumCell.h"
+#import "WUExploreEventCell.h"
 
-@implementation WUExploreBeautyAlbumCell
+@implementation WUExploreEventCell
 
 - (void)awakeFromNib {
     // Initialization code

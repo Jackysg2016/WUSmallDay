@@ -1,0 +1,1384 @@
+{
+    "msg": "Request is successful",
+    "code": 1,
+    "list": [
+             {
+             "date": "2015-09-12",
+             "themes": [
+                        {
+                        "themeurl": "http://api.xiaorizi.me/api/themedetail/?themeid=254",
+                        "img": "http://pic.huodongjia.com/event/2015-09-11/event137545.jpg",
+                        "title": "有趣的灵魂终将在书店相遇",
+                        "text": "<body><p>赫尔曼黑塞曾近说过，世界上任何书籍都不能带给你好运，但是它们能让你悄悄成为你自己。</p><p>在喧嚣繁华的城市里，书店是个孤独的存在。它不起眼，也常常被忽略。但就是这样一个地方，成为了人与书邂逅的见证者，也是读书人灵魂的寄宿地。流浪累了，思想倦了，去书店坐坐，让心灵回归平静。</p><p>在岁月沉淀下的上海，那些弥漫着智慧芬芳的书店更成为了这座城市最宁静深邃的风景。</p></body>",
+                        "hasweb": 1,
+                        "height": 400,
+                        "width": 640,
+                        "begin_time": "2015-09-12",
+                        "keywords": "人文 碰撞 交融",
+                        "id": 254
+                        }
+                        ],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131394.html",
+                        "telephone": "021-34696926",
+                        "tag": "咖啡馆,衣饰馆",
+                        "sponsor": {},
+                        "id": 131394,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "长作，让想法发芽",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "长作位于长乐路街边的独栋老洋房里，作为国内著名独立服装买手团队“栋梁”新店，一楼加入了咖啡馆元素，宽敞的院子，水泥砖墙，钢窗铁艺，将栋梁惯有的高品位元素一一融入进这个全新的空间里。",
+                        "note": "",
+                        "feeltitle": "一切美好的事物都是曲折的接近自己的目标",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "充满魔力的【时尚艺术游乐场】",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "马当路245号新天地时尚购物中心L116",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-07-15/event131678.jpg",
+                                          "http://pic.huodongjia.com/event/2015-04-21/event117982.jpg"
+                                          ],
+                                 "position": "121.481459264,31.2234139473",
+                                 "id": 129767
+                                 },
+                                 {
+                                 "title": "【古着】是个美妙文艺圈子",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区永福路2号隔壁小蓝门",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-15/event115910.jpg"
+                                          ],
+                                 "position": "121.450211437,31.2181868635",
+                                 "id": 129521
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.451167791,31.2173595466",
+                                     "title": "長作",
+                                     "address": "卢湾区长乐路764弄2号",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "卢湾区长乐路764弄2号",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-10/event137423.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "長作",
+                        "enddate": 3018667324,
+                        "mobileURL": "<body><html><head></head><body><p>长作位于长乐路街边的独栋老洋房里，作为国内著名独立服装买手团队“栋梁”新店，一楼加入了咖啡馆元素，宽敞的院子，水泥砖墙，钢窗铁艺，将栋梁惯有的高品位元素一一融入进这个全新的空间里。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137421.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137421.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137420.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137420.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137422.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137422.jpg\" width=\"1080\"></img></p><p>一楼的咖啡馆空间有着浓厚的日式情怀，纯粹而又细腻。各类木制手作，木桌木椅，很多都是栋梁团队的原创作品。店面空间高挑舒适，而讲究的格局通过铁窗木椅的摆放搭配无论从哪个角度都唯美的像画一般平静唯美。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137424.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137424.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137425.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137425.jpg\" width=\"1080\"></img></p><p>二三四楼便是服装以及部分家居饰品区域，根据时装摩登自然等等不同元素进行了各自划分，不变的都是栋梁作为国内最优秀独立品牌之一的高级品味。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137427.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137427.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137426.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137426.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137428.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137428.jpg\" width=\"1080\"></img></p><p>越来越多的独立品牌选择进军咖啡界，将其对于服饰个体的美好体验延生至新的领域，而栋梁作为长久以来专注推广中国独立设计师的优秀团队，长作咖啡馆的诞生无疑让很多本身一直热爱栋梁风格的文艺爱好者有了消磨时光的最佳去处。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137431.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137431.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137430.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137430.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137433.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137433.jpg\" width=\"1080\"></img></p><p>地址：上海卢湾区长乐路764弄2号</p><p>电话：021-34696926</p><p>营业时间： 13:00—22:00</p><p>人均：40/人</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131394,
+                        "position": "121.451167791,31.2173595466"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-11",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131393.html",
+                        "telephone": "021-64375595",
+                        "tag": "温润,纯质,家饰馆",
+                        "sponsor": {},
+                        "id": 131393,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "如孩童般幽默亲切的原创家具馆",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "源木家具希望他们的设计作品能给人带来孩童一般的幽默亲切感，这是他们品牌创立的初衷，店里几乎所有家具都采用松木和橡木制作，橡木柔软，松木厚重，两者搭配在一起仿佛文武二将，十分适宜。\r\n图5",
+                        "note": "",
+                        "feeltitle": "探索的对象是现在，是这里，不在他方",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "Hermit 弄堂里的【古董家具店】",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区胶州路190弄5号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-03/event113902.jpg"
+                                          ],
+                                 "position": "121.450323456,31.2337575478",
+                                 "id": 129323
+                                 },
+                                 {
+                                 "title": "Art Deco的老家具",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "南昌路242号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-13/event115275.jpg"
+                                          ],
+                                 "position": "121.471275264,31.2238790861",
+                                 "id": 129454
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.441817707,31.2021255164",
+                                     "title": "O.WW源木",
+                                     "address": "徐汇区宛平路114号(近康平路)",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "徐汇区宛平路114号(近康平路)",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-10/event137418.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "O.WW源木",
+                        "enddate": 3018666474,
+                        "mobileURL": "<body><html><head></head><body><p>来自香港新媒体艺术家dbdbking的创意家具世界，位于宛平路的宁静一角，带来以全实木制作的家具作品，放弃繁复的雕工，通过简约的几何线条，天然的纹路，自然的质感，呈现出各类如木材般质朴亲切的家具作品。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137407.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137407.jpg\" width=\"1080\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137419.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137419.jpg\" width=\"1080\"></img>​</p><p>源木店内并不大，并且形色各异的各类物件都是随意甚至是凌乱的摆放其中，店员告知源木大多接受的都是定制家具，店里的小物件更像是店主的趣味爱好，虽是不加修饰，却也在等待着一场缘分的降临。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137406.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137406.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137408.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137408.jpg\" width=\"1080\"></img></p><p>源木家具希望他们的设计作品能给人带来孩童一般的幽默亲切感，这是他们品牌创立的初衷，店里几乎所有家具都采用松木和橡木制作，橡木柔软，松木厚重，两者搭配在一起仿佛文武二将，十分适宜。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137410.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137410.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137411.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137411.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137412.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137412.jpg\" width=\"1080\"></img></p><p>创始人Francis本身是做互动、网站、以及多媒体这些东西，源木是他将自己多彩的生活经历通过另一种载体以更加朴质纯粹的方式得以表达，在这里或许你收获的不仅仅只是一份家具，Francis希望传达的是更加有趣而又简单的看待生活的本质。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-10/event137415.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-09-10/event137415.jpg\" width=\"1080\"></img></p><p>地址：徐汇区宛平路114号(近康平路)</p><p>电话：021-64375595</p><p>营业时间： 11:00—21:00</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131393,
+                        "position": "121.441817707,31.2021255164"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-10",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131343.html",
+                        "telephone": "021-55156352",
+                        "tag": "温润,幸福,惬意,茶坊",
+                        "sponsor": {},
+                        "id": 131343,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "你我彼此，一起饮茶",
+                        "eventtype": 1,
+                        "feelnum": 1,
+                        "questionURL": "",
+                        "detail": "彼”与“此”本来是一对反义词，看着距离很远，放到一起却成了“彼此”这个很有亲切感的词。这个名字也代表着“彼此的茶”衷心地希望，能为好茶创造活力，让好茶放下身段，走进年轻人的生活中去。",
+                        "note": "",
+                        "feeltitle": "要享受悠闲的生活，所费是不多的",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "以史为景 以茶为歌",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "淮海中路233号近嵩山路路口",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-15/event115893.jpg"
+                                          ],
+                                 "position": "121.481472277,31.2297315576",
+                                 "id": 129506
+                                 },
+                                 {
+                                 "title": "品茶间尽享古玩韵味",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "浦东大道569号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-08-19/event135321.jpg"
+                                          ],
+                                 "position": "121.528053,31.246735",
+                                 "id": 129392
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.489874374,31.2558160949",
+                                     "title": "彼此的茶",
+                                     "address": "上海虹口区哈尔滨路167号",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "上海虹口区哈尔滨路167号",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-03/event136609.JPG"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "彼此的茶",
+                        "enddate": 3018068301,
+                        "mobileURL": "<body><html><head></head><body><p>彼此的茶（半岛湾概念店）位于虹口区一条精致而有生活气息的小街--哈尔滨路上，楼上是原辛克机电厂改造的半岛湾创意园。彼此的茶是被咖啡香弥漫的哈尔滨路上的唯一一家茶店。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-03/event136608.JPG\" height=\"444\" src=\"http://pic.huodongjia.com/event/2015-09-03/event136608.JPG\" width=\"640\"></img></p><p>印象中的茶馆似乎总带着和年轻人的距离感，或是太高端，或是太老气。他们担心，如果没有一群年轻人去努力把茶与它所关联的一切带回彼此身边，茶文化可能就要随着老一辈的逝去而成为历史了。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-03/event136610.JPG\" height=\"426\" src=\"http://pic.huodongjia.com/event/2015-09-03/event136610.JPG\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-03/event136615.JPG\" height=\"426\" src=\"http://pic.huodongjia.com/event/2015-09-03/event136615.JPG\" width=\"640\"></img></p><p>“彼”与“此”本来是一对反义词，看着距离很远，放到一起却成了“彼此”这个很有亲切感的词。取名“彼此”，是因为他们相信，传统的可以很摩登，東方的可以很洋气，冲突的也可以有联系。</p><p>这个名字也代表着“彼此的茶”衷心地希望，能为好茶创造活力，让好茶放下身段，走进年轻人的生活中去。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-03/event136612.JPG\" height=\"426\" src=\"http://pic.huodongjia.com/event/2015-09-03/event136612.JPG\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-03/event136613.jpg\" height=\"426\" src=\"http://pic.huodongjia.com/event/2015-09-03/event136613.jpg\" width=\"640\"></img></p><p>不论是传统的壶泡和盖碗，还是现代的旋茶机和茶咖机，没有一种泡茶方式可以快速地，精确地，标准地复制，直到彼此的茶选择了一款超级强大的萃茶设备--Steampunk。</p><p>它能够通过一个Google Nexus的PAD精确的为每一款茶量身定制它所需的水温，茶水比，时间，搅拌参数等等，并且在短时间里冲出一杯完美的茶汤。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-03/event136616.jpg\" height=\"427\" src=\"http://pic.huodongjia.com/event/2015-09-03/event136616.jpg\" width=\"640\"></img></p><p>店里有一款著名的冰滴茶。所谓冰滴，即Ice Drip，是荷兰人发明的一种原来用于萃取咖啡的方法。</p><p>彼此的茶用冰滴的方式来萃取好茶。他们将两种优质茶叶稍加碾磨，可替代原先咖啡粉的位置，调节水滴流速为1至2秒1滴，经过8个小时可以萃取出600ml的冰滴茶。而经由冰滴萃取的茶汁，鲜甜润口，毫无涩味，而且香气突出，冰滴茶可以称得上是时间所换取的完美口感。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-03/event136614.JPG\" height=\"426\" src=\"http://pic.huodongjia.com/event/2015-09-03/event136614.JPG\" width=\"640\"></img></p><p>博古架是中国古时用来陈放古玩珍宝的架子，上面的物件往往小巧精致。彼此把精致的cocktail foods装入博古架，配上一壶好茶，约上三两好友，有什么能比这样的搭配更适合装点下午的悠闲时光呢？</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-03/event136611.JPG\" height=\"426\" src=\"http://pic.huodongjia.com/event/2015-09-03/event136611.JPG\" width=\"640\"></img>​</p><p>地址：上海虹口区哈尔滨路167号（近1933老场）</p><p>电话：021-55156352</p><p>微信公众号：彼此的茶</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131343,
+                        "position": "121.489874374,31.2558160949"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-09",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-129412.html",
+                        "telephone": "13681993833",
+                        "tag": "温润,雅韵,咖啡馆",
+                        "sponsor": {},
+                        "id": 129412,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "花店里的咖啡馆",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "安静的香山路上，隐匿着小小的EASO ROOM。也许食物和咖啡并不那么出彩，也许店里并没有人头涌动，但吸引我们的，或许就是这么一份独善其身的宁静吧。",
+                        "note": "",
+                        "feeltitle": "有趣，是最大的才情",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "以史为景 以茶为歌",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "淮海中路233号近嵩山路路口",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-15/event115893.jpg"
+                                          ],
+                                 "position": "121.481472277,31.2297315576",
+                                 "id": 129506
+                                 },
+                                 {
+                                 "title": "蕴含深厚的普洱房",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "卢湾区襄阳南路388弄25号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-07-11/event130819.jpg"
+                                          ],
+                                 "position": "121.464283483,31.21349548",
+                                 "id": 129374
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": ",",
+                                     "title": "ESON ROOM咖啡小馆",
+                                     "address": "卢湾区香山路32号",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "卢湾区香山路32号",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-04-11/event114830.jpg",
+                                 "http://pic.huodongjia.com/event/2015-04-10/event114768.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "ESON ROOM咖啡小馆",
+                        "enddate": 3017460715,
+                        "mobileURL": "<body><html><head></head><body><p>安静的香山路上，隐匿着小小的EASO ROOM。也许食物和咖啡并不那么出彩，也许店里并没有人头涌动，但吸引我们的，或许就是这么一份独善其身的宁静吧。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-04-11/event114831.jpg\" height=\"356\" src=\"http://pic.huodongjia.com/event/2015-04-11/event114831.jpg\" width=\"529\"></img></p><p>咖啡馆分为两层，一楼是除了吧台还展示着设计师的手工设计作品。有首饰设计师、服装设计师、手工皂制作者、布艺制作者、陶艺制作者、木工制作者等的作品 。所以也可以称为“创意手工店”，而且墙上“变废为宝”的包包、耳环、挂件、手帕等，足够咖友们“挑花眼”哦。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-04-11/event114832.jpg\" height=\"346\" src=\"http://pic.huodongjia.com/event/2015-04-11/event114832.jpg\" width=\"695\"></img></p><p>顺着狭小的扶梯上了二楼，上面的天地其实也非常小不过还有个可以容纳一张桌子的阳台，仿佛是个较惬意放松的咖啡室，人不多，地上铺垫了白色鹅卵石，桌子非常小，藤制的还有绿色吊兰伸展出来，外边是树影婆娑，风大，一阵阵风吹过让您感到一丝凉意，而且午后可以慢悠悠地喝着下午茶，感受这份难得的宁静。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-04-10/event114766.jpg\" height=\"784\" src=\"http://pic.huodongjia.com/event/2015-04-10/event114766.jpg\" width=\"640\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-04-10/event114801.jpg\" height=\"445\" src=\"http://pic.huodongjia.com/event/2015-04-10/event114801.jpg\" width=\"640\"></img>​</p><p>每周EasoRoom会有不同类的创意环保活动推出。为了让更多的朋友能够身体力行地加入环保行列，设计师会在现场指导如何利用环保材料制作手工作品，例如手工皂、拼布、不织布、首饰等...</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-04-11/event114833.jpg\" height=\"346\" src=\"http://pic.huodongjia.com/event/2015-04-11/event114833.jpg\" width=\"695\"></img></p><p>据说这条路上原先住的都是孙中山先生的部下，而越靠近故居的住宅的主人官职就越大，房子也就越奢华。你能想到这样一间雅致、温馨的咖啡店原先只是大户人家的一间车库吗？</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-04-11/event114834.jpg\" height=\"577\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-04-11/event114834.jpg\" width=\"455\"></img></p><p><strong>地址：</strong> 卢湾区香山路32号(近瑞金二路)</p><p><strong>营业时间：</strong>中午12：00 - 晚上22：00</p><p><strong>电话： </strong>13681993833 </p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 129412,
+                        "position": ","
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-08",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131325.html",
+                        "telephone": "18502103400",
+                        "tag": "惬意,甜品铺,面包房",
+                        "sponsor": {},
+                        "id": 131325,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "让面包柔软你的心情",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "在pain chaud你能听到来自世界各地的游客在这里分享他们的故事，就如甜食让人愉悦一样，在这样一家充满甜蜜氛围的空间里，点上一杯冷饮，让口感极佳的美味面包装点柔软你的美丽心情。\r\n图7",
+                        "note": "",
+                        "feeltitle": "让心起舞，这样才算不辜负",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "热爱一切美好的果实",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "上海五原路124号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-07-20/event131936.jpg"
+                                          ],
+                                 "position": "121.453228,31.219251",
+                                 "id": 130950
+                                 },
+                                 {
+                                 "title": "老上海茶馆 穿越时空去【品茶】",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "黄浦区方浜中路385号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-09/event114532.jpg"
+                                          ],
+                                 "position": "121.496850457,31.23074668",
+                                 "id": 129385
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "type": 2,
+                        "currency_token": "RMB"
+                        },
+                        "allshops": [
+                                     {
+                                     "position": "121.458858946,31.2110868689",
+                                     "city": "上海",
+                                     "position_gcj02": ",",
+                                     "title": "Pain Chaud",
+                                     "address": "徐汇区永康路27号(近嘉善路)"
+                                     }
+                                     ],
+                        "address": "徐汇区永康路27号(近嘉善路)",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-08-31/event136361.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "Pain Chaud",
+                        "enddate": 3017985546,
+                        "mobileURL": "<body><html><head></head><body><p>永康路这条街上聚集了各色有着浓郁西方情调的酒吧、餐厅、咖啡屋等等，浓浓的“洋味儿”在这条街上早已弥漫开来。Pain Chaud处在靠近嘉善路的位置，浓郁的面包香气不仅老外抵抗不了，甜食星人推门而入的一瞬间就恍如身处天堂。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136359.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136359.jpg\" width=\"1080\"></img></p><p>室内白色的瓷砖墙带来干净和清新的感受，冷柜上放着各式西点面包，包括羊角面包在内的酥皮面包、各种味道的手指泡芙、应季的水果挞等等。一旁的架子上放着新鲜出炉的法棍和恰巴塔等面包。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136358.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136358.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136360.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136360.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136362.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136362.jpg\" width=\"1080\"></img></p><p>店里可容乃的顾客实在有限，相当多的食客选择take away，同时由于外国顾客居多，店里的服务员会用流利的英语介绍店里的各种美食供客人选择。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136363.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136363.jpg\" width=\"1080\"></img></p><p>在pain chaud你能听到来自世界各地的游客在这里分享他们的故事，就如甜食让人愉悦一样。</p><p>在这样一家充满甜蜜氛围的空间里，点上一杯冷饮，让口感极佳的美味面包柔软你的美丽心情。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136364.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136364.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136365.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136365.jpg\" width=\"1080\"></img></p><p>地址：上海市徐汇区永康路27号(近嘉善路)</p><p>电话：18502103400</p><p>营业时间：每天 08:00 - 22:00</p><p>人均:46/人</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131325,
+                        "position": "121.458858946,31.2110868689"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-07",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-129413.html",
+                        "telephone": "021-64699155",
+                        "tag": "幸福,有趣,家饰馆",
+                        "sponsor": {},
+                        "id": 129413,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "各种设计与概念的集成店",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "朴坊，一个包容各种设计和概念的地方。有一群热爱生活但平凡自然的年轻人用心经营着，他们有着相同的工作态度和共同的理想。",
+                        "note": "",
+                        "feeltitle": "许多真理都是以笑话的形式讲出来",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "在美感中享受时尚、美味与艺术",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区南京西路1717号会德丰广场北苑，近华山路",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-07-23/event132306.jpg"
+                                          ],
+                                 "position": "121.451403,31.228122",
+                                 "id": 131101
+                                 },
+                                 {
+                                 "title": "复古家居 海派风情",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "五原路270弄2号（近永福路）",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-17/event138728.jpg"
+                                          ],
+                                 "position": "121.444066848,31.2081168886",
+                                 "id": 129505
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.439809649,31.1931197979",
+                                     "title": "朴坊（美罗城店）",
+                                     "address": "肇嘉浜路1111号美罗城4-8",
+                                     "city": "上海"
+                                     },
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.450360065,31.2243292369",
+                                     "title": "朴坊（静安店）",
+                                     "address": "上海市静安区南京西路1515号静安嘉里中心N4-18",
+                                     "city": "上海"
+                                     },
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.407300145,31.2069494969",
+                                     "title": "朴坊（南丰城店）",
+                                     "address": "长宁区遵义路100号虹桥南丰城1-LM06",
+                                     "city": "上海"
+                                     },
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.458660017,31.2163592336",
+                                     "title": "朴坊（环贸店）",
+                                     "address": "徐汇区IAPM环贸广场LG2-206(10:00-23:00)",
+                                     "city": "上海"
+                                     },
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.563019766,31.2121095489",
+                                     "title": "朴坊（浦东店）",
+                                     "address": "浦东新区花木路1378号浦东嘉里城B117",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "肇嘉浜路1111号美罗城4-8",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-04-11/event114824.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "朴坊（美罗城店）",
+                        "enddate": 3017209579,
+                        "mobileURL": "<body><html><head></head><body><p>在上海，他们是精致的田园风小店，令路过的人总想进去逛逛。</p><p>朴坊，一个包容各种设计和概念的地方。有一群热爱生活但平凡自然的年轻人用心经营着，他们有着相同的工作态度和共同的理想。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-24/event135667.jpg\" height=\"810\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-24/event135667.jpg\" width=\"1080\"></img></p><p>最初，朴坊的产品定位主要是一些手工艺品和东南亚风情的小物件，店也很小，东西很少。洪纬武说“因为那时我们拒绝工业化。”</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-24/event135673.jpg\" font-size=\"13.3333339691162\" height=\"810\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-24/event135673.jpg\" width=\"1080\"></img></p><p>后来，洪纬武发现一些好的工业设计是可以潜移默化的影响生活，并且帮助人们改变生活习惯的。于是，他就更期望把朴坊做成一个能够汇集不同地域的设计概念店，最终让大家对生活能够有所体验。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-24/event135671.jpg\" font-size=\"13.3333339691162\" height=\"1440\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-24/event135671.jpg\" width=\"1080\"></img></p><p>各种小玩意儿堆满货架，有金属字母、卡贴、陶瓷颜料等，可以买回家DIY；也有创意生活良品，像复古小风扇、搪瓷水壶、精美花瓶等。价格中等，挑拣一大堆回家是常有的事。</p><p>​<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-24/event135668.jpg\" height=\"810\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-24/event135668.jpg\" width=\"1080\"></img></p><p>他们崇尚简单，在生活中学习，寻找平凡生活中的美好事物和点滴感动，和大家一起体验和分享简单、舒适、愉悦的生活方式。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-24/event135669.jpg\" height=\"1440\" src=\"http://pic.huodongjia.com/event/2015-08-24/event135669.jpg\" width=\"1080\"></img></p><p><strong>美罗城店</strong></p><p>地址：上海市肇嘉浜路1111号美罗城4-8</p><p>电话：021-64699155</p><p><strong>营业时间：</strong></p><p>10:00 - 22:00</p><p>其它分店：</p><p><strong>浦东嘉里城店</strong></p><p>地址：上海市浦东新区花木路1378号浦东嘉里城B117 </p><p>电话：021-50182703 </p><p><strong>静安嘉里店</strong></p><p>地址：上海市静安区南京西路1515号静安嘉里中心N4-18</p><p>电话：021-62256710</p><p><strong>环贸店</strong></p><p>地址：徐汇区IAPM环贸广场LG2-206(10:00-23:00) </p><p>电话：021-64335810</p><p><strong>南丰城店</strong></p><p>地址：长宁区遵义路100号虹桥南丰城1-LM06</p><p>电话：021-62788083</p><p></p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 129413,
+                        "position": "121.439809649,31.1931197979"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-06",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131326.html",
+                        "telephone": "18616891700",
+                        "tag": "惬意,餐吧,咖啡馆",
+                        "sponsor": {},
+                        "id": 131326,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "寻一处复古工业感的地中海风情",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "这家主营西班牙美食的餐厅比起彬彬有礼的同类型绅士更像一位迷人热情的斗牛士一样充满活力。临街落地窗拉近了人与城市的距离，而跃层吊顶的梦幻吊灯如漫天繁星般装点着这间本就浪漫至极的空间。",
+                        "note": "",
+                        "feeltitle": "不爱说话的人，请认真生活",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "有家的味道的意式餐厅",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区五原路68号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-14/event115308.jpg"
+                                          ],
+                                 "position": "121.442977,31.238926",
+                                 "id": 129458
+                                 },
+                                 {
+                                 "title": "骨灰级蚝粉的福利",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "黄浦区茂名南路56号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-18/event116722.jpg",
+                                          "http://pic.huodongjia.com/event/2015-04-18/event116719.jpg"
+                                          ],
+                                 "position": "121.466611172,31.227514213",
+                                 "id": 129657
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.450250822,31.2197859362",
+                                     "title": "Host Wine&Kitchen",
+                                     "address": "静安区巨鹿路794号(富民路)",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "静安区巨鹿路794号(富民路)",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-08-31/event136375.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "Host Wine&Kitchen",
+                        "enddate": 3017985460,
+                        "mobileURL": "<body><html><head></head><body><p>雨后寻一处落脚，而还没进门便被host深褐色复古工业感的地中海风情所吸引，左手边皮质沙发上挂满的各色木钟仿佛每一刻定格都在上演着一场浪漫邂逅。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136367.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136367.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136366.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136366.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136368.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136368.jpg\" width=\"1080\"></img></p><p>这家主营西班牙美食的餐厅比起彬彬有礼的同类型绅士更像一位迷人热情的斗牛士一样充满活力。临街落地窗拉近了人与城市的距离，而跃层吊顶的梦幻吊灯如漫天繁星般装点着这间本就浪漫至极的空间。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136369.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136369.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136370.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136370.jpg\" width=\"1080\"></img></p><p>狭窄昏暗的楼梯让人心有悸动，踏入二楼空间才发现如果一楼是一位热情的斗牛士，那么二楼更像一位深邃且充满魅力的艺术家，放眼望去一大片砖墙通过特殊的工艺手法，雕塑品般营造了复古的年代感，斑驳漆色的地板都是老板亲自淘来重金打造的杰作。户外露台沿着绿荫成片的旧式情怀让这里成为一个品味美食消磨时光的好去处。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136376.jpg\" height=\"720\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136376.jpg\" width=\"1080\"></img>​<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136371.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136371.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136374.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136374.jpg\" width=\"1080\"></img></p><p>在HOST短短的探秘时光让人很难去单纯的定义这家店，如红色般热烈，也如黑色般深邃，这里就像是弗里达·卡罗的油画一样充满可能性。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136372.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136372.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136373.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136373.jpg\" width=\"1080\"></img></p><p>地址：</p><p>上海市静安区巨鹿路794号(富民路)</p><p>电话：</p><p>021-52049879 18616891700</p><p>营业时间：</p><p>周日-周四：11：30--24:00 周五-周六：11：30--02：00 ）</p><p>人均:180/人</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131326,
+                        "position": "121.450250822,31.2197859362"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-05",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131328.html",
+                        "telephone": "021-60191999",
+                        "tag": "赏味,惬意,酷炫,餐吧",
+                        "sponsor": {},
+                        "id": 131328,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "竹林深处探寻一场美食之旅",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "植藤地处繁华的静安香格里拉对面，临面马路，探身而视却是一番山水竹墨，几处散桌被翠竹包围，灵性与私密性俱佳，将植藤的雅致清幽和大都市的车水马龙形成鲜明对比，一楼进门已是置身世外，移步光影阶梯，空间的压缩上充分体现出现代建筑的设计感。",
+                        "note": "",
+                        "feeltitle": "你若爱，生活哪里都可爱",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "独一无二的相机主题研习社",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "上海市卢湾区淮海中路927弄淮海坊38号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-24/event119256.jpg",
+                                          "http://pic.huodongjia.com/event/2015-04-24/event119255.jpg",
+                                          "http://pic.huodongjia.com/event/2015-04-14/event115418.jpg"
+                                          ],
+                                 "position": "121.457423788,31.2195087142",
+                                 "id": 129465
+                                 },
+                                 {
+                                 "title": "纽约风 设计造 魔都第一家美食酒吧",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区淮海中路1028号嘉华坊2楼",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-07-21/event132152.jpg"
+                                          ],
+                                 "position": "121.462245,31.222091",
+                                 "id": 131085
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.451514731,31.224254472",
+                                     "title": "植藤",
+                                     "address": "静安区铜仁路88号113，近南京西路",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "静安区铜仁路88号113，近南京西路",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-08-31/event136391.jpg",
+                                 "http://pic.huodongjia.com/event/2015-08-31/event136393.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "植藤",
+                        "enddate": 3017901427,
+                        "mobileURL": "<body><html><head></head><body><p>植藤地处繁华的静安香格里拉对面，临面马路，探身而视却是一番山水竹墨，几处散桌被翠竹包围，灵性与私密性俱佳，将植藤的雅致清幽和大都市的车水马龙形成鲜明对比，一楼进门已是置身世外，移步光影阶梯，空间的压缩上充分体现出现代建筑的设计感。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136390.jpg\" height=\"720\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136390.jpg\" width=\"1080\"></img></p><p>步入二楼便是日料必不可少的吧台式用餐区，桌椅的选用上采用了木桌与透明椅的混搭式组合，左面绿树淳朴，右面日式禅意，小小区域将庭院枯山水的浓厚意境体现得淋漓尽致。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136392.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136392.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136400.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136400.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136394.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136394.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136395.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136395.jpg\" width=\"1080\"></img></p><p>上梯后转角，果然内有玄机，竹排吊灯宛如月下静思，包房区的设计更是将日式禅意幽静发挥到极致，每桌荷花莲蓬装点而视，木桌木椅静立其中，几幅水墨画另添风情，如此意境身处其间早已忘却背后繁华。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136396.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136396.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136397.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136397.jpg\" width=\"1080\"></img></p><p>植藤算不得华丽堂皇，只凭用心二字，便能吸引广大食客前来这竹林深处探寻一场美食之旅。无论你追求的是舌尖上的享受还是身临其境般的体验，即使门外庭院深深，也藏不住植藤的禅意浓浓。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136398.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136398.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136399.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136399.jpg\" width=\"1080\"></img></p><p>地址：上海市静安区铜仁路88号113，近南京西路</p><p>分店：上海市长宁区黄金城道809号(近古北路)</p><p>电话：021-60191999</p><p>营业时间：11：00-23：00</p><p>人均:300/人</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131328,
+                        "position": "121.451514731,31.224254472"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-04",
+             "themes": [
+                        {
+                        "themeurl": "http://api.xiaorizi.me/api/themedetail/?themeid=246",
+                        "img": "http://pic.huodongjia.com/event/2015-09-12/event137705.jpg",
+                        "title": "一起来玩泥巴吧",
+                        "text": "<body><p>玩泥巴？换个高大上的说法，是做陶艺。陶瓷艺术是最贴近童趣的一项艺术创作了，或许每个人在儿童时代都有着对泥巴的执念和眷恋吧。是时候让久违童趣的大人们带上蠢蠢欲动的小屁孩一起玩玩泥巴了。亲手做出自己喜欢的土胚，选择自己喜欢的颜色，上色，烘烤，所有的一切都让曾经的儿童和现在的儿童快乐无比，这是泥巴带来的快乐。</p></body>",
+                        "hasweb": 1,
+                        "height": 400,
+                        "width": 640,
+                        "begin_time": "2015-09-04",
+                        "keywords": "手工  陶艺  乐活",
+                        "id": 246
+                        }
+                        ],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-129392.html",
+                        "telephone": "021-68877880",
+                        "tag": "温润,惬意,茶坊",
+                        "sponsor": {},
+                        "id": 129392,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "品茶间尽享古玩韵味",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "泰和茶馆，闹市中的一片幽静之地。店内装潢得古色古香，大部分摆设是主人从各地淘来的古董，随心摆放，给你的品茶间隙带来视觉上的文古享受。",
+                        "note": "",
+                        "feeltitle": "用柔软的心灵去感知体贴一切",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "品茶听雨的好去处",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区长乐路339弄1号2-4楼",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-09-17/event138745.jpg"
+                                          ],
+                                 "position": "121.462503,31.225342",
+                                 "id": 131480
+                                 },
+                                 {
+                                 "title": "法国女人的古董与茶",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "永嘉路227号甲",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-08/event114501.jpg"
+                                          ],
+                                 "position": "121.467517293,31.2161018933",
+                                 "id": 129381
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.521496496,31.2408868218",
+                                     "title": "泰和茶馆（浦东大道店）",
+                                     "address": "浦东大道569号",
+                                     "city": "上海"
+                                     },
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.468841478,31.2011795104",
+                                     "title": "泰和茶馆（斜土路店）",
+                                     "address": "斜土路828号",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "浦东大道569号",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-08-19/event135321.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "泰和茶馆（浦东大道店）",
+                        "enddate": 3016772630,
+                        "mobileURL": "<body><html><head></head><body><p>泰和茶馆，闹市中的一片幽静之地。店内装潢得古色古香，大部分摆设是主人从各地淘来的古董，随心摆放，给你的品茶间隙带来视觉上的文古享受。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-19/event135318.jpg\" height=\"412\" src=\"http://pic.huodongjia.com/event/2015-08-19/event135318.jpg\" width=\"640\"></img></p><p>它的主题皆是以充满古典文化气息的店堂形象、低碳环保的原生态内饰材料、具有真实收藏价值的古董珍玩等为主要设计元素，传播人文精髓......</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-19/event135319.jpg\" height=\"420\" src=\"http://pic.huodongjia.com/event/2015-08-19/event135319.jpg\" width=\"640\"></img></p><p>现场有古筝表演，和着柔美的灯光，望着旅人的轻声细语，一股股茶香卷着绵柔的乐曲，便是品茶者想要的感受。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-19/event135320.jpg\" height=\"716\" src=\"http://pic.huodongjia.com/event/2015-08-19/event135320.jpg\" width=\"640\"></img></p><p>楼上有各式配茶点心，楼下还开设了足底按摩，师傅的手法很专业，品一份胃与身的舒适，总是那么恰到好处。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-04-09/event114589.jpg\" height=\"480\" src=\"http://pic.huodongjia.com/event/2015-04-09/event114589.jpg\" width=\"640\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-04-09/event114591.jpg\" height=\"480\" src=\"http://pic.huodongjia.com/event/2015-04-09/event114591.jpg\" width=\"640\"></img></p><p><strong>浦东大道店地址：</strong>浦东新区浦东大道569号(近东方路)</p><p><strong>电话：</strong>021-68877880</p><p><strong>营业时间：</strong>10:00 - 次日02:00</p><p><strong>斜土店地址：</strong>斜土路828号</p><p><strong>电话：</strong>021-51961117</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 129392,
+                        "position": "121.521496496,31.2408868218"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-03",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131304.html",
+                        "telephone": "15216765638",
+                        "tag": "乐器,有趣,惬意",
+                        "sponsor": {},
+                        "id": 131304,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "此心用度八千遍 不嫌厌倦",
+                        "eventtype": 2,
+                        "feelnum": 8,
+                        "questionURL": "",
+                        "detail": "在这里，你可以学习最专业、最古典的音乐课程，你可以学习拉响或弹奏任何一段你钟爱的旋律，你可以带着你的小伙伴儿一起来这里度过与音乐相伴的周末。",
+                        "note": "",
+                        "feeltitle": "今日踽踽独行，他日化蝶飞去",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "圆你一个“绿皮火车”梦",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "闵行区浦江镇江月路 1500 号 ( 近浦星公路 )",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-03-05/event1425555841.91.jpg",
+                                          "http://pic.huodongjia.com/event/2015-03-05/event1425555519.89.jpg"
+                                          ],
+                                 "position": "121.517761714,31.0896570329",
+                                 "id": 127832
+                                 },
+                                 {
+                                 "title": "有空带上孩子去“乐陶陶”",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "宝山区逸仙路3000号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-06-18/event128469.jpg"
+                                          ],
+                                 "position": "121.504331,31.346008",
+                                 "id": 130810
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.451325926,31.213617851",
+                                     "title": "艺分之捌社",
+                                     "address": "岳阳路18号三楼A座（近地铁1号线 常熟路站）",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "岳阳路18号三楼A座（近地铁1号线 常熟路站）",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-09-14/event137976.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "艺分之捌社",
+                        "enddate": 3018998262,
+                        "mobileURL": "<body><html><head></head><body><p>当音乐家来养家糊口是很难的，但是知道如何演奏乐器确是一项终身的技能。一旦你学会了，你就永远不会忘记。</p><p>音乐是一种有力的情感刺激，无论你何时感觉不好，你都可以求助于它。</p><p>是的。</p><p>唯有好时光和好音乐不能辜负。</p><p>在上海最漂亮的法租界岳阳路东平路上，在这条被称做“申城第一情侣街”上，这里雅致、安逸、静谧，艺分之捌社就在此，同时也毗邻着曾经是蒋介石和宋美龄的“爱庐”，也是现在的上海音乐学院附中。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-01/event136401.jpg\" height=\"498\" src=\"http://pic.huodongjia.com/event/2015-09-01/event136401.jpg\" width=\"665\"></img></p><p>艺分之捌社是沪上第一家以成人音乐交流、教学、兴趣拓展为主体的文艺音乐社团。这是一个容纳所有热爱生活的伙伴儿们的文艺会社。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-29/event136094.jpg\" height=\"960\" src=\"http://pic.huodongjia.com/event/2015-08-29/event136094.jpg\" width=\"640\"></img></p><p>在这里，你可以学习最专业、最古典的音乐课程，你可以学习拉响或弹奏任何一段你钟爱的旋律，你可以带着你的小伙伴儿一起来这里度过与音乐相伴的周末。</p><p>不知道自己适合什么乐器吗？要不要都体验看看再做决定？</p><p>或者</p><p>我们一起来找找看</p><p>看看那一种乐器</p><p>最合你的心</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-01/event136402.jpg\" height=\"810\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-09-01/event136402.jpg\" width=\"1080\"></img></p><p>小提琴，优雅神秘的古典弦乐器，音色优美，接近人声，音域宽广，表现力强，从它诞生那天起，就一直在乐器中占有显著的地位，为人们所宠爱。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-01/event136403.jpg\" height=\"720\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-09-01/event136403.jpg\" width=\"1080\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-29/event136087.jpg\" height=\"426\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-29/event136087.jpg\" width=\"640\"></img></p><p>钢琴，“乐器之王”，几乎囊括了乐音体系中的全部乐音，手指纷动，便流淌出一股声音的清泉。钢琴声和着歌声，等待和你一起谱写华丽乐章的时刻。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-29/event136090.jpg\" height=\"426\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-29/event136090.jpg\" width=\"640\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-01/event136406.jpg\" height=\"720\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-09-01/event136406.jpg\" width=\"1080\"></img></p><p>尤克里里，最简单快乐的弹奏乐器，来自夏威夷的“跳跃的跳蚤”，带着那股太平洋上的温暖欢快的夏威夷风，备受都市人喜爱的音乐精灵。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-29/event136084.jpg\" height=\"480\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-29/event136084.jpg\" width=\"640\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-01/event136415.jpg\" height=\"400\" src=\"http://pic.huodongjia.com/event/2015-09-01/event136415.jpg\" width=\"600\"></img></p><p>吉他，每一个梦想过流浪的人，都该拥有一把吉他，把你的梦写成歌 ，弹成诗。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-29/event136091.jpg\" height=\"426\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-29/event136091.jpg\" width=\"640\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-29/event136093.jpg\" height=\"426\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-29/event136093.jpg\" width=\"640\"></img></p><p>大提琴，巴洛克的膝间神话，巴赫的挚爱，文艺和气质降临的音乐岛屿。每当我们看到正经危坐的大提琴演奏者的时候，我们都会肃穆于其中的庄严和隆重，这是一种不嬉皮笑脸的乐器，让人心神向往。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-29/event136089.jpg\" height=\"426\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-29/event136089.jpg\" width=\"640\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-29/event136082.jpg\" height=\"425\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-29/event136082.jpg\" width=\"640\"></img></p><p>来这里学琴，走的时候还可以在附近法国梧桐下散散步。</p><p>约个时间带上一颗不辜负音乐和爱的心，同样的爱好让我们相聚艺分之捌社，也在这里寻找自己的另外一种可能，用音乐来表达内心的喜怒哀乐，阴晴圆缺。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-29/event136085.jpg\" height=\"426\" src=\"http://pic.huodongjia.com/event/2015-08-29/event136085.jpg\" width=\"640\"></img></p><p>【体验费用】</p><p>小提琴体验：65元</p><p>大提琴体验：99元</p><p>钢  琴体验：65元</p><p>吉  他体验：65元</p><p>尤克里里体验：65元</p><p>声乐训练体验：99元</p><p>【上课时间】</p><p>为了您的出行方便，请提前2~3天预约</p><p>每周四：13:00~21:00</p><p>每周六：9:00~21:00</p><p>每周日：9:00~21:00</p><p><strong>地址：</strong>岳阳路18号三楼A座（近地铁1号线 常熟路站）</p><p><strong>联系方式：</strong>15601760320 </p><p>微信号：15601760320  </p><p>微信公众号：yifenzhi8she</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131304,
+                        "position": "121.451325926,31.213617851"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-02",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131282.html",
+                        "telephone": "",
+                        "tag": "乐活,赏味,有趣,惬意,生活馆,杂货铺",
+                        "sponsor": {},
+                        "id": 131282,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "地下仓库式古董家具杂货店",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "这是一家一千平方米的地下仓库式古董家具杂货店。地处于地下一层的REDZEPI是一家在设计师和复古行家圈子里口碑甚好的店铺。",
+                        "note": "",
+                        "feeltitle": "之所以不断成长，是有一种坚持下去的力量",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "Farine最法国的上海【甜点店】",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "徐汇区武康路378号1楼近泰安路",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-03-26/event1427356869.8.jpg"
+                                          ],
+                                 "position": "121.4455229,31.2128154352",
+                                 "id": 129137
+                                 },
+                                 {
+                                 "title": "贩卖自然宁静的杂货铺",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "华山路 351 弄 19 号一楼",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-07-11/event130902.jpg"
+                                          ],
+                                 "position": "121.452590869,31.2243334145",
+                                 "id": 129242
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.430279299,31.2292444856",
+                                     "title": "REDZEPI",
+                                     "address": "静安区康定路1586号B1地下一层",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "静安区康定路1586号B1地下一层",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-08-25/event135778.jpg",
+                                 "http://pic.huodongjia.com/event/2015-08-25/event135768.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "REDZEPI",
+                        "enddate": 3018481602,
+                        "mobileURL": "<body><html><head></head><body><p>这是一家一千平方米的地下仓库式古董家具杂货店。地处于地下一层的REDZEPI是一家在设计师和复古行家圈子里口碑甚好的店铺。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-25/event135781.jpg\" height=\"480\" src=\"http://pic.huodongjia.com/event/2015-08-25/event135781.jpg\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-25/event135783.png\" height=\"638\" src=\"http://pic.huodongjia.com/event/2015-08-25/event135783.png\" width=\"642\"></img></p><p>看到门口的打字机了吗，其实，这是门铃。用回收来的复古打字机做成秘密锁，按对密码才会芝麻开门哦。不知道密码也不要紧，空格键是隐藏的门铃。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-25/event135777.jpg\" height=\"480\" src=\"http://pic.huodongjia.com/event/2015-08-25/event135777.jpg\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-08/event137072.JPG\" height=\"480\" src=\"http://pic.huodongjia.com/event/2015-09-08/event137072.JPG\" width=\"640\"></img></p><p>一进到里面，你会有一种眼花缭乱的感觉，你根本想象不出，这个地方原先的样子。镜子、台灯、钟表、摆件、乐器······琳琅满目的各样东西令人满心欢喜。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-25/event135776.jpg\" height=\"853\" src=\"http://pic.huodongjia.com/event/2015-08-25/event135776.jpg\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-25/event135782.jpg\" height=\"853\" src=\"http://pic.huodongjia.com/event/2015-08-25/event135782.jpg\" width=\"640\"></img></p><p>据店主介绍，这个仓库式古董家具杂货店内的藏品，是她历年辛苦收集的，现在已经多达四千余件了。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-25/event135775.jpg\" height=\"480\" src=\"http://pic.huodongjia.com/event/2015-08-25/event135775.jpg\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-08/event137066.jpg\" height=\"426\" src=\"http://pic.huodongjia.com/event/2015-09-08/event137066.jpg\" width=\"640\"></img></p><p>作为一个追求品质的店主，店里的每一个角落都自成一景。真皮沙发都用的是美国公牛皮和西班牙进口皮，加上店内复古的设计，质感爆棚。店内的木制品则是用榆木或柚木打造，店主说，“有时光的味道。”</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-25/event135779.jpg\" height=\"480\" src=\"http://pic.huodongjia.com/event/2015-08-25/event135779.jpg\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-08/event137073.JPG\" height=\"480\" src=\"http://pic.huodongjia.com/event/2015-09-08/event137073.JPG\" width=\"640\"></img></p><p>千坪的古董杂货店，逛逛停停拍拍玩玩就是浮生半日啦。逛累了也不要紧，随处可见的沙发都可以歇脚，店内还开辟了一个吧台，坐下来点一杯该店的招牌——百香果蜂蜜。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-25/event135784.png\" height=\"882\" src=\"http://pic.huodongjia.com/event/2015-08-25/event135784.png\" width=\"638\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-08/event137067.jpg\" height=\"426\" src=\"http://pic.huodongjia.com/event/2015-09-08/event137067.jpg\" width=\"640\"></img></p><p>这个迷人而又独特的地下古董杂货店里，每一件复古的摆件都有其与众不同的故事和气韵。快找个闲暇日子来REDZEPI体验一下吧，这个杂货店不解百忧，却驱千愁。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-25/event135780.jpg\" height=\"480\" src=\"http://pic.huodongjia.com/event/2015-08-25/event135780.jpg\" width=\"640\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-09-08/event137070.jpg\" height=\"460\" src=\"http://pic.huodongjia.com/event/2015-09-08/event137070.jpg\" width=\"796\"></img>​</p><p><strong>地址：</strong>静安区康定路1586號B1地下一層(近萬航渡路（光大銀行旁入口B1）</p><p><strong>营业时间： </strong>每天 10:00-18:00</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131282,
+                        "position": "121.430279299,31.2292444856"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-09-01",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-131327.html",
+                        "telephone": "021-54045252",
+                        "tag": "惬意,料理,餐吧",
+                        "sponsor": {},
+                        "id": 131327,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "孤隐若空寂 一家极具“魔性”的餐厅",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "简洁宽敞的大堂，灰色水泥以及无处不在的装饰艺术品都显现出无二不仅仅只是一家普通的日本料理店这么简单，或许跟无二特有的料理名称——“后创作料理”一样，用餐环境已经远远跳出餐饮的束缚，对于艺术以及禅意的追求让无二即使在高人均的消费前提下依然食客满座。",
+                        "note": "",
+                        "feeltitle": "生命本来多轻盈",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "Slurp!云南小市 混搭的米线咖啡馆",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区昌平路1000号(延平路)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-03/event113980.jpg"
+                                          ],
+                                 "position": "121.443036961,31.2389833883",
+                                 "id": 129332
+                                 },
+                                 {
+                                 "title": "骨灰级蚝粉的福利",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "黄浦区茂名南路56号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-18/event116722.jpg",
+                                          "http://pic.huodongjia.com/event/2015-04-18/event116719.jpg"
+                                          ],
+                                 "position": "121.466611172,31.227514213",
+                                 "id": 129657
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "type": 2,
+                        "currency_token": "RMB"
+                        },
+                        "allshops": [
+                                     {
+                                     "position": "121.45060407,31.2195034603",
+                                     "city": "上海",
+                                     "position_gcj02": ",",
+                                     "title": "新都里无二",
+                                     "address": "静安区巨鹿路803号(近富民路)"
+                                     }
+                                     ],
+                        "address": "静安区巨鹿路803号(近富民路)",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-08-31/event136382.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "新都里无二",
+                        "enddate": 3017820685,
+                        "mobileURL": "<body><html><head></head><body><p>无二是台湾餐饮名家“新都里”在上海经营的三家店的其中一家，另有穹六和萤七，其余四家都在台湾，而主营日料的无二地处巨鹿路上一条极其隐秘的街道边，不留意的话很容易擦肩而过。进门小道两边种满疏密有致的孟宗竹，窄窄的小道尽头一块汉白玉上便写有shintori的名字，旁边则是无二如美术馆般简洁而富有禅意的大门了。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136380.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136380.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136377.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136377.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136378.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136378.jpg\" width=\"1080\"></img></p><p>简洁宽敞的大堂，灰色水泥以及无处不在的装饰艺术品都显现出无二不仅仅只是一家普通的日本料理店这么简单，或许跟无二特有的料理名称——“后创作料理”一样，用餐环境已经远远跳出餐饮的束缚，对于艺术以及禅意的追求让无二即使在高人均的消费前提下依然食客满座。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136381.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136381.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136383.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136383.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136385.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136385.jpg\" width=\"1080\"></img></p><p>无论是一楼大堂还是二楼隔间，无二对于极简主义的偏爱再明显不过，昏暗的光线，对自然光的推崇，营造出极致的隐蔽空间感。而岩板、玻璃隔屏以及铬合金等元素通过挑高的LOFT式混凝土空间布置从而达到“云台飞天、琉光银影”的艺术效果。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136384.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136384.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136386.jpg\" height=\"1618\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136386.jpg\" width=\"1080\"></img></p><p>全开放式摩登厨房相信是无二对外的最佳标签，你可以近距离观赏厨师行云流水般的制作过程。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136388.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136388.jpg\" width=\"1080\"></img></p><p>无二无疑是上海日料店高度与深度的代表作品，虽然人均不菲，但好食好探索之人很难抗拒这样一家形色兼备的概念餐厅，“孤隐若空寂”，我想没有比这几个字更能概括无二这家魔都的魔性餐厅了。<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136387.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136387.jpg\" width=\"1080\"></img><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-31/event136389.jpg\" height=\"720\" src=\"http://pic.huodongjia.com/event/2015-08-31/event136389.jpg\" width=\"1080\"></img></p><p>地址：上海市静安区巨鹿路803号(近富民路)</p><p>电话：021-54045252</p><p>营业时间：11:30~14:0017:30~23:00（周六、周日）17:30~23:00（周一至周五）</p><p>人均:460/人</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 131327,
+                        "position": "121.45060407,31.2195034603"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-08-31",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-130231.html",
+                        "telephone": "021-62485928",
+                        "tag": "雅韵,惬意,小酒馆",
+                        "sponsor": {},
+                        "id": 130231,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "鸡尾酒精神 亦是复古高雅的韵味",
+                        "eventtype": 1,
+                        "feelnum": 6,
+                        "questionURL": "",
+                        "detail": "悠扬乐声随阵阵，海风飘散而出，徐徐吹来当下不时混合着微醺的酒气和残留的香水味，偶尔晃过陌生又熟悉的金发碧眼面孔，这五光十色的霓虹景象，曾几何时变成了人们勉怀过去时光的倒置想像，现在只能从老电影的画面或怀旧歌曲里细细回味。",
+                        "note": "",
+                        "feeltitle": "独立，就是努力做自己",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "茶与咖啡的曼妙结合",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "普陀区莫干山路50号M50创意园区内",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-10-10/event142112.jpg"
+                                          ],
+                                 "position": "121.455886,31.253722",
+                                 "id": 131722
+                                 },
+                                 {
+                                 "title": "创新海派酒廊",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区镇宁路217号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-05-25/event126243.jpg"
+                                          ],
+                                 "position": "121.442911,31.225557",
+                                 "id": 130603
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.459920103,31.2284394039",
+                                     "title": "Logan’s Punch 酒吧",
+                                     "address": "静安区泰兴路 99 号",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "静安区泰兴路 99 号",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-08-31/event136235.jpg",
+                                 "http://pic.huodongjia.com/event/2015-05-11/event122641.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "Logan’s Punch 酒吧",
+                        "enddate": 3017807262,
+                        "mobileURL": "<body><html><head></head><body><p>店主 Logan Brouse 是前 Muse 的调酒专家，他将自己这家店称作是中国的第一家“PUNCH BAR”，还请来了名声斐然的如恩设计研究室操刀店内设计。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-11/event122636.jpg\" height=\"560\" src=\"http://pic.huodongjia.com/event/2015-05-11/event122636.jpg\" width=\"784\"></img></p><p>这间酒吧的设计灵感源自于老式上海石库门的风格。给人一种街后窄巷的视觉印象。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-11/event122632.jpg\" height=\"560\" src=\"http://pic.huodongjia.com/event/2015-05-11/event122632.jpg\" width=\"784\"></img></p><p>上海地区的古老建筑何其多，但Neri&amp;Hu打造的Punch Bar不走现代的钢筋混凝风格或新古典主义设计，自入口便映入眼帘的 L 形状空间，引领大家走进一个独立於21世纪之外的世界。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-11/event122640.jpg\" height=\"560\" src=\"http://pic.huodongjia.com/event/2015-05-11/event122640.jpg\" width=\"784\"></img></p><p>二手木材、燻黑处理的青铜管路，以及绿色瓶状玻璃灯罩的大量复制， Neri&amp;Hu 刻意的选材处理，呼应着Punch Bar的地理位置—在公共空间与私人领域的模糊界线，就像遍布於这城市里无所不在的狭窄巷弄，描绘延伸出其独有的老旧纹理。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-11/event122635.jpg\" height=\"560\" src=\"http://pic.huodongjia.com/event/2015-05-11/event122635.jpg\" width=\"784\"></img></p><p>punch 这个词其实来自于梵文，它最早源于印度，通过东印公司与欧洲贸易往来而流传到英国，而后在 17 世纪，punch 又以其最初的样貌流传到美国，由酒精、糖、柠檬、水、茶或者香料 5 种原材料混合制成。所以 Logan’s Punch 的特色即是这种酒锅，用超大而炫目的玻璃锅，盛满完美混合的酒品，邀请一帮好友聚在一起慢慢享用。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-11/event122639.jpg\" height=\"560\" src=\"http://pic.huodongjia.com/event/2015-05-11/event122639.jpg\" width=\"784\"></img></p><p>而随处可见的圆镜与方镜又有什麽含意呢？建筑师 Lyndon Neri 与Rossana Hu 说到：「这间酒吧的存在与内构，对比狭窄巷弄中的黑暗与宁静，无非是一种纪念过往光辉璀璨的念旧回味，一种复杂却又引人入胜的缅怀。而开放空间中摆放的镜子，就像无时无刻都可能制造惊喜的小小安排，或许会反射出意料之外的影像也不一定。」</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-11/event122638.jpg\" height=\"560\" src=\"http://pic.huodongjia.com/event/2015-05-11/event122638.jpg\" width=\"784\"></img></p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-11/event122634.jpg\" height=\"814\" src=\"http://pic.huodongjia.com/event/2015-05-11/event122634.jpg\" width=\"628\"></img></p><p><strong>Logan’s Punch 酒吧</strong></p><p><strong>地址：</strong>静安区泰兴路99号张园A栋202(近南京西路，吴江路步行街)</p><p><strong>电话：</strong>021-62485928</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 130231,
+                        "position": "121.459920103,31.2284394039"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-08-30",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-130836.html",
+                        "telephone": "021-34060599",
+                        "tag": "赏味,惬意,餐吧",
+                        "sponsor": {},
+                        "id": 130836,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "如家庭小餐厅般温馨舒适",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "这是隐蔽在兴国路梧桐树下的一座西餐厅，餐厅的门口并不起眼，汽车行人路过很可能就错过了。这或许是都市品位餐厅的共性，店门口往往做得简单。这里，黑色的门框先就有了点感觉，再仔细一点，发觉其标示“Ginger”也是细巧内敛的。",
+                        "note": "",
+                        "feeltitle": "人生需要出走",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "Slurp!云南小市 混搭的米线咖啡馆",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区昌平路1000号(延平路)",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-04-03/event113980.jpg"
+                                          ],
+                                 "position": "121.443036961,31.2389833883",
+                                 "id": 129332
+                                 },
+                                 {
+                                 "title": "竹林深处探寻一场美食之旅",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "静安区铜仁路88号113，近南京西路",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-08-31/event136391.jpg",
+                                          "http://pic.huodongjia.com/event/2015-08-31/event136393.jpg"
+                                          ],
+                                 "position": "121.457956,31.23056",
+                                 "id": 131328
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "currency_token": "RMB",
+                        "type": 2
+                        },
+                        "allshops": [
+                                     {
+                                     "position_gcj02": ",",
+                                     "position": "121.44057306,31.2083476041",
+                                     "title": "Ginger",
+                                     "address": "徐汇区兴国路91号(近湖南路)",
+                                     "city": "上海"
+                                     }
+                                     ],
+                        "address": "徐汇区兴国路91号(近湖南路)",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-06-19/event128568.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "Ginger",
+                        "enddate": 3016770111,
+                        "mobileURL": "<body><html><head></head><body><p>这是隐蔽在兴国路梧桐树下的一座西餐厅，餐厅的门口并不起眼，汽车行人路过很可能就错过了。这或许是都市品位餐厅的共性，店门口往往做得简单。推开单扇头的大门，便知道已进入了一个幽情清新的好地方。</p><p>​<img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-19/event135310.jpg\" height=\"400\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-19/event135310.jpg\" width=\"640\"></img></p><p>餐厅是从临街民居改建而成，共三层，通往二层的楼梯隐蔽在门洞后面，所以甫一进门会有餐厅何其之小的讶异，但从左侧的前台面前走过，就发觉踩着楼梯了。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-19/event135311.jpg\" height=\"400\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-19/event135311.jpg\" width=\"640\"></img>​</p><p>然后差不多一步一景，味道越来越浓。一楼的面积真的不大，就一个吧台，几张桌椅，墙面材质是混凝土，一堵墙上悬挂了一幅幽默轻松的油画，惹人会心一笑；这里最突出的设计要数与楼梯相邻墙上的窗户，它处于入口对面的墙上，十分简单，就是透亮的玻璃，但其所在位置正好把建筑背后的花园美景引入室内，犹如一幅四季变换的风景画。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-19/event135315.jpg\" height=\"400\" src=\"http://pic.huodongjia.com/event/2015-08-19/event135315.jpg\" width=\"640\"></img></p><p>这个手法继续使用在在通往二楼的楼梯平台处，这是从另一个角度“偷”借窗外美景，令步上楼梯准备品尝美味的客人先入为主地有了好心情。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-19/event135312.jpg\" height=\"400\" line-height=\"20.7999992370605\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-08-19/event135312.jpg\" width=\"640\"></img></p><p>Ginger看起来是个适合来午餐，下午茶，或者小酌的好地方。菜单上有什么呢？日式沙拉，越南米粉…</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-19/event135314.jpg\" height=\"400\" src=\"http://pic.huodongjia.com/event/2015-08-19/event135314.jpg\" width=\"640\"></img></p><p>很多人为了这里的环境和松饼而来，其实就像它名字所暗示的，Ginger最有特色的是各种姜味食物，生姜蛋糕、姜味曲奇冰泣淋、加蜜鲜姜茶，空气里都弥漫着生姜的甜香味。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-08-19/event135313.jpg\" height=\"400\" src=\"http://pic.huodongjia.com/event/2015-08-19/event135313.jpg\" width=\"640\"></img></p><p><strong>地址：</strong>徐汇区兴国路91号(近湖南路)</p><p><strong>营业时间：</strong>周一至周五：10:30-23:00</p><p>周六：10：00 – 23：00</p><p>周日：10：00 - 22：00</p><p><strong>电话：</strong>021-34060599</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 130836,
+                        "position": "121.44057306,31.2083476041"
+                        }
+                        ]
+             },
+             {
+             "date": "2015-08-29",
+             "themes": [],
+             "events": [
+                        {
+                        "feel": "香艳指数",
+                        "shareURL": "http://api.xiaorizi.me/app/share-129549.html",
+                        "telephone": "021-64451297",
+                        "tag": "杂货铺",
+                        "sponsor": {},
+                        "id": 129549,
+                        "adurl": "",
+                        "startdate": 0,
+                        "title": "中古魅物店 搜罗全球正品尖货",
+                        "eventtype": 1,
+                        "feelnum": 0,
+                        "questionURL": "",
+                        "detail": "F&I 中古魅物店的配件很多都非常珍贵，就算像上海这样的摩登城市，也很难找到与店内一样的大牌配件。",
+                        "note": "",
+                        "feeltitle": "有时候我们缺的就是一个谦卑的倾听",
+                        "events": [],
+                        "more": [
+                                 {
+                                 "title": "Aroom 咖啡馆里的【杂货时光】",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "泰安路120弄卫乐园15号",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-07-08/event130488.jpg"
+                                          ],
+                                 "position": "121.441884583,31.2119354042",
+                                 "id": 129255
+                                 },
+                                 {
+                                 "title": "藤蔓繁绕的古董铺子",
+                                 "price": {
+                                 "price_currency": "￥",
+                                 "list": [],
+                                 "currency_token": "RMB",
+                                 "type": 2
+                                 },
+                                 "address": "上海常熟路113弄21号1楼",
+                                 "imgs": [
+                                          "http://pic.huodongjia.com/event/2015-03-28/event1427527291.71.jpg",
+                                          "http://pic.huodongjia.com/event/2015-03-28/event1427526424.81.jpg"
+                                          ],
+                                 "position": "121.454466531,31.2232542942",
+                                 "id": 129244
+                                 }
+                                 ],
+                        "city": "上海",
+                        "price": {
+                        "price_currency": "￥",
+                        "list": [],
+                        "type": 2,
+                        "currency_token": "RMB"
+                        },
+                        "allshops": [
+                                     {
+                                     "position": "121.449780945,31.2191011909",
+                                     "city": "上海",
+                                     "position_gcj02": ",",
+                                     "title": "F&I 中古魅物店",
+                                     "address": "巨鹿路845弄9号"
+                                     }
+                                     ],
+                        "address": "巨鹿路845弄9号",
+                        "imgs": [
+                                 "http://pic.huodongjia.com/event/2015-05-14/event123396.jpg"
+                                 ],
+                        "islongtime": 1,
+                        "remark": "F&I 中古魅物店",
+                        "enddate": 3016669325,
+                        "mobileURL": "<body><html><head></head><body><p>F&amp;I 中古魅物店的配件很多都非常珍贵，就算像上海这样的摩登城市，也很难找到与店内一样的大牌配件。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-14/event123394.jpg\" height=\"570\" src=\"http://pic.huodongjia.com/event/2015-05-14/event123394.jpg\" width=\"514\"></img></p><p>从精美的维多利亚时代手镯到现代设计师品牌到经典奢侈品大牌都能在这里一一找到。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-14/event123397.jpg\" height=\"1200\" line-height=\"20.8000011444092\" opacity=\"0.9\" src=\"http://pic.huodongjia.com/event/2015-05-14/event123397.jpg\" width=\"900\"></img></p><p>也因此，这家店极受时尚圈里的追捧，虽然价格不算亲民，不过冲着一件大牌单品就可以秒杀无数菲林的情况来看，也算非常值得！</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-14/event123398.jpg\" height=\"174\" src=\"http://pic.huodongjia.com/event/2015-05-14/event123398.jpg\" width=\"450\"></img></p><p>F&amp;I中古魅物店的老板她长居瑞典十年，游历欧洲多国，现在回到家乡上海开了这家漂亮精致高档的古董店，如果去她家店里，你还可以了解许多关于古着方面的知识。</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-14/event123399.jpg\" height=\"588\" src=\"http://pic.huodongjia.com/event/2015-05-14/event123399.jpg\" width=\"523\"></img></p><p><strong>主要经营：</strong>－女士皮包，皮鞋，手套，帽子,项链，手镯，腰带，丝巾，披肩等（香奈尔Chanel，圣罗兰YSL,爱马仕Hermes,纪梵希Givenchy,Celine, Loewe，LV等）</p><p>－精美二手或一手瓷器 (爱马仕Hermes,纪梵希Givenchy，圣罗兰YSL等)</p><p>－欧洲民间古品杂货</p><p>－也接受各种需求的订购</p><p><img alt=\"\" data-cke-saved-src=\"http://pic.huodongjia.com/event/2015-05-14/event123395.jpg\" height=\"570\" src=\"http://pic.huodongjia.com/event/2015-05-14/event123395.jpg\" width=\"514\"></img></p><p><strong>地址：</strong>巨鹿路845弄9号</p><p><strong>营业时间：</strong>12:00-21:00</p><p><strong>​电话：</strong>021-64451297</p></body></html></body>",
+                        "cat": {
+                        "name": "",
+                        "img": "",
+                        "id": ""
+                        },
+                        "eid": 129549,
+                        "position": "121.449780945,31.2191011909"
+                        }
+                        ]
+             }
+             ]
+}

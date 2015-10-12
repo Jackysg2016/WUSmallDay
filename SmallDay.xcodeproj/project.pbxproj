@@ -11,14 +11,21 @@
 		5796EC161BCB60F00039FC9E /* Experience.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC151BCB60F00039FC9E /* Experience.storyboard */; settings = {ASSET_TAGS = (); }; };
 		5796EC221BCB61570039FC9E /* Classify.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC211BCB61570039FC9E /* Classify.storyboard */; settings = {ASSET_TAGS = (); }; };
 		5796EC271BCB61710039FC9E /* My.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC261BCB61710039FC9E /* My.storyboard */; settings = {ASSET_TAGS = (); }; };
-		5796EC301BCB7E5F0039FC9E /* WUExploreBeautyDayCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC2E1BCB7E5F0039FC9E /* WUExploreBeautyDayCell.m */; settings = {ASSET_TAGS = (); }; };
-		5796EC311BCB7E5F0039FC9E /* WUExploreBeautyDayCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC2F1BCB7E5F0039FC9E /* WUExploreBeautyDayCell.xib */; settings = {ASSET_TAGS = (); }; };
-		5796EC351BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC331BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.m */; settings = {ASSET_TAGS = (); }; };
-		5796EC361BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC341BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.xib */; settings = {ASSET_TAGS = (); }; };
 		5796EC391BCB7ECB0039FC9E /* WUExploreTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC381BCB7ECB0039FC9E /* WUExploreTitleView.m */; settings = {ASSET_TAGS = (); }; };
 		5796EC3B1BCB7EE40039FC9E /* WUExploreTitleView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC3A1BCB7EE40039FC9E /* WUExploreTitleView.xib */; settings = {ASSET_TAGS = (); }; };
 		5796EC3E1BCB7FA20039FC9E /* WUExploreBeautyDayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC3D1BCB7FA20039FC9E /* WUExploreBeautyDayViewController.m */; settings = {ASSET_TAGS = (); }; };
 		5796EC411BCB7FB60039FC9E /* WUExploreBeautyAlbumViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC401BCB7FB60039FC9E /* WUExploreBeautyAlbumViewController.m */; settings = {ASSET_TAGS = (); }; };
+		5796EC441BCBA6C00039FC9E /* WUBaseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC431BCBA6C00039FC9E /* WUBaseModel.m */; settings = {ASSET_TAGS = (); }; };
+		5796EC481BCBAA4B0039FC9E /* WUExploreThemeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC461BCBAA4B0039FC9E /* WUExploreThemeCell.m */; settings = {ASSET_TAGS = (); }; };
+		5796EC491BCBAA4B0039FC9E /* WUExploreThemeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC471BCBAA4B0039FC9E /* WUExploreThemeCell.xib */; settings = {ASSET_TAGS = (); }; };
+		5796EC4D1BCBAA5F0039FC9E /* WUExploreEventCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC4B1BCBAA5F0039FC9E /* WUExploreEventCell.m */; settings = {ASSET_TAGS = (); }; };
+		5796EC4E1BCBAA5F0039FC9E /* WUExploreEventCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC4C1BCBAA5F0039FC9E /* WUExploreEventCell.xib */; settings = {ASSET_TAGS = (); }; };
+		5796EC501BCBAF400039FC9E /* beautyAlbumData.json in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC4F1BCBAF400039FC9E /* beautyAlbumData.json */; settings = {ASSET_TAGS = (); }; };
+		5796EC561BCBB0520039FC9E /* beautyDayData1.json in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC551BCBB0520039FC9E /* beautyDayData1.json */; settings = {ASSET_TAGS = (); }; };
+		5796EC581BCBB0640039FC9E /* beautyDayData2.json in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC571BCBB0640039FC9E /* beautyDayData2.json */; settings = {ASSET_TAGS = (); }; };
+		5796EC5A1BCBB1AC0039FC9E /* beautyDayData3.json in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC591BCBB1AC0039FC9E /* beautyDayData3.json */; settings = {ASSET_TAGS = (); }; };
+		5796EC631BCBB2C80039FC9E /* WUExploreEventModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC621BCBB2C80039FC9E /* WUExploreEventModel.m */; settings = {ASSET_TAGS = (); }; };
+		5796EC661BCBB2D50039FC9E /* WUExploreThemeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC651BCBB2D50039FC9E /* WUExploreThemeModel.m */; settings = {ASSET_TAGS = (); }; };
 		57A4F1701BC91F8200BB72D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F16F1BC91F8200BB72D4 /* main.m */; };
 		57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1721BC91F8200BB72D4 /* AppDelegate.m */; };
 		57A4F1791BC91F8200BB72D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F1771BC91F8200BB72D4 /* Main.storyboard */; };
@@ -59,12 +66,6 @@
 		5796EC151BCB60F00039FC9E /* Experience.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Experience.storyboard; sourceTree = "<group>"; };
 		5796EC211BCB61570039FC9E /* Classify.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Classify.storyboard; sourceTree = "<group>"; };
 		5796EC261BCB61710039FC9E /* My.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = My.storyboard; sourceTree = "<group>"; };
-		5796EC2D1BCB7E5F0039FC9E /* WUExploreBeautyDayCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreBeautyDayCell.h; sourceTree = "<group>"; };
-		5796EC2E1BCB7E5F0039FC9E /* WUExploreBeautyDayCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreBeautyDayCell.m; sourceTree = "<group>"; };
-		5796EC2F1BCB7E5F0039FC9E /* WUExploreBeautyDayCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WUExploreBeautyDayCell.xib; sourceTree = "<group>"; };
-		5796EC321BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreBeautyAlbumCell.h; sourceTree = "<group>"; };
-		5796EC331BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreBeautyAlbumCell.m; sourceTree = "<group>"; };
-		5796EC341BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WUExploreBeautyAlbumCell.xib; sourceTree = "<group>"; };
 		5796EC371BCB7ECB0039FC9E /* WUExploreTitleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreTitleView.h; sourceTree = "<group>"; };
 		5796EC381BCB7ECB0039FC9E /* WUExploreTitleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreTitleView.m; sourceTree = "<group>"; };
 		5796EC3A1BCB7EE40039FC9E /* WUExploreTitleView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WUExploreTitleView.xib; sourceTree = "<group>"; };
@@ -72,6 +73,22 @@
 		5796EC3D1BCB7FA20039FC9E /* WUExploreBeautyDayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreBeautyDayViewController.m; sourceTree = "<group>"; };
 		5796EC3F1BCB7FB60039FC9E /* WUExploreBeautyAlbumViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreBeautyAlbumViewController.h; sourceTree = "<group>"; };
 		5796EC401BCB7FB60039FC9E /* WUExploreBeautyAlbumViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreBeautyAlbumViewController.m; sourceTree = "<group>"; };
+		5796EC421BCBA6C00039FC9E /* WUBaseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUBaseModel.h; sourceTree = "<group>"; };
+		5796EC431BCBA6C00039FC9E /* WUBaseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUBaseModel.m; sourceTree = "<group>"; };
+		5796EC451BCBAA4B0039FC9E /* WUExploreThemeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreThemeCell.h; sourceTree = "<group>"; };
+		5796EC461BCBAA4B0039FC9E /* WUExploreThemeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreThemeCell.m; sourceTree = "<group>"; };
+		5796EC471BCBAA4B0039FC9E /* WUExploreThemeCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WUExploreThemeCell.xib; sourceTree = "<group>"; };
+		5796EC4A1BCBAA5F0039FC9E /* WUExploreEventCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreEventCell.h; sourceTree = "<group>"; };
+		5796EC4B1BCBAA5F0039FC9E /* WUExploreEventCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreEventCell.m; sourceTree = "<group>"; };
+		5796EC4C1BCBAA5F0039FC9E /* WUExploreEventCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WUExploreEventCell.xib; sourceTree = "<group>"; };
+		5796EC4F1BCBAF400039FC9E /* beautyAlbumData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = beautyAlbumData.json; sourceTree = "<group>"; };
+		5796EC551BCBB0520039FC9E /* beautyDayData1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = beautyDayData1.json; sourceTree = "<group>"; };
+		5796EC571BCBB0640039FC9E /* beautyDayData2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = beautyDayData2.json; sourceTree = "<group>"; };
+		5796EC591BCBB1AC0039FC9E /* beautyDayData3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = beautyDayData3.json; sourceTree = "<group>"; };
+		5796EC611BCBB2C80039FC9E /* WUExploreEventModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreEventModel.h; sourceTree = "<group>"; };
+		5796EC621BCBB2C80039FC9E /* WUExploreEventModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreEventModel.m; sourceTree = "<group>"; };
+		5796EC641BCBB2D50039FC9E /* WUExploreThemeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreThemeModel.h; sourceTree = "<group>"; };
+		5796EC651BCBB2D50039FC9E /* WUExploreThemeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreThemeModel.m; sourceTree = "<group>"; };
 		57A4F16B1BC91F8200BB72D4 /* SmallDay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmallDay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A4F16F1BC91F8200BB72D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		57A4F1711BC91F8200BB72D4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -132,6 +149,14 @@
 		5796EC171BCB60FC0039FC9E /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				5796EC551BCBB0520039FC9E /* beautyDayData1.json */,
+				5796EC571BCBB0640039FC9E /* beautyDayData2.json */,
+				5796EC591BCBB1AC0039FC9E /* beautyDayData3.json */,
+				5796EC4F1BCBAF400039FC9E /* beautyAlbumData.json */,
+				5796EC611BCBB2C80039FC9E /* WUExploreEventModel.h */,
+				5796EC621BCBB2C80039FC9E /* WUExploreEventModel.m */,
+				5796EC641BCBB2D50039FC9E /* WUExploreThemeModel.h */,
+				5796EC651BCBB2D50039FC9E /* WUExploreThemeModel.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -143,12 +168,12 @@
 				5796EC371BCB7ECB0039FC9E /* WUExploreTitleView.h */,
 				5796EC381BCB7ECB0039FC9E /* WUExploreTitleView.m */,
 				5796EC3A1BCB7EE40039FC9E /* WUExploreTitleView.xib */,
-				5796EC2D1BCB7E5F0039FC9E /* WUExploreBeautyDayCell.h */,
-				5796EC2E1BCB7E5F0039FC9E /* WUExploreBeautyDayCell.m */,
-				5796EC2F1BCB7E5F0039FC9E /* WUExploreBeautyDayCell.xib */,
-				5796EC321BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.h */,
-				5796EC331BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.m */,
-				5796EC341BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.xib */,
+				5796EC4A1BCBAA5F0039FC9E /* WUExploreEventCell.h */,
+				5796EC4B1BCBAA5F0039FC9E /* WUExploreEventCell.m */,
+				5796EC4C1BCBAA5F0039FC9E /* WUExploreEventCell.xib */,
+				5796EC451BCBAA4B0039FC9E /* WUExploreThemeCell.h */,
+				5796EC461BCBAA4B0039FC9E /* WUExploreThemeCell.m */,
+				5796EC471BCBAA4B0039FC9E /* WUExploreThemeCell.xib */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -310,11 +335,13 @@
 		57A4F1A11BCB47DA00BB72D4 /* Base */ = {
 			isa = PBXGroup;
 			children = (
-				57A4F1A71BCB49A600BB72D4 /* WUBaseViewController.h */,
-				57A4F1A81BCB49A600BB72D4 /* WUBaseViewController.m */,
+				57A4F1AD1BCB4BA700BB72D4 /* viewControllers.plist */,
 				57A4F1AA1BCB4B0E00BB72D4 /* WUTabBarController.h */,
 				57A4F1AB1BCB4B0E00BB72D4 /* WUTabBarController.m */,
-				57A4F1AD1BCB4BA700BB72D4 /* viewControllers.plist */,
+				57A4F1A71BCB49A600BB72D4 /* WUBaseViewController.h */,
+				57A4F1A81BCB49A600BB72D4 /* WUBaseViewController.m */,
+				5796EC421BCBA6C00039FC9E /* WUBaseModel.h */,
+				5796EC431BCBA6C00039FC9E /* WUBaseModel.m */,
 			);
 			path = Base;
 			sourceTree = "<group>";
@@ -496,13 +523,17 @@
 			files = (
 				5796EC221BCB61570039FC9E /* Classify.storyboard in Resources */,
 				5796EC3B1BCB7EE40039FC9E /* WUExploreTitleView.xib in Resources */,
+				5796EC501BCBAF400039FC9E /* beautyAlbumData.json in Resources */,
+				5796EC4E1BCBAA5F0039FC9E /* WUExploreEventCell.xib in Resources */,
+				5796EC491BCBAA4B0039FC9E /* WUExploreThemeCell.xib in Resources */,
+				5796EC581BCBB0640039FC9E /* beautyDayData2.json in Resources */,
 				5796EC271BCB61710039FC9E /* My.storyboard in Resources */,
 				57A4F1AE1BCB4BA700BB72D4 /* viewControllers.plist in Resources */,
 				5796EC161BCB60F00039FC9E /* Experience.storyboard in Resources */,
 				5796EC141BCB60CC0039FC9E /* Explore.storyboard in Resources */,
+				5796EC5A1BCBB1AC0039FC9E /* beautyDayData3.json in Resources */,
 				57A4F17B1BC91F8200BB72D4 /* Assets.xcassets in Resources */,
-				5796EC311BCB7E5F0039FC9E /* WUExploreBeautyDayCell.xib in Resources */,
-				5796EC361BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.xib in Resources */,
+				5796EC561BCBB0520039FC9E /* beautyDayData1.json in Resources */,
 				57A4F1791BC91F8200BB72D4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -581,14 +612,17 @@
 				57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */,
 				5796EC391BCB7ECB0039FC9E /* WUExploreTitleView.m in Sources */,
 				5796EC3E1BCB7FA20039FC9E /* WUExploreBeautyDayViewController.m in Sources */,
+				5796EC631BCBB2C80039FC9E /* WUExploreEventModel.m in Sources */,
 				57A4F1701BC91F8200BB72D4 /* main.m in Sources */,
-				5796EC351BCB7E9A0039FC9E /* WUExploreBeautyAlbumCell.m in Sources */,
 				57A4F1B91BCB4D2A00BB72D4 /* WUClassifyViewController.m in Sources */,
 				57A4F1A91BCB49A600BB72D4 /* WUBaseViewController.m in Sources */,
-				5796EC301BCB7E5F0039FC9E /* WUExploreBeautyDayCell.m in Sources */,
+				5796EC4D1BCBAA5F0039FC9E /* WUExploreEventCell.m in Sources */,
+				5796EC441BCBA6C00039FC9E /* WUBaseModel.m in Sources */,
+				5796EC481BCBAA4B0039FC9E /* WUExploreThemeCell.m in Sources */,
 				57A4F1B11BCB4D0E00BB72D4 /* WUExploreViewController.m in Sources */,
 				57A4F1B51BCB4D1E00BB72D4 /* WUExperienceViewController.m in Sources */,
 				57A4F1AC1BCB4B0E00BB72D4 /* WUTabBarController.m in Sources */,
+				5796EC661BCBB2D50039FC9E /* WUExploreThemeModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

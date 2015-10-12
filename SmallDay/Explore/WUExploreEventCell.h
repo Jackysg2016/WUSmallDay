@@ -1,5 +1,5 @@
 //
-//  WUExploreBeautyDayCell.h
+//  WUExploreEventCell.h
 //  SmallDay
 //
 //  Created by wuqh on 15/10/12.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface WUExploreBeautyDayCell : UITableViewCell
+@interface WUExploreEventCell : UITableViewCell
 
 @end

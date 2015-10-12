@@ -9,7 +9,8 @@
 #import "WUExploreBeautyAlbumViewController.h"
 
 @interface WUExploreBeautyAlbumViewController ()
-
+@property (nonatomic, strong) UITableView *tableView;
+@property (nonatomic, strong) NSMutableArray *dataArr;
 @end
 
 @implementation WUExploreBeautyAlbumViewController
