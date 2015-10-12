@@ -26,7 +26,21 @@
     [self.window makeKeyAndVisible];
     self.window.backgroundColor = [UIColor whiteColor];
     
+    [self customizeInterface];
+    
+    
     return YES;
+}
+
+- (void)customizeInterface {
+    UINavigationBar *navigationBarAppearance = [UINavigationBar appearance];
+
+    [navigationBarAppearance setBarTintColor:[UIColor whiteColor]];
+//    [navigationBarAppearance setTitleTextAttributes:textAttributes];
+    
+    [[UIBarButtonItem appearance] setTintColor:[UIColor blackColor]];
+    [[UIBarButtonItem appearance] setTitleTextAttributes:@{NSFontAttributeName:[UIFont systemFontOfSize:14],NSForegroundColorAttributeName:[UIColor blackColor]} forState:UIControlStateNormal];
+    
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {

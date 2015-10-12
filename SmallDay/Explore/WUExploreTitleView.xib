@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="F9B-cl-upJ" customClass="WUExploreTitleView">
+            <rect key="frame" x="0.0" y="0.0" width="196" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tpy-r1-c7w">
+                    <rect key="frame" x="98" y="0.0" width="98" height="44"/>
+                    <animations/>
+                    <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="美辑">
+                        <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="beautyAlbumButtonClick:" destination="F9B-cl-upJ" eventType="touchUpInside" id="TxR-ii-D64"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="UAl-5o-N5p">
+                    <rect key="frame" x="0.0" y="43" width="98" height="1"/>
+                    <animations/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="5hv-Jl-hZv"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HzV-Ac-SfP">
+                    <rect key="frame" x="0.0" y="0.0" width="98" height="44"/>
+                    <animations/>
+                    <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="美天">
+                        <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="beautyDayButtonClick:" destination="F9B-cl-upJ" eventType="touchUpInside" id="V6x-2h-Qla"/>
+                    </connections>
+                </button>
+            </subviews>
+            <animations/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="HzV-Ac-SfP" secondAttribute="bottom" id="5wx-3v-bko"/>
+                <constraint firstItem="tpy-r1-c7w" firstAttribute="width" secondItem="UAl-5o-N5p" secondAttribute="width" id="Fl0-Ky-7cN"/>
+                <constraint firstAttribute="trailing" secondItem="tpy-r1-c7w" secondAttribute="trailing" id="JVf-BH-eZT"/>
+                <constraint firstItem="tpy-r1-c7w" firstAttribute="top" secondItem="F9B-cl-upJ" secondAttribute="top" id="Nug-FN-uSw"/>
+                <constraint firstItem="HzV-Ac-SfP" firstAttribute="leading" secondItem="F9B-cl-upJ" secondAttribute="leading" id="OvP-ye-QQy"/>
+                <constraint firstAttribute="bottom" secondItem="tpy-r1-c7w" secondAttribute="bottom" id="RLB-Xf-N1j"/>
+                <constraint firstItem="tpy-r1-c7w" firstAttribute="leading" secondItem="HzV-Ac-SfP" secondAttribute="trailing" id="Rl2-zg-efC"/>
+                <constraint firstItem="tpy-r1-c7w" firstAttribute="width" secondItem="HzV-Ac-SfP" secondAttribute="width" id="TAe-1T-xmI"/>
+                <constraint firstItem="UAl-5o-N5p" firstAttribute="leading" secondItem="F9B-cl-upJ" secondAttribute="leading" id="blg-ui-4yn"/>
+                <constraint firstItem="HzV-Ac-SfP" firstAttribute="top" secondItem="F9B-cl-upJ" secondAttribute="top" id="fNi-xs-jjX"/>
+                <constraint firstAttribute="bottom" secondItem="UAl-5o-N5p" secondAttribute="bottom" id="wGe-BK-8wH"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="beautyAlbumButton" destination="tpy-r1-c7w" id="fbu-jR-3Fx"/>
+                <outlet property="beautyDayButton" destination="HzV-Ac-SfP" id="Yb7-hb-LPl"/>
+                <outlet property="bottomLine" destination="UAl-5o-N5p" id="Lmc-Ne-mLc"/>
+                <outlet property="bottomLineLeadingConstraint" destination="blg-ui-4yn" id="kU8-yI-ibG"/>
+            </connections>
+            <point key="canvasLocation" x="225" y="138"/>
+        </view>
+    </objects>
+</document>

@@ -1,21 +1,13 @@
 //
-//  PrefixHeader.pch
+//  WUExploreBeautyDayCell.h
 //  SmallDay
 //
 //  Created by wuqh on 15/10/12.
 //  Copyright © 2015年 吴启晗. All rights reserved.
 //
 
-#import <Availability.h>
-
-
-#ifdef __OBJC__
-
 #import <UIKit/UIKit.h>
-#import <Foundation/Foundation.h>
 
-#import "Constants.h"
+@interface WUExploreBeautyDayCell : UITableViewCell
 
-
-
-#endif
+@end

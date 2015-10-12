@@ -9,5 +9,7 @@
 #ifndef Constants_h
 #define Constants_h
 
+#define SCREEN_WIDTH ([[UIScreen mainScreen] bounds].size.width)
+#define SCREEN_HEIGHT ([[UIScreen mainScreen] bounds].size.height)
 
 #endif /* Constants_h */
