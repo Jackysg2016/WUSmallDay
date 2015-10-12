@@ -11,7 +11,6 @@
 		57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1721BC91F8200BB72D4 /* AppDelegate.m */; };
 		57A4F1791BC91F8200BB72D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F1771BC91F8200BB72D4 /* Main.storyboard */; };
 		57A4F17B1BC91F8200BB72D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F17A1BC91F8200BB72D4 /* Assets.xcassets */; };
-		57A4F17E1BC91F8200BB72D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F17C1BC91F8200BB72D4 /* LaunchScreen.storyboard */; };
 		57A4F1891BC91F8200BB72D4 /* SmallDayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1881BC91F8200BB72D4 /* SmallDayTests.m */; };
 		57A4F1941BC91F8200BB72D4 /* SmallDayUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1931BC91F8200BB72D4 /* SmallDayUITests.m */; };
 		57A4F1A91BCB49A600BB72D4 /* WUBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1A81BCB49A600BB72D4 /* WUBaseViewController.m */; settings = {ASSET_TAGS = (); }; };
@@ -51,7 +50,6 @@
 		57A4F1721BC91F8200BB72D4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		57A4F1781BC91F8200BB72D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		57A4F17A1BC91F8200BB72D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		57A4F17D1BC91F8200BB72D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57A4F17F1BC91F8200BB72D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		57A4F1841BC91F8200BB72D4 /* SmallDayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmallDayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A4F1881BC91F8200BB72D4 /* SmallDayTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SmallDayTests.m; sourceTree = "<group>"; };
@@ -140,7 +138,6 @@
 				57A4F1A61BCB47DA00BB72D4 /* Tools */,
 				57A4F1771BC91F8200BB72D4 /* Main.storyboard */,
 				57A4F17A1BC91F8200BB72D4 /* Assets.xcassets */,
-				57A4F17C1BC91F8200BB72D4 /* LaunchScreen.storyboard */,
 				57A4F16E1BC91F8200BB72D4 /* Supporting Files */,
 			);
 			path = SmallDay;
@@ -359,7 +356,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				57A4F1B61BCB4D1E00BB72D4 /* WUExperienceViewController.xib in Resources */,
-				57A4F17E1BC91F8200BB72D4 /* LaunchScreen.storyboard in Resources */,
 				57A4F1AE1BCB4BA700BB72D4 /* viewControllers.plist in Resources */,
 				57A4F17B1BC91F8200BB72D4 /* Assets.xcassets in Resources */,
 				57A4F1791BC91F8200BB72D4 /* Main.storyboard in Resources */,
@@ -486,14 +482,6 @@
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		57A4F17C1BC91F8200BB72D4 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				57A4F17D1BC91F8200BB72D4 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -582,9 +570,11 @@
 			baseConfigurationReference = 7AE2413D3BB25E273E40A516 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = SmallDay/PrefixHeader.pch;
 				INFOPLIST_FILE = SmallDay/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wqh.SmallDay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -596,9 +586,11 @@
 			baseConfigurationReference = 19BB5DF0D0B25747D507C748 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = SmallDay/PrefixHeader.pch;
 				INFOPLIST_FILE = SmallDay/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wqh.SmallDay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
