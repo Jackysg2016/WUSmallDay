@@ -9,12 +9,12 @@
 /* Begin PBXBuildFile section */
 		57A4F1701BC91F8200BB72D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F16F1BC91F8200BB72D4 /* main.m */; };
 		57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1721BC91F8200BB72D4 /* AppDelegate.m */; };
-		57A4F1761BC91F8200BB72D4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1751BC91F8200BB72D4 /* ViewController.m */; };
 		57A4F1791BC91F8200BB72D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F1771BC91F8200BB72D4 /* Main.storyboard */; };
 		57A4F17B1BC91F8200BB72D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F17A1BC91F8200BB72D4 /* Assets.xcassets */; };
 		57A4F17E1BC91F8200BB72D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F17C1BC91F8200BB72D4 /* LaunchScreen.storyboard */; };
 		57A4F1891BC91F8200BB72D4 /* SmallDayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1881BC91F8200BB72D4 /* SmallDayTests.m */; };
 		57A4F1941BC91F8200BB72D4 /* SmallDayUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1931BC91F8200BB72D4 /* SmallDayUITests.m */; };
+		57A4F1A91BCB49A600BB72D4 /* WUBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1A81BCB49A600BB72D4 /* WUBaseViewController.m */; settings = {ASSET_TAGS = (); }; };
 		BE8D0F928AE44F194A4D0FA6 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A997B3CFE4847447731E48F4 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -41,8 +41,6 @@
 		57A4F16F1BC91F8200BB72D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		57A4F1711BC91F8200BB72D4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		57A4F1721BC91F8200BB72D4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		57A4F1741BC91F8200BB72D4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		57A4F1751BC91F8200BB72D4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		57A4F1781BC91F8200BB72D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		57A4F17A1BC91F8200BB72D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57A4F17D1BC91F8200BB72D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -53,6 +51,8 @@
 		57A4F18F1BC91F8200BB72D4 /* SmallDayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmallDayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A4F1931BC91F8200BB72D4 /* SmallDayUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SmallDayUITests.m; sourceTree = "<group>"; };
 		57A4F1951BC91F8200BB72D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57A4F1A71BCB49A600BB72D4 /* WUBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUBaseViewController.h; sourceTree = "<group>"; };
+		57A4F1A81BCB49A600BB72D4 /* WUBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUBaseViewController.m; sourceTree = "<group>"; };
 		7AE2413D3BB25E273E40A516 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		A997B3CFE4847447731E48F4 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -110,8 +110,12 @@
 			children = (
 				57A4F1711BC91F8200BB72D4 /* AppDelegate.h */,
 				57A4F1721BC91F8200BB72D4 /* AppDelegate.m */,
-				57A4F1741BC91F8200BB72D4 /* ViewController.h */,
-				57A4F1751BC91F8200BB72D4 /* ViewController.m */,
+				57A4F1A11BCB47DA00BB72D4 /* Base */,
+				57A4F1A41BCB47DA00BB72D4 /* Explore(探店) */,
+				57A4F1A31BCB47DA00BB72D4 /* Experience(体验) */,
+				57A4F1A21BCB47DA00BB72D4 /* Classify(分类) */,
+				57A4F1A51BCB47DA00BB72D4 /* My(我的) */,
+				57A4F1A61BCB47DA00BB72D4 /* Tools */,
 				57A4F1771BC91F8200BB72D4 /* Main.storyboard */,
 				57A4F17A1BC91F8200BB72D4 /* Assets.xcassets */,
 				57A4F17C1BC91F8200BB72D4 /* LaunchScreen.storyboard */,
@@ -145,6 +149,54 @@
 				57A4F1951BC91F8200BB72D4 /* Info.plist */,
 			);
 			path = SmallDayUITests;
+			sourceTree = "<group>";
+		};
+		57A4F1A11BCB47DA00BB72D4 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				57A4F1A71BCB49A600BB72D4 /* WUBaseViewController.h */,
+				57A4F1A81BCB49A600BB72D4 /* WUBaseViewController.m */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		57A4F1A21BCB47DA00BB72D4 /* Classify(分类) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Classify(分类)";
+			path = Classify;
+			sourceTree = "<group>";
+		};
+		57A4F1A31BCB47DA00BB72D4 /* Experience(体验) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Experience(体验)";
+			path = Experience;
+			sourceTree = "<group>";
+		};
+		57A4F1A41BCB47DA00BB72D4 /* Explore(探店) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Explore(探店)";
+			path = Explore;
+			sourceTree = "<group>";
+		};
+		57A4F1A51BCB47DA00BB72D4 /* My(我的) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "My(我的)";
+			path = My;
+			sourceTree = "<group>";
+		};
+		57A4F1A61BCB47DA00BB72D4 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
 			sourceTree = "<group>";
 		};
 		794C35F6235D11121BECA389 /* Frameworks */ = {
@@ -229,6 +281,7 @@
 		57A4F1631BC91F8200BB72D4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = WU;
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "吴启晗";
 				TargetAttributes = {
@@ -345,9 +398,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				57A4F1761BC91F8200BB72D4 /* ViewController.m in Sources */,
 				57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */,
 				57A4F1701BC91F8200BB72D4 /* main.m in Sources */,
+				57A4F1A91BCB49A600BB72D4 /* WUBaseViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
