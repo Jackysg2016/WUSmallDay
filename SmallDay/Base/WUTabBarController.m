@@ -8,6 +8,12 @@
 
 #import "WUTabBarController.h"
 
+#import "WUExploreViewController.h"
+#import "WUExperienceViewController.h"  
+#import "WUClassifyViewController.h"
+#import "WUMyViewController.h"
+//@class WUBaseViewController;
+
 @interface WUTabBarController ()
 
 @end
@@ -17,6 +23,23 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    [self creatViewControllers];
+}
+
+- (void)creatViewControllers {
+    
+    NSString *filePath = [[NSBundle mainBundle] pathForResource:@"viewControllers" ofType:@"plist"];
+    NSArray *array = [NSArray arrayWithContentsOfFile:filePath];
+    NSMutableArray *viewControllerArr = @[].mutableCopy;
+    for (NSDictionary *dict in array) {
+        WUBaseViewController *viewController = [[NSClassFromString(dict[@"className"]) alloc] init];
+        viewController.tabBarItem.image = [[UIImage imageNamed:[dict[@"iconName"] stringByAppendingString:@"_1"]] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
+        viewController.tabBarItem.selectedImage = [[UIImage imageNamed:[dict[@"iconName"] stringByAppendingString:@"_2"]] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
+        [viewControllerArr addObject:viewController];
+    }
+    self.viewControllers = viewControllerArr;
+    self.tabBar.tintColor = [UIColor blackColor];
+
 }
 
 - (void)didReceiveMemoryWarning {

@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   viewControllers.plist
-   SmallDay
-
-   Created by wuqh on 15/10/12.
-   Copyright (c) 2015年 吴启晗. All rights reserved.
--->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-    
-    </dict>
+<array>
+	<dict>
+		<key>title</key>
+		<string>探店</string>
+		<key>className</key>
+		<string>WUExploreViewController</string>
+		<key>iconName</key>
+		<string>recommendation</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>体验</string>
+		<key>className</key>
+		<string>WUExperienceViewController</string>
+		<key>iconName</key>
+		<string>broadwood</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>分类</string>
+		<key>className</key>
+		<string>WUClassifyViewController</string>
+		<key>iconName</key>
+		<string>classification</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>我的</string>
+		<key>className</key>
+		<string>WUMyViewController</string>
+		<key>iconName</key>
+		<string>my</string>
+	</dict>
+</array>
 </plist>
