@@ -18,16 +18,17 @@
                         <animations/>
                     </view>
                     <navigationItem key="navigationItem" id="Frd-Os-4EL">
-                        <barButtonItem key="leftBarButtonItem" style="plain" id="UJz-dQ-lR6">
-                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Esb-Ix-IJF">
-                                <rect key="frame" x="20" y="7" width="30" height="30"/>
+                        <barButtonItem key="leftBarButtonItem" style="plain" id="WuD-Nd-GZl">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="mWH-Fo-1Vd">
+                                <rect key="frame" x="20" y="11" width="59" height="22"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <animations/>
-                                <state key="normal" title="上海">
+                                <inset key="titleEdgeInsets" minX="-45" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                <inset key="imageEdgeInsets" minX="34" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                <state key="normal" title="上海" image="home_down">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                         </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" title="附近" id="8DX-Jf-7WL"/>
                     </navigationItem>
@@ -35,6 +36,25 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="IOn-Mn-l8R" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1108" y="452"/>
+        </scene>
+        <!--Explore Beauty Day Detail View Controller-->
+        <scene sceneID="f65-tG-d7Y">
+            <objects>
+                <viewController storyboardIdentifier="WUExploreBeautyDayDetailViewController" id="1sG-CB-1II" customClass="WUExploreBeautyDayDetailViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="xgh-Zu-jHJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="XHJ-BF-f4K"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="2ut-Df-6Cz" customClass="WUExploreEventCell">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <animations/>
+                        <color key="backgroundColor" red="0.99607843139999996" green="0.34509803919999998" blue="0.41176470590000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="uBp-fe-Bxi" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1812" y="268"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="rCm-d6-5qI">
@@ -56,4 +76,7 @@
             <point key="canvasLocation" x="334" y="452"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="home_down" width="17" height="17"/>
+    </resources>
 </document>

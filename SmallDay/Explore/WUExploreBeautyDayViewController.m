@@ -12,6 +12,7 @@
 #import "WUExploreThemeCell.h"
 #import "WUExploreEventModel.h"
 #import "WUExploreThemeModel.h"
+#import "WUExploreBeautyDayDetailViewController.h"
 
 @interface WUExploreBeautyDayViewController ()<UITableViewDataSource,UITableViewDelegate>
 @property (nonatomic, strong) UITableView *tableView;
@@ -51,7 +52,7 @@
 #pragma mark - UI
 - (UITableView *)tableView {
     if (!_tableView) {
-        _tableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 64, SCREEN_WIDTH, SCREEN_HEIGHT-64) style:UITableViewStylePlain];
+        _tableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 64, SCREEN_WIDTH, SCREEN_HEIGHT-64-49) style:UITableViewStylePlain];
         _tableView.delegate = self;
         _tableView.dataSource = self;
         
@@ -100,6 +101,17 @@
     }
 }
 
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    [tableView deselectRowAtIndexPath:indexPath animated:YES];
+    
+    UIStoryboard *storyBoard = [UIStoryboard storyboardWithName:@"Explore" bundle:nil];
+    WUExploreBeautyDayDetailViewController *vc = [storyBoard instantiateViewControllerWithIdentifier:@"WUExploreBeautyDayDetailViewController"];
+    vc.hidesBottomBarWhenPushed = YES;
+    [self.navigationController pushViewController:vc animated:YES];
+}
+
 
 
 @end
+
+
