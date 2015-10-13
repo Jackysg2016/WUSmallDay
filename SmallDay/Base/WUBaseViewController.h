@@ -9,5 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface WUBaseViewController : UIViewController
+/**
+ 导航栏的返回事件
+ **/
+- (void)backAction:(id)sender;
 
 @end

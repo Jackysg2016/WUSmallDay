@@ -2,6 +2,7 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8191" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
     </dependencies>
     <scenes>
         <!--Explore View Controller-->
@@ -38,23 +39,66 @@
             <point key="canvasLocation" x="1108" y="452"/>
         </scene>
         <!--Explore Beauty Day Detail View Controller-->
-        <scene sceneID="f65-tG-d7Y">
+        <scene sceneID="rhs-rg-c1g">
             <objects>
-                <viewController storyboardIdentifier="WUExploreBeautyDayDetailViewController" id="1sG-CB-1II" customClass="WUExploreBeautyDayDetailViewController" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="WUExploreBeautyDayDetailViewController" id="BGk-Wd-gJl" customClass="WUExploreBeautyDayDetailViewController" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="xgh-Zu-jHJ"/>
-                        <viewControllerLayoutGuide type="bottom" id="XHJ-BF-f4K"/>
+                        <viewControllerLayoutGuide type="top" id="ckc-Pv-cSt"/>
+                        <viewControllerLayoutGuide type="bottom" id="AxS-Yz-7hC"/>
                     </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="2ut-Df-6Cz" customClass="WUExploreEventCell">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                    <view key="view" contentMode="scaleToFill" id="RMO-ug-Q4K">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="W5Z-gP-eLb">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <animations/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="BGk-Wd-gJl" id="YFq-3j-ldJ"/>
+                                    <outlet property="delegate" destination="BGk-Wd-gJl" id="IZS-JQ-vPS"/>
+                                </connections>
+                            </tableView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ocy-wb-OU9">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="200"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="ocy-wb-OU9" secondAttribute="height" multiplier="8:5" id="0IG-hp-UFQ"/>
+                                </constraints>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GSj-hB-jct" customClass="WUExploreEventHeaderView">
+                                <rect key="frame" x="0.0" y="200" width="320" height="64"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="64" id="vm4-vd-Bzk"/>
+                                </constraints>
+                            </view>
+                        </subviews>
                         <animations/>
-                        <color key="backgroundColor" red="0.99607843139999996" green="0.34509803919999998" blue="0.41176470590000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="W5Z-gP-eLb" firstAttribute="leading" secondItem="RMO-ug-Q4K" secondAttribute="leading" id="8jV-UY-oAV"/>
+                            <constraint firstItem="ocy-wb-OU9" firstAttribute="leading" secondItem="RMO-ug-Q4K" secondAttribute="leading" id="DB4-qP-XdV"/>
+                            <constraint firstItem="GSj-hB-jct" firstAttribute="leading" secondItem="RMO-ug-Q4K" secondAttribute="leading" id="KNh-fg-dwa"/>
+                            <constraint firstItem="W5Z-gP-eLb" firstAttribute="top" secondItem="RMO-ug-Q4K" secondAttribute="top" id="RM3-hq-fhE"/>
+                            <constraint firstItem="AxS-Yz-7hC" firstAttribute="top" secondItem="W5Z-gP-eLb" secondAttribute="bottom" id="WyT-ZV-DxU"/>
+                            <constraint firstAttribute="trailing" secondItem="GSj-hB-jct" secondAttribute="trailing" id="ivj-V1-bAx"/>
+                            <constraint firstItem="ocy-wb-OU9" firstAttribute="top" secondItem="RMO-ug-Q4K" secondAttribute="top" id="pVy-mN-rAt"/>
+                            <constraint firstItem="GSj-hB-jct" firstAttribute="top" secondItem="ocy-wb-OU9" secondAttribute="bottom" id="rl5-1J-DI2"/>
+                            <constraint firstAttribute="trailing" secondItem="ocy-wb-OU9" secondAttribute="trailing" id="ubq-55-AkB"/>
+                            <constraint firstAttribute="trailing" secondItem="W5Z-gP-eLb" secondAttribute="trailing" id="ymS-HR-107"/>
+                        </constraints>
                     </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                    <connections>
+                        <outlet property="headerImageView" destination="ocy-wb-OU9" id="VQ3-TU-PGV"/>
+                        <outlet property="headerTitleView" destination="GSj-hB-jct" id="qS1-Z3-vrw"/>
+                        <outlet property="tableView" destination="W5Z-gP-eLb" id="0Rd-uS-fcR"/>
+                    </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="uBp-fe-Bxi" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="16W-SK-Ude" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1812" y="268"/>
+            <point key="canvasLocation" x="1730" y="452"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="rCm-d6-5qI">

@@ -106,6 +106,7 @@
     
     UIStoryboard *storyBoard = [UIStoryboard storyboardWithName:@"Explore" bundle:nil];
     WUExploreBeautyDayDetailViewController *vc = [storyBoard instantiateViewControllerWithIdentifier:@"WUExploreBeautyDayDetailViewController"];
+    [vc setDataModel:self.dataArr[indexPath.row]];
     vc.hidesBottomBarWhenPushed = YES;
     [self.navigationController pushViewController:vc animated:YES];
 }

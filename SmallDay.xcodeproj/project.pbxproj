@@ -28,6 +28,7 @@
 		5796EC661BCBB2D50039FC9E /* WUExploreThemeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC651BCBB2D50039FC9E /* WUExploreThemeModel.m */; settings = {ASSET_TAGS = (); }; };
 		5796EC691BCBB9FF0039FC9E /* WUAppUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC681BCBB9FF0039FC9E /* WUAppUtils.m */; settings = {ASSET_TAGS = (); }; };
 		5796EC6F1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC6E1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.m */; settings = {ASSET_TAGS = (); }; };
+		5796EC721BCCC51F0039FC9E /* WUExploreEventHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC711BCCC51F0039FC9E /* WUExploreEventHeaderView.m */; settings = {ASSET_TAGS = (); }; };
 		57A4F1701BC91F8200BB72D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F16F1BC91F8200BB72D4 /* main.m */; };
 		57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1721BC91F8200BB72D4 /* AppDelegate.m */; };
 		57A4F1791BC91F8200BB72D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F1771BC91F8200BB72D4 /* Main.storyboard */; };
@@ -95,6 +96,8 @@
 		5796EC681BCBB9FF0039FC9E /* WUAppUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUAppUtils.m; sourceTree = "<group>"; };
 		5796EC6D1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreBeautyDayDetailViewController.h; sourceTree = "<group>"; };
 		5796EC6E1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreBeautyDayDetailViewController.m; sourceTree = "<group>"; };
+		5796EC701BCCC51F0039FC9E /* WUExploreEventHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreEventHeaderView.h; sourceTree = "<group>"; };
+		5796EC711BCCC51F0039FC9E /* WUExploreEventHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreEventHeaderView.m; sourceTree = "<group>"; };
 		57A4F16B1BC91F8200BB72D4 /* SmallDay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmallDay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A4F16F1BC91F8200BB72D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		57A4F1711BC91F8200BB72D4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -180,6 +183,8 @@
 				5796EC451BCBAA4B0039FC9E /* WUExploreThemeCell.h */,
 				5796EC461BCBAA4B0039FC9E /* WUExploreThemeCell.m */,
 				5796EC471BCBAA4B0039FC9E /* WUExploreThemeCell.xib */,
+				5796EC701BCCC51F0039FC9E /* WUExploreEventHeaderView.h */,
+				5796EC711BCCC51F0039FC9E /* WUExploreEventHeaderView.m */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -629,6 +634,7 @@
 				57A4F1701BC91F8200BB72D4 /* main.m in Sources */,
 				57A4F1B91BCB4D2A00BB72D4 /* WUClassifyViewController.m in Sources */,
 				57A4F1A91BCB49A600BB72D4 /* WUBaseViewController.m in Sources */,
+				5796EC721BCCC51F0039FC9E /* WUExploreEventHeaderView.m in Sources */,
 				5796EC4D1BCBAA5F0039FC9E /* WUExploreEventCell.m in Sources */,
 				5796EC441BCBA6C00039FC9E /* WUBaseModel.m in Sources */,
 				5796EC481BCBAA4B0039FC9E /* WUExploreThemeCell.m in Sources */,

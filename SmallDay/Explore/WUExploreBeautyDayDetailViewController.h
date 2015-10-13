@@ -7,7 +7,10 @@
 //
 
 #import "WUBaseViewController.h"
+@class WUExploreEventModel;
 
 @interface WUExploreBeautyDayDetailViewController : WUBaseViewController
+
+- (void)setDataModel:(WUExploreEventModel *)model;
 
 @end
