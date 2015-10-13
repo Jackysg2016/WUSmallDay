@@ -20,6 +20,10 @@
 
 @implementation WUExploreThemeCell
 
++ (instancetype)exploreThemeCell {
+    return [[[NSBundle mainBundle] loadNibNamed:@"WUExploreThemeCell" owner:self options:nil] lastObject];
+}
+
 - (void)awakeFromNib {
     // Initialization code
     

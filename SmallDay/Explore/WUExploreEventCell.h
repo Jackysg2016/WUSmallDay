@@ -10,6 +10,8 @@
 @class WUExploreEventModel;
 @interface WUExploreEventCell : UITableViewCell
 
++ (instancetype)exploreEventCell;
+
 - (void)updateUIWithModel:(WUExploreEventModel *)model;
 
 @end

@@ -24,6 +24,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     [self.view addSubview:self.tableView];
+    
     [self loadData];
 }
 
@@ -44,7 +45,6 @@
         }
         
     }
-    NSLog(@"%@",self.dataArr);
     [self.tableView reloadData];
 }
 
@@ -59,6 +59,7 @@
     return _tableView;
 }
 
+#pragma mark - UITableViewDataSource
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
     return 1;
 }
@@ -67,23 +68,38 @@
     return self.dataArr.count;
 }
 
-//- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-//
-//    if ([self.dataArr[indexPath.row] isKindOfClass:[WUExploreEventModel class]]) {
-//        static NSString *identifier = @"eventCell";
-//        WUExploreEventCell *cell = [tableView dequeueReusableCellWithIdentifier:identifier] ;
-//        if (!cell) {
-//            cell = [[WUExploreEventCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:identifier];
-//        }
-//    
-//        
-//    }else {
-//        static
-//    }
-//    
-//    
-//    
-//    return cell;
-//}
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+
+    if ([self.dataArr[indexPath.row] isKindOfClass:[WUExploreEventModel class]]) {
+        static NSString *identifier = @"eventCell";
+        WUExploreEventCell *cell = [tableView dequeueReusableCellWithIdentifier:identifier] ;
+        if (!cell) {
+            cell = [WUExploreEventCell exploreEventCell];
+        }
+        [cell updateUIWithModel:self.dataArr[indexPath.row]];
+        return cell;
+        
+    }else {
+        static NSString *identifier = @"themeCell";
+        WUExploreThemeCell *cell = [tableView dequeueReusableCellWithIdentifier:identifier];
+        if (!cell) {
+            cell = [WUExploreThemeCell exploreThemeCell];
+        }
+        [cell updateUIWithModel:self.dataArr[indexPath.row]];
+        return cell;
+    }
+
+}
+
+#pragma mark - UITableViewDelegate 
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    if ([self.dataArr[indexPath.row] isKindOfClass:[WUExploreEventModel class]]) {
+        return 252;
+    }else {
+        return 205;
+    }
+}
+
+
 
 @end

@@ -11,6 +11,8 @@
 
 @interface WUExploreThemeCell : UITableViewCell
 
++ (instancetype)exploreThemeCell;
+
 - (void)updateUIWithModel:(WUExploreThemeModel *)model;
 
 @end
