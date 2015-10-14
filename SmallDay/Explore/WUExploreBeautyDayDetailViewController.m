@@ -11,13 +11,17 @@
 #import "WUExploreEventModel.h"
 #import <UIImageView+WebCache.h>
 #import "WUExploreEventHeaderView.h"
+#import "WUExploreStoreDiscoveryViewController.h"
+#import "WUExploreStoreDetailViewController.h"
 
-@interface WUExploreBeautyDayDetailViewController ()<UITableViewDataSource,UITableViewDelegate>
+@interface WUExploreBeautyDayDetailViewController ()<UIPageViewControllerDataSource>
 
 @property (weak, nonatomic) IBOutlet UIImageView *headerImageView;
 @property (weak, nonatomic) IBOutlet WUExploreEventHeaderView *headerTitleView;
 @property (nonatomic, strong) WUExploreEventModel *model;
-@property (weak, nonatomic) IBOutlet UITableView *tableView;
+
+@property (nonatomic, strong) UIPageViewController *pageController;
+@property (nonatomic, strong) NSArray *pageContent;
 
 @end
 
@@ -33,13 +37,29 @@
     
     [self creatBarButtonItems];
     [self updateUIWithModel:self.model];
-    [self.tableView setContentInset:UIEdgeInsetsMake(self.headerImageView.bounds.size.height+self.headerTitleView.bounds.size.height, 0, 0, 0)];
     
-    
+    [self createPageViewController];
+
 }
 
 - (void)setDataModel:(WUExploreEventModel *)model {
     self.model = model;
+}
+
+- (void)createPageViewController {
+    self.pageController = [[UIPageViewController alloc] initWithTransitionStyle:UIPageViewControllerTransitionStyleScroll navigationOrientation:UIPageViewControllerNavigationOrientationHorizontal options:nil];
+    self.pageController.dataSource = self;
+    self.pageController.view.frame = self.view.bounds;
+    
+    WUExploreStoreDiscoveryViewController *discoveryVc = [[WUExploreStoreDiscoveryViewController alloc] initWithModel:self.model];
+    WUExploreStoreDetailViewController *detailVc = [[WUExploreStoreDetailViewController alloc] initWithModel:self.model];
+    self.pageContent = @[discoveryVc,detailVc];
+    [self.pageController setViewControllers:@[discoveryVc] direction:UIPageViewControllerNavigationDirectionReverse animated:YES completion:nil];
+    
+    [self addChildViewController:self.pageController];
+    [self.view addSubview:self.pageController.view];
+    [self.view sendSubviewToBack:self.pageController.view];
+    
 }
 
 #pragma mark - BarButtonItems
@@ -68,6 +88,34 @@
     [self.headerImageView sd_setImageWithURL:[NSURL URLWithString:model.imgs[0]] placeholderImage:nil];
 }
 
+
+
+#pragma mark - UIPageViewControllerDataSource
+- (UIViewController *)pageViewController:(UIPageViewController *)pageViewController viewControllerAfterViewController:(UIViewController *)viewController {
+    NSInteger index = [self.pageContent indexOfObject:viewController];
+    if (index == NSNotFound) {
+        return nil;
+    }
+    index++;
+    if (index >= self.pageContent.count) {
+        return nil;
+    }
+    return self.pageContent[index];
+}
+
+- (UIViewController *)pageViewController:(UIPageViewController *)pageViewController viewControllerBeforeViewController:(UIViewController *)viewController {
+    NSInteger index = [self.pageContent indexOfObject:viewController];
+    if (index == 0 || index ==NSNotFound) {
+        return nil;
+    }
+    index--;
+    if (index >= self.pageContent.count) {
+        return nil;
+    }
+    return self.pageContent[index];
+}
+
+
 #pragma mark - Action
 //收藏
 - (void)collect:(id)sender {
@@ -79,23 +127,5 @@
     
 }
 
-#pragma mark - UITableViewDataSource
-- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
-    return 1;
-}
-
-- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return 20;
-}
-
-- (UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"cell"];
-    if (!cell) {
-        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"cell"];
-    }
-    cell.textLabel.text = [NSString stringWithFormat:@"ld",indexPath.row];
-    return cell;
-}
 
 @end

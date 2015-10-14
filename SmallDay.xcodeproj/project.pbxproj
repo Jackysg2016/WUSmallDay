@@ -29,6 +29,8 @@
 		5796EC691BCBB9FF0039FC9E /* WUAppUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC681BCBB9FF0039FC9E /* WUAppUtils.m */; settings = {ASSET_TAGS = (); }; };
 		5796EC6F1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC6E1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.m */; settings = {ASSET_TAGS = (); }; };
 		5796EC721BCCC51F0039FC9E /* WUExploreEventHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC711BCCC51F0039FC9E /* WUExploreEventHeaderView.m */; settings = {ASSET_TAGS = (); }; };
+		5796ECC01BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796ECBF1BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.m */; settings = {ASSET_TAGS = (); }; };
+		5796ECC31BCCE4B10039FC9E /* WUExploreStoreDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796ECC21BCCE4B10039FC9E /* WUExploreStoreDetailViewController.m */; settings = {ASSET_TAGS = (); }; };
 		57A4F1701BC91F8200BB72D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F16F1BC91F8200BB72D4 /* main.m */; };
 		57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1721BC91F8200BB72D4 /* AppDelegate.m */; };
 		57A4F1791BC91F8200BB72D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F1771BC91F8200BB72D4 /* Main.storyboard */; };
@@ -98,6 +100,10 @@
 		5796EC6E1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreBeautyDayDetailViewController.m; sourceTree = "<group>"; };
 		5796EC701BCCC51F0039FC9E /* WUExploreEventHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreEventHeaderView.h; sourceTree = "<group>"; };
 		5796EC711BCCC51F0039FC9E /* WUExploreEventHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreEventHeaderView.m; sourceTree = "<group>"; };
+		5796ECBE1BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreStoreDiscoveryViewController.h; sourceTree = "<group>"; };
+		5796ECBF1BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreStoreDiscoveryViewController.m; sourceTree = "<group>"; };
+		5796ECC11BCCE4B10039FC9E /* WUExploreStoreDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreStoreDetailViewController.h; sourceTree = "<group>"; };
+		5796ECC21BCCE4B10039FC9E /* WUExploreStoreDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreStoreDetailViewController.m; sourceTree = "<group>"; };
 		57A4F16B1BC91F8200BB72D4 /* SmallDay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmallDay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A4F16F1BC91F8200BB72D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		57A4F1711BC91F8200BB72D4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -198,8 +204,8 @@
 				5796EC3D1BCB7FA20039FC9E /* WUExploreBeautyDayViewController.m */,
 				5796EC3F1BCB7FB60039FC9E /* WUExploreBeautyAlbumViewController.h */,
 				5796EC401BCB7FB60039FC9E /* WUExploreBeautyAlbumViewController.m */,
-				5796EC6D1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.h */,
-				5796EC6E1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.m */,
+				5796ECC41BCCE4BC0039FC9E /* 美天 */,
+				5796ECC51BCCE4C90039FC9E /* 美辑 */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -274,6 +280,26 @@
 				57A4F1BB1BCB4D3500BB72D4 /* WUMyViewController.m */,
 			);
 			name = Controller;
+			sourceTree = "<group>";
+		};
+		5796ECC41BCCE4BC0039FC9E /* 美天 */ = {
+			isa = PBXGroup;
+			children = (
+				5796EC6D1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.h */,
+				5796EC6E1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.m */,
+				5796ECBE1BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.h */,
+				5796ECBF1BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.m */,
+				5796ECC11BCCE4B10039FC9E /* WUExploreStoreDetailViewController.h */,
+				5796ECC21BCCE4B10039FC9E /* WUExploreStoreDetailViewController.m */,
+			);
+			name = "美天";
+			sourceTree = "<group>";
+		};
+		5796ECC51BCCE4C90039FC9E /* 美辑 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "美辑";
 			sourceTree = "<group>";
 		};
 		57A4F1621BC91F8200BB72D4 = {
@@ -624,6 +650,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5796EC411BCB7FB60039FC9E /* WUExploreBeautyAlbumViewController.m in Sources */,
+				5796ECC01BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.m in Sources */,
 				57A4F1BC1BCB4D3500BB72D4 /* WUMyViewController.m in Sources */,
 				5796EC691BCBB9FF0039FC9E /* WUAppUtils.m in Sources */,
 				57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */,
@@ -635,6 +662,7 @@
 				57A4F1B91BCB4D2A00BB72D4 /* WUClassifyViewController.m in Sources */,
 				57A4F1A91BCB49A600BB72D4 /* WUBaseViewController.m in Sources */,
 				5796EC721BCCC51F0039FC9E /* WUExploreEventHeaderView.m in Sources */,
+				5796ECC31BCCE4B10039FC9E /* WUExploreStoreDetailViewController.m in Sources */,
 				5796EC4D1BCBAA5F0039FC9E /* WUExploreEventCell.m in Sources */,
 				5796EC441BCBA6C00039FC9E /* WUBaseModel.m in Sources */,
 				5796EC481BCBAA4B0039FC9E /* WUExploreThemeCell.m in Sources */,

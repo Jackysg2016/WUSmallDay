@@ -50,15 +50,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="W5Z-gP-eLb">
-                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
-                                <animations/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <connections>
-                                    <outlet property="dataSource" destination="BGk-Wd-gJl" id="YFq-3j-ldJ"/>
-                                    <outlet property="delegate" destination="BGk-Wd-gJl" id="IZS-JQ-vPS"/>
-                                </connections>
-                            </tableView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ocy-wb-OU9">
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="200"/>
                                 <animations/>
@@ -77,23 +68,18 @@
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="W5Z-gP-eLb" firstAttribute="leading" secondItem="RMO-ug-Q4K" secondAttribute="leading" id="8jV-UY-oAV"/>
                             <constraint firstItem="ocy-wb-OU9" firstAttribute="leading" secondItem="RMO-ug-Q4K" secondAttribute="leading" id="DB4-qP-XdV"/>
                             <constraint firstItem="GSj-hB-jct" firstAttribute="leading" secondItem="RMO-ug-Q4K" secondAttribute="leading" id="KNh-fg-dwa"/>
-                            <constraint firstItem="W5Z-gP-eLb" firstAttribute="top" secondItem="RMO-ug-Q4K" secondAttribute="top" id="RM3-hq-fhE"/>
-                            <constraint firstItem="AxS-Yz-7hC" firstAttribute="top" secondItem="W5Z-gP-eLb" secondAttribute="bottom" id="WyT-ZV-DxU"/>
                             <constraint firstAttribute="trailing" secondItem="GSj-hB-jct" secondAttribute="trailing" id="ivj-V1-bAx"/>
                             <constraint firstItem="ocy-wb-OU9" firstAttribute="top" secondItem="RMO-ug-Q4K" secondAttribute="top" id="pVy-mN-rAt"/>
                             <constraint firstItem="GSj-hB-jct" firstAttribute="top" secondItem="ocy-wb-OU9" secondAttribute="bottom" id="rl5-1J-DI2"/>
                             <constraint firstAttribute="trailing" secondItem="ocy-wb-OU9" secondAttribute="trailing" id="ubq-55-AkB"/>
-                            <constraint firstAttribute="trailing" secondItem="W5Z-gP-eLb" secondAttribute="trailing" id="ymS-HR-107"/>
                         </constraints>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
                     <connections>
                         <outlet property="headerImageView" destination="ocy-wb-OU9" id="VQ3-TU-PGV"/>
                         <outlet property="headerTitleView" destination="GSj-hB-jct" id="qS1-Z3-vrw"/>
-                        <outlet property="tableView" destination="W5Z-gP-eLb" id="0Rd-uS-fcR"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="16W-SK-Ude" userLabel="First Responder" sceneMemberID="firstResponder"/>

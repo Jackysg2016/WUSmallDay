@@ -42,7 +42,6 @@
 - (UIButton *)discoveryBtn {
     if (!_discoveryBtn) {
         _discoveryBtn = [UIButton buttonWithType:UIButtonTypeCustom];
-        NSLog(@"%f",self.bounds.size.height);
         _discoveryBtn.frame = CGRectMake(0, 0, SCREEN_WIDTH/2, self.bounds.size.height);
         [_discoveryBtn setTitle:@"店·发现" forState:UIControlStateNormal];
         [_discoveryBtn setTitleColor:[UIColor blackColor] forState:UIControlStateNormal];

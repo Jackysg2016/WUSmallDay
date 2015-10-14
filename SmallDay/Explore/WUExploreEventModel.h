@@ -98,6 +98,7 @@
 @property (nonatomic ,copy) NSString *address;
 @property (nonatomic, strong) NSArray *imgs;
 @property (nonatomic, copy) NSString *feeltitle;
+@property (nonatomic, copy) NSString *mobileURL;
 
 @end
 
