@@ -10,6 +10,6 @@
 @class WUExploreEventModel;
 @interface WUExploreStoreDiscoveryViewController : WUBaseViewController
 
-- (instancetype)initWithModel:(WUExploreEventModel *)model;
+- (instancetype)initWithModel:(WUExploreEventModel *)model topSpaceConstraint:(NSLayoutConstraint *)topSpaceConstraint heightConstraint:(NSLayoutConstraint *)heightConstraint;
 
 @end

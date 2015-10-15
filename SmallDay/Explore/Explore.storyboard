@@ -58,15 +58,15 @@
                                 </constraints>
                             </imageView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GSj-hB-jct" customClass="WUExploreEventHeaderView">
-                                <rect key="frame" x="0.0" y="200" width="320" height="64"/>
+                                <rect key="frame" x="0.0" y="200" width="320" height="44"/>
                                 <animations/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="64" id="vm4-vd-Bzk"/>
+                                    <constraint firstAttribute="height" constant="44" id="vm4-vd-Bzk"/>
                                 </constraints>
                             </view>
                         </subviews>
                         <animations/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="1" green="0.32156862749999998" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="ocy-wb-OU9" firstAttribute="leading" secondItem="RMO-ug-Q4K" secondAttribute="leading" id="DB4-qP-XdV"/>
                             <constraint firstItem="GSj-hB-jct" firstAttribute="leading" secondItem="RMO-ug-Q4K" secondAttribute="leading" id="KNh-fg-dwa"/>
@@ -80,11 +80,13 @@
                     <connections>
                         <outlet property="headerImageView" destination="ocy-wb-OU9" id="VQ3-TU-PGV"/>
                         <outlet property="headerTitleView" destination="GSj-hB-jct" id="qS1-Z3-vrw"/>
+                        <outlet property="imgHeightConstraint" destination="0IG-hp-UFQ" id="aSO-ZG-loI"/>
+                        <outlet property="topSpaceConstraint" destination="pVy-mN-rAt" id="bwl-zm-UoY"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="16W-SK-Ude" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1730" y="452"/>
+            <point key="canvasLocation" x="1589" y="436"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="rCm-d6-5qI">

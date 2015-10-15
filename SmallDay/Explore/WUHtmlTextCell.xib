@@ -13,17 +13,26 @@
                 <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Kp-mX-wrb">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Kp-mX-wrb">
+                        <rect key="frame" x="5" y="0.0" width="310" height="43"/>
                         <animations/>
                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                         <nil key="highlightedColor"/>
                     </label>
                 </subviews>
                 <animations/>
+                <constraints>
+                    <constraint firstItem="6Kp-mX-wrb" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="5" id="Cba-06-GjQ"/>
+                    <constraint firstAttribute="trailing" secondItem="6Kp-mX-wrb" secondAttribute="trailing" constant="5" id="Kbo-HM-k8J"/>
+                    <constraint firstAttribute="bottom" secondItem="6Kp-mX-wrb" secondAttribute="bottom" id="bwF-fe-4zC"/>
+                    <constraint firstItem="6Kp-mX-wrb" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="npF-ok-nHh"/>
+                </constraints>
             </tableViewCellContentView>
             <animations/>
+            <connections>
+                <outlet property="contentLabel" destination="6Kp-mX-wrb" id="zbf-oh-9uM"/>
+            </connections>
         </tableViewCell>
     </objects>
 </document>

@@ -15,7 +15,15 @@
 
 @implementation WUHtmlModel
 
+- (instancetype)init {
+    if (self = [super init]) {
+        self.imgWidth = SCREEN_WIDTH - 10;
+    }
+    return self;
+}
+
 + (NSMutableArray *)parseHtml:(NSString *)htmlStr {
+
     NSMutableArray *dataArr = @[].mutableCopy;
     TFHpple *xpathParser = [[TFHpple alloc] initWithHTMLData:[htmlStr dataUsingEncoding:NSUTF8StringEncoding]];
     NSArray *array = [xpathParser searchWithXPathQuery:@"//p"];
@@ -45,30 +53,40 @@
                         model.isImg = YES;
                         
                         model.imgHeight = height*model.imgWidth/width;
-                        NSLog(@"%f",model.imgHeight);
                         model.imgUrl = subElement.attributes[@"src"];
                         
                         [dataArr addObject:model];
                     }
                 }
             }
-            
             if (element.content.length > 0) {
                 WUHtmlModel *model = [WUHtmlModel new];
                 model.isImg = NO;
                 model.text = element.content;
+                model.textHeight = [self heightForContent:element.content];
                 [dataArr addObject:model];
             }
-        }else {
-            WUHtmlModel *model = [WUHtmlModel new];
-            model.isImg = NO;
-            model.text = element.content;
-            [dataArr addObject:model];
+        }else{
+            if (element.content.length > 0) {
+                WUHtmlModel *model = [WUHtmlModel new];
+                model.isImg = NO;
+                model.text = element.content;
+                model.textHeight = [self heightForContent:element.content];
+                [dataArr addObject:model];
+            }
         }
         
     }
     return dataArr;
 
+}
+
++ (CGFloat)heightForContent:(NSString *)content{
+    NSMutableParagraphStyle *paragraphStyle = [[NSMutableParagraphStyle alloc] init];
+    paragraphStyle.lineSpacing = 4;
+    CGRect rect = [content boundingRectWithSize:CGSizeMake(SCREEN_WIDTH-10, 0) options:NSStringDrawingUsesLineFragmentOrigin|NSStringDrawingUsesFontLeading|NSStringDrawingTruncatesLastVisibleLine attributes:@{NSFontAttributeName:[UIFont systemFontOfSize:14],NSParagraphStyleAttributeName:paragraphStyle} context:nil];
+    NSLog(@"%@ \n %f",content,rect.size.height);
+    return rect.size.height;
 }
 
 @end

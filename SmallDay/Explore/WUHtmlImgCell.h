@@ -7,12 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
-
+@class WUHtmlModel;
 
 @interface WUHtmlImgCell : UITableViewCell
 
 + (instancetype)htmlImgCell;
 
-- (void)updateUIWithModel:
+- (void)updateUIWithModel:(WUHtmlModel *)model;
 
 @end

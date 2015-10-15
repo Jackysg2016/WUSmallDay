@@ -9,6 +9,15 @@
 //
 
 #import "WUHtmlImgCell.h"
+#import "WUHtmlModel.h"
+#import <UIImageView+WebCache.h>
+
+@interface WUHtmlImgCell()
+
+@property (weak, nonatomic) IBOutlet UIImageView *bgImageView;
+
+
+@end
 
 @implementation WUHtmlImgCell
 
@@ -24,6 +33,10 @@
     [super setSelected:selected animated:animated];
 
     // Configure the view for the selected state
+}
+
+- (void)updateUIWithModel:(WUHtmlModel *)model {
+    [self.bgImageView sd_setImageWithURL:[NSURL URLWithString:model.imgUrl] placeholderImage:nil];
 }
 
 @end

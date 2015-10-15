@@ -12,6 +12,8 @@
 
 @interface WUExploreStoreDetailViewController ()
 @property (nonatomic, strong) WUExploreEventModel *model;
+@property (nonatomic, strong) UITableView *tableView;
+
 
 @end
 
@@ -28,6 +30,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor blueColor];
+    self.tableView = [[UITableView alloc] initWithFrame:self.view.bounds style:UITableViewStylePlain];
+    [self.view addSubview:self.tableView ];
 }
 
 - (void)didReceiveMemoryWarning {

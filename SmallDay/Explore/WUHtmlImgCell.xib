@@ -27,6 +27,9 @@
                 </constraints>
             </tableViewCellContentView>
             <animations/>
+            <connections>
+                <outlet property="bgImageView" destination="S7W-8p-7H0" id="O9n-IK-0gp"/>
+            </connections>
         </tableViewCell>
     </objects>
 </document>

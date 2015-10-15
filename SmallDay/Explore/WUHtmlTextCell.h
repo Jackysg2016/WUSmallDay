@@ -7,7 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
-
+@class WUHtmlModel;
 @interface WUHtmlTextCell : UITableViewCell
+
++ (instancetype)htmlTextCell;
+
+- (void)updateUIWithModel:(WUHtmlModel *)model;
 
 @end

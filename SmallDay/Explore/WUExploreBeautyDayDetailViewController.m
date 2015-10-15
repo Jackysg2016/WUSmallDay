@@ -22,6 +22,10 @@
 
 @property (nonatomic, strong) UIPageViewController *pageController;
 @property (nonatomic, strong) NSArray *pageContent;
+@property (weak, nonatomic) IBOutlet NSLayoutConstraint *topSpaceConstraint;
+@property (weak, nonatomic) IBOutlet NSLayoutConstraint *imgHeightConstraint;
+
+
 
 @end
 
@@ -32,9 +36,10 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
+    self.automaticallyAdjustsScrollViewInsets = NO;
     [self.navigationController.navigationBar setBackgroundImage:[UIImage new] forBarMetrics:UIBarMetricsDefault];
     [self.navigationController.navigationBar setShadowImage:[UIImage new]];
-    
+//
     [self creatBarButtonItems];
     [self updateUIWithModel:self.model];
     
@@ -51,14 +56,16 @@
     self.pageController.dataSource = self;
     self.pageController.view.frame = self.view.bounds;
     
-    WUExploreStoreDiscoveryViewController *discoveryVc = [[WUExploreStoreDiscoveryViewController alloc] initWithModel:self.model];
+    WUExploreStoreDiscoveryViewController *discoveryVc = [[WUExploreStoreDiscoveryViewController alloc] initWithModel:self.model topSpaceConstraint:self.topSpaceConstraint heightConstraint:self.imgHeightConstraint];
     WUExploreStoreDetailViewController *detailVc = [[WUExploreStoreDetailViewController alloc] initWithModel:self.model];
     self.pageContent = @[discoveryVc,detailVc];
+
     [self.pageController setViewControllers:@[discoveryVc] direction:UIPageViewControllerNavigationDirectionReverse animated:YES completion:nil];
-    
+ 
     [self addChildViewController:self.pageController];
     [self.view addSubview:self.pageController.view];
     [self.view sendSubviewToBack:self.pageController.view];
+//    [self.pageController didMoveToParentViewController:self];
     
 }
 
