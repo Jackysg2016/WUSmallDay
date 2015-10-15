@@ -1,3 +1,5 @@
+
+
 //
 //  WUHtmlImgCell.m
 //  SmallDay
@@ -9,6 +11,10 @@
 #import "WUHtmlImgCell.h"
 
 @implementation WUHtmlImgCell
+
++ (instancetype)htmlImgCell {
+    return [[[NSBundle mainBundle] loadNibNamed:NSStringFromClass([self class]) owner:self options:nil] lastObject];
+}
 
 - (void)awakeFromNib {
     // Initialization code

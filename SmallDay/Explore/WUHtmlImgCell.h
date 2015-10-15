@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
+
 @interface WUHtmlImgCell : UITableViewCell
+
++ (instancetype)htmlImgCell;
+
+- (void)updateUIWithModel:
 
 @end

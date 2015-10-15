@@ -31,6 +31,15 @@
 		5796EC721BCCC51F0039FC9E /* WUExploreEventHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EC711BCCC51F0039FC9E /* WUExploreEventHeaderView.m */; settings = {ASSET_TAGS = (); }; };
 		5796ECC01BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796ECBF1BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.m */; settings = {ASSET_TAGS = (); }; };
 		5796ECC31BCCE4B10039FC9E /* WUExploreStoreDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796ECC21BCCE4B10039FC9E /* WUExploreStoreDetailViewController.m */; settings = {ASSET_TAGS = (); }; };
+		5796EEE01BCF93C20039FC9E /* WUHtmlImgCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EEDE1BCF93C20039FC9E /* WUHtmlImgCell.m */; settings = {ASSET_TAGS = (); }; };
+		5796EEE11BCF93C20039FC9E /* WUHtmlImgCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5796EEDF1BCF93C20039FC9E /* WUHtmlImgCell.xib */; settings = {ASSET_TAGS = (); }; };
+		5796EEE51BCF93D20039FC9E /* WUHtmlTextCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EEE31BCF93D20039FC9E /* WUHtmlTextCell.m */; settings = {ASSET_TAGS = (); }; };
+		5796EEE61BCF93D20039FC9E /* WUHtmlTextCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5796EEE41BCF93D20039FC9E /* WUHtmlTextCell.xib */; settings = {ASSET_TAGS = (); }; };
+		5796EEE91BCF947D0039FC9E /* WUHtmlModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EEE81BCF947D0039FC9E /* WUHtmlModel.m */; settings = {ASSET_TAGS = (); }; };
+		5796EEF11BCF95E60039FC9E /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EEEC1BCF95E60039FC9E /* TFHpple.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		5796EEF21BCF95E60039FC9E /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EEEE1BCF95E60039FC9E /* TFHppleElement.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		5796EEF31BCF95E60039FC9E /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 5796EEF01BCF95E60039FC9E /* XPathQuery.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		5796EEF51BCF96BC0039FC9E /* libxml2.2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 5796EEF41BCF96BC0039FC9E /* libxml2.2.tbd */; };
 		57A4F1701BC91F8200BB72D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F16F1BC91F8200BB72D4 /* main.m */; };
 		57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A4F1721BC91F8200BB72D4 /* AppDelegate.m */; };
 		57A4F1791BC91F8200BB72D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57A4F1771BC91F8200BB72D4 /* Main.storyboard */; };
@@ -104,6 +113,21 @@
 		5796ECBF1BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreStoreDiscoveryViewController.m; sourceTree = "<group>"; };
 		5796ECC11BCCE4B10039FC9E /* WUExploreStoreDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreStoreDetailViewController.h; sourceTree = "<group>"; };
 		5796ECC21BCCE4B10039FC9E /* WUExploreStoreDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreStoreDetailViewController.m; sourceTree = "<group>"; };
+		5796EEDD1BCF93C20039FC9E /* WUHtmlImgCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUHtmlImgCell.h; sourceTree = "<group>"; };
+		5796EEDE1BCF93C20039FC9E /* WUHtmlImgCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUHtmlImgCell.m; sourceTree = "<group>"; };
+		5796EEDF1BCF93C20039FC9E /* WUHtmlImgCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WUHtmlImgCell.xib; sourceTree = "<group>"; };
+		5796EEE21BCF93D20039FC9E /* WUHtmlTextCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUHtmlTextCell.h; sourceTree = "<group>"; };
+		5796EEE31BCF93D20039FC9E /* WUHtmlTextCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUHtmlTextCell.m; sourceTree = "<group>"; };
+		5796EEE41BCF93D20039FC9E /* WUHtmlTextCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WUHtmlTextCell.xib; sourceTree = "<group>"; };
+		5796EEE71BCF947D0039FC9E /* WUHtmlModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUHtmlModel.h; sourceTree = "<group>"; };
+		5796EEE81BCF947D0039FC9E /* WUHtmlModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUHtmlModel.m; sourceTree = "<group>"; };
+		5796EEEB1BCF95E60039FC9E /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHpple.h; sourceTree = "<group>"; };
+		5796EEEC1BCF95E60039FC9E /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHpple.m; sourceTree = "<group>"; };
+		5796EEED1BCF95E60039FC9E /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHppleElement.h; sourceTree = "<group>"; };
+		5796EEEE1BCF95E60039FC9E /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleElement.m; sourceTree = "<group>"; };
+		5796EEEF1BCF95E60039FC9E /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XPathQuery.h; sourceTree = "<group>"; };
+		5796EEF01BCF95E60039FC9E /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XPathQuery.m; sourceTree = "<group>"; };
+		5796EEF41BCF96BC0039FC9E /* libxml2.2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.2.tbd; path = usr/lib/libxml2.2.tbd; sourceTree = SDKROOT; };
 		57A4F16B1BC91F8200BB72D4 /* SmallDay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmallDay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A4F16F1BC91F8200BB72D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		57A4F1711BC91F8200BB72D4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -140,6 +164,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5796EEF51BCF96BC0039FC9E /* libxml2.2.tbd in Frameworks */,
 				BE8D0F928AE44F194A4D0FA6 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -172,6 +197,8 @@
 				5796EC621BCBB2C80039FC9E /* WUExploreEventModel.m */,
 				5796EC641BCBB2D50039FC9E /* WUExploreThemeModel.h */,
 				5796EC651BCBB2D50039FC9E /* WUExploreThemeModel.m */,
+				5796EEE71BCF947D0039FC9E /* WUHtmlModel.h */,
+				5796EEE81BCF947D0039FC9E /* WUHtmlModel.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -191,6 +218,12 @@
 				5796EC471BCBAA4B0039FC9E /* WUExploreThemeCell.xib */,
 				5796EC701BCCC51F0039FC9E /* WUExploreEventHeaderView.h */,
 				5796EC711BCCC51F0039FC9E /* WUExploreEventHeaderView.m */,
+				5796EEDD1BCF93C20039FC9E /* WUHtmlImgCell.h */,
+				5796EEDE1BCF93C20039FC9E /* WUHtmlImgCell.m */,
+				5796EEDF1BCF93C20039FC9E /* WUHtmlImgCell.xib */,
+				5796EEE21BCF93D20039FC9E /* WUHtmlTextCell.h */,
+				5796EEE31BCF93D20039FC9E /* WUHtmlTextCell.m */,
+				5796EEE41BCF93D20039FC9E /* WUHtmlTextCell.xib */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -300,6 +333,19 @@
 			children = (
 			);
 			name = "美辑";
+			sourceTree = "<group>";
+		};
+		5796EEEA1BCF95E60039FC9E /* TFHpple */ = {
+			isa = PBXGroup;
+			children = (
+				5796EEEB1BCF95E60039FC9E /* TFHpple.h */,
+				5796EEEC1BCF95E60039FC9E /* TFHpple.m */,
+				5796EEED1BCF95E60039FC9E /* TFHppleElement.h */,
+				5796EEEE1BCF95E60039FC9E /* TFHppleElement.m */,
+				5796EEEF1BCF95E60039FC9E /* XPathQuery.h */,
+				5796EEF01BCF95E60039FC9E /* XPathQuery.m */,
+			);
+			path = TFHpple;
 			sourceTree = "<group>";
 		};
 		57A4F1621BC91F8200BB72D4 = {
@@ -434,6 +480,7 @@
 			children = (
 				5796EC671BCBB9FF0039FC9E /* WUAppUtils.h */,
 				5796EC681BCBB9FF0039FC9E /* WUAppUtils.m */,
+				5796EEEA1BCF95E60039FC9E /* TFHpple */,
 			);
 			path = Tools;
 			sourceTree = "<group>";
@@ -441,6 +488,7 @@
 		794C35F6235D11121BECA389 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				5796EEF41BCF96BC0039FC9E /* libxml2.2.tbd */,
 				A997B3CFE4847447731E48F4 /* libPods.a */,
 			);
 			name = Frameworks;
@@ -567,10 +615,12 @@
 				5796EC3B1BCB7EE40039FC9E /* WUExploreTitleView.xib in Resources */,
 				5796EC501BCBAF400039FC9E /* beautyAlbumData.json in Resources */,
 				5796EC4E1BCBAA5F0039FC9E /* WUExploreEventCell.xib in Resources */,
+				5796EEE11BCF93C20039FC9E /* WUHtmlImgCell.xib in Resources */,
 				5796EC491BCBAA4B0039FC9E /* WUExploreThemeCell.xib in Resources */,
 				5796EC581BCBB0640039FC9E /* beautyDayData2.json in Resources */,
 				5796EC271BCB61710039FC9E /* My.storyboard in Resources */,
 				57A4F1AE1BCB4BA700BB72D4 /* viewControllers.plist in Resources */,
+				5796EEE61BCF93D20039FC9E /* WUHtmlTextCell.xib in Resources */,
 				5796EC161BCB60F00039FC9E /* Experience.storyboard in Resources */,
 				5796EC141BCB60CC0039FC9E /* Explore.storyboard in Resources */,
 				5796EC5A1BCBB1AC0039FC9E /* beautyDayData3.json in Resources */,
@@ -651,16 +701,22 @@
 			files = (
 				5796EC411BCB7FB60039FC9E /* WUExploreBeautyAlbumViewController.m in Sources */,
 				5796ECC01BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.m in Sources */,
+				5796EEE51BCF93D20039FC9E /* WUHtmlTextCell.m in Sources */,
+				5796EEE01BCF93C20039FC9E /* WUHtmlImgCell.m in Sources */,
 				57A4F1BC1BCB4D3500BB72D4 /* WUMyViewController.m in Sources */,
+				5796EEF11BCF95E60039FC9E /* TFHpple.m in Sources */,
 				5796EC691BCBB9FF0039FC9E /* WUAppUtils.m in Sources */,
 				57A4F1731BC91F8200BB72D4 /* AppDelegate.m in Sources */,
 				5796EC6F1BCCA5EE0039FC9E /* WUExploreBeautyDayDetailViewController.m in Sources */,
 				5796EC391BCB7ECB0039FC9E /* WUExploreTitleView.m in Sources */,
 				5796EC3E1BCB7FA20039FC9E /* WUExploreBeautyDayViewController.m in Sources */,
+				5796EEE91BCF947D0039FC9E /* WUHtmlModel.m in Sources */,
 				5796EC631BCBB2C80039FC9E /* WUExploreEventModel.m in Sources */,
+				5796EEF31BCF95E60039FC9E /* XPathQuery.m in Sources */,
 				57A4F1701BC91F8200BB72D4 /* main.m in Sources */,
 				57A4F1B91BCB4D2A00BB72D4 /* WUClassifyViewController.m in Sources */,
 				57A4F1A91BCB49A600BB72D4 /* WUBaseViewController.m in Sources */,
+				5796EEF21BCF95E60039FC9E /* TFHppleElement.m in Sources */,
 				5796EC721BCCC51F0039FC9E /* WUExploreEventHeaderView.m in Sources */,
 				5796ECC31BCCE4B10039FC9E /* WUExploreStoreDetailViewController.m in Sources */,
 				5796EC4D1BCBAA5F0039FC9E /* WUExploreEventCell.m in Sources */,
@@ -752,6 +808,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = /usr/include/libxml2;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -789,6 +846,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = /usr/include/libxml2;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
