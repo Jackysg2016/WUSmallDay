@@ -11,10 +11,11 @@
 #import "WUClassifyCell.h"
 #import "WUClassifyModel.h"
 
-@interface WUClassifyViewController ()<UICollectionViewDataSource>
+@interface WUClassifyViewController ()<UICollectionViewDataSource,UICollectionViewDelegate>
 
 @property (nonatomic ,strong) UICollectionView *collectionView;
 @property (nonatomic, strong) NSMutableArray *dataArr;
+@property (nonatomic, strong) NSMutableArray *sectionTitles;
 
 @end
 
@@ -31,6 +32,7 @@
     
     NSDictionary *data = [WUAppUtils dictionaryWithFileName:@"classifyData.json"];
     self.dataArr = @[].mutableCopy;
+    self.sectionTitles = @[].mutableCopy;
     for (NSDictionary *dict in data[@"list"]) {
         NSMutableArray *subDataArr = @[].mutableCopy;
         for (NSDictionary *subDict in dict[@"tags"]) {
@@ -38,6 +40,7 @@
             [subDataArr addObject:model];
         }
         [self.dataArr addObject:subDataArr];
+        [self.sectionTitles addObject:dict[@"title"]];
     }
     [self.collectionView reloadData];
     
@@ -52,6 +55,7 @@
         flowLayout.minimumLineSpacing = 0;
         _collectionView = [[UICollectionView alloc] initWithFrame:CGRectMake(0, 64, SCREEN_WIDTH, SCREEN_HEIGHT-64-49) collectionViewLayout:flowLayout];
         _collectionView.dataSource = self;
+        _collectionView.delegate =self;
         [_collectionView registerNib:[UINib nibWithNibName:NSStringFromClass([WUClassifyCell class]) bundle:nil] forCellWithReuseIdentifier:NSStringFromClass([WUClassifyCell class])];
         _collectionView.backgroundColor = [UIColor whiteColor];
     }
@@ -72,5 +76,8 @@
     [cell updateUIWithModel:self.dataArr[indexPath.section][indexPath.row]];
     return cell;
 }
+
+
+
 
 @end
