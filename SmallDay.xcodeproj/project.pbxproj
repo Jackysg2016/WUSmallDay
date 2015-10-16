@@ -12,6 +12,10 @@
 		578C21731BD0CD300055C7F1 /* UIImage+Image.m in Sources */ = {isa = PBXBuildFile; fileRef = 578C21721BD0CD300055C7F1 /* UIImage+Image.m */; settings = {ASSET_TAGS = (); }; };
 		578C21BA1BD0E5C70055C7F1 /* WUExploreBeautyAlbumDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 578C21B91BD0E5C70055C7F1 /* WUExploreBeautyAlbumDetailViewController.m */; settings = {ASSET_TAGS = (); }; };
 		578C21C11BD0F9C90055C7F1 /* moreData.json in Resources */ = {isa = PBXBuildFile; fileRef = 578C21C01BD0F9C90055C7F1 /* moreData.json */; settings = {ASSET_TAGS = (); }; };
+		578C21C31BD100960055C7F1 /* classifyData.json in Resources */ = {isa = PBXBuildFile; fileRef = 578C21C21BD100960055C7F1 /* classifyData.json */; settings = {ASSET_TAGS = (); }; };
+		578C21C61BD100BE0055C7F1 /* WUClassifyModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 578C21C51BD100BE0055C7F1 /* WUClassifyModel.m */; settings = {ASSET_TAGS = (); }; };
+		578C21CA1BD1012C0055C7F1 /* WUClassifyCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 578C21C81BD1012C0055C7F1 /* WUClassifyCell.m */; settings = {ASSET_TAGS = (); }; };
+		578C21CB1BD1012C0055C7F1 /* WUClassifyCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 578C21C91BD1012C0055C7F1 /* WUClassifyCell.xib */; settings = {ASSET_TAGS = (); }; };
 		5796EC141BCB60CC0039FC9E /* Explore.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC131BCB60CC0039FC9E /* Explore.storyboard */; settings = {ASSET_TAGS = (); }; };
 		5796EC161BCB60F00039FC9E /* Experience.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC151BCB60F00039FC9E /* Experience.storyboard */; settings = {ASSET_TAGS = (); }; };
 		5796EC221BCB61570039FC9E /* Classify.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC211BCB61570039FC9E /* Classify.storyboard */; settings = {ASSET_TAGS = (); }; };
@@ -88,6 +92,12 @@
 		578C21B81BD0E5C70055C7F1 /* WUExploreBeautyAlbumDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreBeautyAlbumDetailViewController.h; sourceTree = "<group>"; };
 		578C21B91BD0E5C70055C7F1 /* WUExploreBeautyAlbumDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreBeautyAlbumDetailViewController.m; sourceTree = "<group>"; };
 		578C21C01BD0F9C90055C7F1 /* moreData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = moreData.json; sourceTree = "<group>"; };
+		578C21C21BD100960055C7F1 /* classifyData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = classifyData.json; sourceTree = "<group>"; };
+		578C21C41BD100BE0055C7F1 /* WUClassifyModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUClassifyModel.h; sourceTree = "<group>"; };
+		578C21C51BD100BE0055C7F1 /* WUClassifyModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUClassifyModel.m; sourceTree = "<group>"; };
+		578C21C71BD1012C0055C7F1 /* WUClassifyCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUClassifyCell.h; sourceTree = "<group>"; };
+		578C21C81BD1012C0055C7F1 /* WUClassifyCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUClassifyCell.m; sourceTree = "<group>"; };
+		578C21C91BD1012C0055C7F1 /* WUClassifyCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WUClassifyCell.xib; sourceTree = "<group>"; };
 		5796EC121BCB57050039FC9E /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
 		5796EC131BCB60CC0039FC9E /* Explore.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Explore.storyboard; sourceTree = "<group>"; };
 		5796EC151BCB60F00039FC9E /* Experience.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Experience.storyboard; sourceTree = "<group>"; };
@@ -287,6 +297,9 @@
 		5796EC1D1BCB61330039FC9E /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				578C21C21BD100960055C7F1 /* classifyData.json */,
+				578C21C41BD100BE0055C7F1 /* WUClassifyModel.h */,
+				578C21C51BD100BE0055C7F1 /* WUClassifyModel.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -295,6 +308,9 @@
 			isa = PBXGroup;
 			children = (
 				5796EC211BCB61570039FC9E /* Classify.storyboard */,
+				578C21C71BD1012C0055C7F1 /* WUClassifyCell.h */,
+				578C21C81BD1012C0055C7F1 /* WUClassifyCell.m */,
+				578C21C91BD1012C0055C7F1 /* WUClassifyCell.xib */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -632,10 +648,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				578C21C31BD100960055C7F1 /* classifyData.json in Resources */,
 				5796EC221BCB61570039FC9E /* Classify.storyboard in Resources */,
 				5796EC3B1BCB7EE40039FC9E /* WUExploreTitleView.xib in Resources */,
 				5796EC501BCBAF400039FC9E /* beautyAlbumData.json in Resources */,
 				5796EC4E1BCBAA5F0039FC9E /* WUExploreEventCell.xib in Resources */,
+				578C21CB1BD1012C0055C7F1 /* WUClassifyCell.xib in Resources */,
 				5796EEE11BCF93C20039FC9E /* WUHtmlImgCell.xib in Resources */,
 				5796EC491BCBAA4B0039FC9E /* WUExploreThemeCell.xib in Resources */,
 				578C21701BD094100055C7F1 /* WUExploreStoreDetailCell.xib in Resources */,
@@ -722,6 +740,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				578C21C61BD100BE0055C7F1 /* WUClassifyModel.m in Sources */,
 				5796EC411BCB7FB60039FC9E /* WUExploreBeautyAlbumViewController.m in Sources */,
 				5796ECC01BCCE4A10039FC9E /* WUExploreStoreDiscoveryViewController.m in Sources */,
 				5796EEE51BCF93D20039FC9E /* WUHtmlTextCell.m in Sources */,
@@ -742,6 +761,7 @@
 				57A4F1B91BCB4D2A00BB72D4 /* WUClassifyViewController.m in Sources */,
 				57A4F1A91BCB49A600BB72D4 /* WUBaseViewController.m in Sources */,
 				5796EEF21BCF95E60039FC9E /* TFHppleElement.m in Sources */,
+				578C21CA1BD1012C0055C7F1 /* WUClassifyCell.m in Sources */,
 				5796EC721BCCC51F0039FC9E /* WUExploreEventHeaderView.m in Sources */,
 				5796ECC31BCCE4B10039FC9E /* WUExploreStoreDetailViewController.m in Sources */,
 				5796EC4D1BCBAA5F0039FC9E /* WUExploreEventCell.m in Sources */,
