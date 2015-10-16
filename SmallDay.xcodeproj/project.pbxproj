@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		578C216F1BD094100055C7F1 /* WUExploreStoreDetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 578C216D1BD094100055C7F1 /* WUExploreStoreDetailCell.m */; settings = {ASSET_TAGS = (); }; };
+		578C21701BD094100055C7F1 /* WUExploreStoreDetailCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 578C216E1BD094100055C7F1 /* WUExploreStoreDetailCell.xib */; settings = {ASSET_TAGS = (); }; };
 		5796EC141BCB60CC0039FC9E /* Explore.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC131BCB60CC0039FC9E /* Explore.storyboard */; settings = {ASSET_TAGS = (); }; };
 		5796EC161BCB60F00039FC9E /* Experience.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC151BCB60F00039FC9E /* Experience.storyboard */; settings = {ASSET_TAGS = (); }; };
 		5796EC221BCB61570039FC9E /* Classify.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5796EC211BCB61570039FC9E /* Classify.storyboard */; settings = {ASSET_TAGS = (); }; };
@@ -75,6 +77,9 @@
 
 /* Begin PBXFileReference section */
 		19BB5DF0D0B25747D507C748 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		578C216C1BD094100055C7F1 /* WUExploreStoreDetailCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WUExploreStoreDetailCell.h; sourceTree = "<group>"; };
+		578C216D1BD094100055C7F1 /* WUExploreStoreDetailCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WUExploreStoreDetailCell.m; sourceTree = "<group>"; };
+		578C216E1BD094100055C7F1 /* WUExploreStoreDetailCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WUExploreStoreDetailCell.xib; sourceTree = "<group>"; };
 		5796EC121BCB57050039FC9E /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
 		5796EC131BCB60CC0039FC9E /* Explore.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Explore.storyboard; sourceTree = "<group>"; };
 		5796EC151BCB60F00039FC9E /* Experience.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Experience.storyboard; sourceTree = "<group>"; };
@@ -224,6 +229,9 @@
 				5796EEE21BCF93D20039FC9E /* WUHtmlTextCell.h */,
 				5796EEE31BCF93D20039FC9E /* WUHtmlTextCell.m */,
 				5796EEE41BCF93D20039FC9E /* WUHtmlTextCell.xib */,
+				578C216C1BD094100055C7F1 /* WUExploreStoreDetailCell.h */,
+				578C216D1BD094100055C7F1 /* WUExploreStoreDetailCell.m */,
+				578C216E1BD094100055C7F1 /* WUExploreStoreDetailCell.xib */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -617,6 +625,7 @@
 				5796EC4E1BCBAA5F0039FC9E /* WUExploreEventCell.xib in Resources */,
 				5796EEE11BCF93C20039FC9E /* WUHtmlImgCell.xib in Resources */,
 				5796EC491BCBAA4B0039FC9E /* WUExploreThemeCell.xib in Resources */,
+				578C21701BD094100055C7F1 /* WUExploreStoreDetailCell.xib in Resources */,
 				5796EC581BCBB0640039FC9E /* beautyDayData2.json in Resources */,
 				5796EC271BCB61710039FC9E /* My.storyboard in Resources */,
 				57A4F1AE1BCB4BA700BB72D4 /* viewControllers.plist in Resources */,
@@ -711,6 +720,7 @@
 				5796EC391BCB7ECB0039FC9E /* WUExploreTitleView.m in Sources */,
 				5796EC3E1BCB7FA20039FC9E /* WUExploreBeautyDayViewController.m in Sources */,
 				5796EEE91BCF947D0039FC9E /* WUHtmlModel.m in Sources */,
+				578C216F1BD094100055C7F1 /* WUExploreStoreDetailCell.m in Sources */,
 				5796EC631BCBB2C80039FC9E /* WUExploreEventModel.m in Sources */,
 				5796EEF31BCF95E60039FC9E /* XPathQuery.m in Sources */,
 				57A4F1701BC91F8200BB72D4 /* main.m in Sources */,

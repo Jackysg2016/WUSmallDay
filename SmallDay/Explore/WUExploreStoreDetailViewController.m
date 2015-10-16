@@ -9,8 +9,12 @@
 #import "WUExploreStoreDetailViewController.h"
 
 #import "WUExploreEventModel.h"
+#import "WUExploreStoreDetailCell.h"
 
-@interface WUExploreStoreDetailViewController ()
+#define kHeadH SCREEN_WIDTH*5/8 //头视图的高度
+#define kBarH 44
+
+@interface WUExploreStoreDetailViewController ()<UITableViewDataSource>
 @property (nonatomic, strong) WUExploreEventModel *model;
 @property (nonatomic, strong) UITableView *tableView;
 
@@ -30,23 +34,42 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor blueColor];
-    self.tableView = [[UITableView alloc] initWithFrame:self.view.bounds style:UITableViewStylePlain];
-    [self.view addSubview:self.tableView ];
+    [self.view addSubview:self.tableView];
+ 
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (UITableView *)tableView {
+    if (!_tableView) {
+        _tableView = [[UITableView alloc] initWithFrame:self.view.bounds style:UITableViewStylePlain];
+        _tableView.contentInset = UIEdgeInsetsMake(kHeadH + kBarH, 0, 0, 0);
+        _tableView.dataSource = self;
+        [_tableView registerNib:[UINib nibWithNibName:NSStringFromClass([WUExploreStoreDetailCell class]) bundle:nil] forCellReuseIdentifier:NSStringFromClass([WUExploreStoreDetailCell class])];
+        _tableView.rowHeight = 62;
+        _tableView.tableFooterView = [[UIView alloc] init];
+        UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, SCREEN_WIDTH, 44)];
+        label.textAlignment = NSTextAlignmentCenter;
+        
+        label.text = [NSString stringWithFormat:@"「 %@ 」",self.model.remark];
+        _tableView.tableHeaderView = label;
+    }
+    return _tableView;
 }
 
-/*
-#pragma mark - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
+#pragma mark - UITableViewDataSource
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
+    return 1;
 }
-*/
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+    return 3;
+}
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+    WUExploreStoreDetailCell *cell = [tableView dequeueReusableCellWithIdentifier:NSStringFromClass([WUExploreStoreDetailCell class]) forIndexPath:indexPath];
+    [cell updateUIWihtModel:self.model index:indexPath.row];
+    return cell;
+    
+}
+
 
 @end

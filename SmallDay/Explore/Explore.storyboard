@@ -2,7 +2,6 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8191" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
-        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
     </dependencies>
     <scenes>
         <!--Explore View Controller-->
@@ -50,11 +49,11 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ocy-wb-OU9">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ocy-wb-OU9">
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="200"/>
                                 <animations/>
                                 <constraints>
-                                    <constraint firstAttribute="width" secondItem="ocy-wb-OU9" secondAttribute="height" multiplier="8:5" id="0IG-hp-UFQ"/>
+                                    <constraint firstAttribute="height" constant="200" id="Mck-O4-kcN"/>
                                 </constraints>
                             </imageView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GSj-hB-jct" customClass="WUExploreEventHeaderView">
@@ -80,7 +79,7 @@
                     <connections>
                         <outlet property="headerImageView" destination="ocy-wb-OU9" id="VQ3-TU-PGV"/>
                         <outlet property="headerTitleView" destination="GSj-hB-jct" id="qS1-Z3-vrw"/>
-                        <outlet property="imgHeightConstraint" destination="0IG-hp-UFQ" id="aSO-ZG-loI"/>
+                        <outlet property="imgHeightConstraint" destination="Mck-O4-kcN" id="OK1-91-GAB"/>
                         <outlet property="topSpaceConstraint" destination="pVy-mN-rAt" id="bwl-zm-UoY"/>
                     </connections>
                 </viewController>

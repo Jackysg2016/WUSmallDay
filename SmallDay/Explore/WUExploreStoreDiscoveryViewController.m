@@ -41,6 +41,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.view .backgroundColor = [UIColor blueColor];
+    self.automaticallyAdjustsScrollViewInsets = NO;
     
     [self.view addSubview:self.tableView];
     
@@ -129,7 +130,6 @@
 }
 
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView {
-    
   
     CGFloat beginOffsetY = -(kHeadH + kBarH);
     CGFloat offsetY = scrollView.contentOffset.y - beginOffsetY;
@@ -140,38 +140,9 @@
             self.imgTopSpaceConstraint.constant = beginOffsetY+64+44;
         }
     }else {//向下拖拽
-        self.imgHeightConstraint.constant= -offsetY;
+        
+        self.imgHeightConstraint.constant = kHeadH - offsetY;
     }
-    
-
-    
-    
-    
-//    //计算偏移量，默认是-289；
-//    CGFloat beginOffsetY = -(kHeadH + kBarH);
-//    CGFloat offsetY = scrollView.contentOffset.y - beginOffsetY;
-//    
-//    //向下拉: offsetY为负值，并且越来越小 这时图片高度需要变大
-//    //向上拉: offsetY为正值，并且越来越大，这是图片高度需要变小
-//    
-//    //所以
-//    CGFloat height = kHeadH - offsetY;
-//    //当向上拖动的时候，头视图会越来越小，为了让选项卡，能够停留在导航栏下方。需要设置图片的最小高度是64。
-//    if (height < kHeadMinH) {
-//        height = kHeadMinH;
-//    }
-//    
-//    self.headViewHeight.constant = height;
-//    
-//    
-//    // 设置导航条的透明度
-//    CGFloat alpha = offsetY / (kHeadH - kHeadMinH);
-//    if (alpha >=1) {
-//        alpha = 1;
-//    }
-//    NSLog(@"%f",alpha);
-//    self.navigationController.navigationBar.alpha = alpha;
-//    self.visualEffectView.alpha = alpha;
     
 }
 

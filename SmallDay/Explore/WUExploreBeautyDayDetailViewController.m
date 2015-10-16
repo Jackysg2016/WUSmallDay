@@ -39,6 +39,7 @@
     self.automaticallyAdjustsScrollViewInsets = NO;
     [self.navigationController.navigationBar setBackgroundImage:[UIImage new] forBarMetrics:UIBarMetricsDefault];
     [self.navigationController.navigationBar setShadowImage:[UIImage new]];
+    self.imgHeightConstraint.constant = SCREEN_WIDTH *5/8;
 //
     [self creatBarButtonItems];
     [self updateUIWithModel:self.model];

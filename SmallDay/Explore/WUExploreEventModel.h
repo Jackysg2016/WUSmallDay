@@ -99,6 +99,8 @@
 @property (nonatomic, strong) NSArray *imgs;
 @property (nonatomic, copy) NSString *feeltitle;
 @property (nonatomic, copy) NSString *mobileURL;
+@property (nonatomic, copy) NSString *remark;
+@property (nonatomic ,copy) NSString *telephone;
 
 @end
 
