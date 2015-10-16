@@ -10,6 +10,7 @@
 
 #import "WUExploreThemeCell.h"
 #import "WUExploreThemeModel.h"
+#import "WUExploreBeautyAlbumDetailViewController.h"
 
 @interface WUExploreBeautyAlbumViewController ()<UITableViewDataSource,UITableViewDelegate>
 @property (nonatomic, strong) UITableView *tableView;
@@ -60,6 +61,14 @@
     WUExploreThemeCell *cell = [tableView dequeueReusableCellWithIdentifier:@"themeCell" forIndexPath:indexPath];
     [cell updateUIWithModel:self.dataArr[indexPath.row]];
     return cell;
+}
+
+#pragma mark - UITableViewDelegate
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    [tableView deselectRowAtIndexPath:indexPath animated:YES];
+    WUExploreBeautyAlbumDetailViewController *vc = [[WUExploreBeautyAlbumDetailViewController alloc] initWithModel:self.dataArr[indexPath.row]];
+    vc.hidesBottomBarWhenPushed = YES;
+    [self.navigationController pushViewController:vc animated:YES];
 }
 
 @end

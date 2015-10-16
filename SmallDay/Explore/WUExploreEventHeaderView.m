@@ -45,6 +45,7 @@
         _discoveryBtn.frame = CGRectMake(0, 0, SCREEN_WIDTH/2, self.bounds.size.height);
         [_discoveryBtn setTitle:@"店·发现" forState:UIControlStateNormal];
         [_discoveryBtn setTitleColor:[UIColor blackColor] forState:UIControlStateNormal];
+        [_discoveryBtn addTarget:self action:@selector(discoveryBtnClick:) forControlEvents:UIControlEventTouchUpInside];
     }
     return _discoveryBtn;
 }
@@ -55,6 +56,7 @@
         _detailBtn.frame = CGRectMake(SCREEN_WIDTH/2, 0, SCREEN_WIDTH/2, self.bounds.size.height);
         [_detailBtn setTitle:@"店·详情" forState:UIControlStateNormal];
         [_detailBtn setTitleColor:[UIColor blackColor] forState:UIControlStateNormal];
+        [_detailBtn addTarget:self action:@selector(detailBtnClick:) forControlEvents:UIControlEventTouchUpInside];
     }
     return _detailBtn;
 }
@@ -68,8 +70,40 @@
     return _bottomLine;
 }
 
+#pragma mark - Target Action
+- (void)discoveryBtnClick:(UIButton *)button {
+    self.discoveryBtn.selected = YES;
+    self.detailBtn.selected = NO;
+    [self selectButtonAtIndex:0];
+}
 
+- (void)detailBtnClick:(UIButton *)button {
+    self.detailBtn.selected = YES;
+    self.discoveryBtn.selected = NO;
+    [self selectButtonAtIndex:1];
+}
 
+- (void)selectButtonAtIndex:(NSInteger)index {
+    
+    CGFloat x = index == 0 ? 0 :self.frame.size.width/2;
+    
+    [UIView animateWithDuration:0.3f delay:0.0 options:UIViewAnimationOptionCurveEaseInOut animations:^{
+        self.bottomLine.frame = CGRectMake(x, 43, self.bottomLine.bounds.size.width, self.bottomLine.bounds.size.height);
+    } completion:^(BOOL finished) {
+        if ([self.delegate respondsToSelector:@selector(exploreEventHeaderView:didSelectedItemAtIndex:)]) {
+            [self.delegate exploreEventHeaderView:self didSelectedItemAtIndex:index];
+        }
+    }];
+}
+
+- (void)selectItemAtIndex:(NSInteger)index {
+    if (index == 0) {
+        [self discoveryBtnClick:self.discoveryBtn];
+        
+    }else {
+        [self detailBtnClick:self.detailBtn];
+    }
+}
 
 
 

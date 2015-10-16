@@ -27,6 +27,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
+    self.navigationItem.title = @"探店";
+    
     //设置navigationBar的titleView
     self.navigationItem.titleView = self.exploreTitleView;
     

@@ -53,19 +53,9 @@
     });
     
 
-//    UIButton *button = [UIButton buttonWithType:UIButtonTypeSystem];
-//    [button setTitle:@"snfiosbdfi" forState:UIControlStateNormal];
-//    button.frame = CGRectMake(20, 64, 200, 80);
-//    button.backgroundColor = [UIColor greenColor];
-//    [self.view addSubview:button];
     
     
    
-}
-
-- (void)viewWillAppear:(BOOL)animated {
-    [super viewWillAppear:animated];
-    self.tableView.frame = self.view.bounds;
 }
 
 - (UITableView *)tableView {
@@ -131,20 +121,11 @@
 
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView {
   
-    CGFloat beginOffsetY = -(kHeadH + kBarH);
-    CGFloat offsetY = scrollView.contentOffset.y - beginOffsetY;
-
-    if (offsetY > 0) {//向上拖拽
-        self.imgTopSpaceConstraint.constant = -offsetY;
-        if (self.imgTopSpaceConstraint.constant <=beginOffsetY+64+44) {
-            self.imgTopSpaceConstraint.constant = beginOffsetY+64+44;
-        }
-    }else {//向下拖拽
-        
-        self.imgHeightConstraint.constant = kHeadH - offsetY;
-    }
+     [[NSNotificationCenter defaultCenter] postNotificationName:NOTIFICATION_UPDATE_IMAGE_CONSTRAINT object:nil userInfo:@{@"offsetY":[NSNumber numberWithFloat:scrollView.contentOffset.y]}];
     
 }
+
+
 
 
 /*

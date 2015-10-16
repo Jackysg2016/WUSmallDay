@@ -7,7 +7,17 @@
 //
 
 #import <UIKit/UIKit.h>
+@class WUExploreEventHeaderView;
+@protocol WUExploreEventHeaderViewDelegate<NSObject>
+
+- (void)exploreEventHeaderView:(WUExploreEventHeaderView *)exploreEventHeaderView didSelectedItemAtIndex:(NSInteger)index;
+
+@end
 
 @interface WUExploreEventHeaderView : UIView
+
+@property (nonatomic, weak) id<WUExploreEventHeaderViewDelegate> delegate;
+
+- (void)selectItemAtIndex:(NSInteger)index;
 
 @end

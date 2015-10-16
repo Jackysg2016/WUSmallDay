@@ -13,6 +13,8 @@
 #import "WUExploreEventModel.h"
 #import "WUExploreThemeModel.h"
 #import "WUExploreBeautyDayDetailViewController.h"
+#import "WUExploreBeautyAlbumDetailViewController.h"
+
 
 @interface WUExploreBeautyDayViewController ()<UITableViewDataSource,UITableViewDelegate>
 @property (nonatomic, strong) UITableView *tableView;
@@ -24,6 +26,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    self.automaticallyAdjustsScrollViewInsets = NO;
     [self.view addSubview:self.tableView];
     
     [self loadData];
@@ -104,11 +107,18 @@
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     [tableView deselectRowAtIndexPath:indexPath animated:YES];
     
-    UIStoryboard *storyBoard = [UIStoryboard storyboardWithName:@"Explore" bundle:nil];
-    WUExploreBeautyDayDetailViewController *vc = [storyBoard instantiateViewControllerWithIdentifier:@"WUExploreBeautyDayDetailViewController"];
-    [vc setDataModel:self.dataArr[indexPath.row]];
-    vc.hidesBottomBarWhenPushed = YES;
-    [self.navigationController pushViewController:vc animated:YES];
+    if ([self.dataArr[indexPath.row] isKindOfClass:[WUExploreEventModel class]]) {
+        UIStoryboard *storyBoard = [UIStoryboard storyboardWithName:@"Explore" bundle:nil];
+        WUExploreBeautyDayDetailViewController *vc = [storyBoard instantiateViewControllerWithIdentifier:@"WUExploreBeautyDayDetailViewController"];
+        [vc setDataModel:self.dataArr[indexPath.row]];
+        vc.hidesBottomBarWhenPushed = YES;
+        [self.navigationController pushViewController:vc animated:YES];
+    }else {
+        WUExploreBeautyAlbumDetailViewController *vc = [[WUExploreBeautyAlbumDetailViewController alloc] initWithModel:self.dataArr[indexPath.row]];
+        vc.hidesBottomBarWhenPushed = YES;
+        [self.navigationController pushViewController:vc animated:YES];
+    }
+    
 }
 
 

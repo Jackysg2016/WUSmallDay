@@ -28,5 +28,6 @@
 @property (nonatomic, copy) NSString *title;
 @property (nonatomic, copy) NSString *keywords;
 @property (nonatomic, copy) NSString *img;
+@property (nonatomic, copy) NSString *themeurl;
 
 @end
